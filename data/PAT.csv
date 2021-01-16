@@ -1,0 +1,1705 @@
+TML_DTA_SOMM,TML_VAX_FORNITORE,TML_DES_STRUTTURA,TML_AREA,TML_FASCIA_ETA,TML_SESSO_M,TML_SESSO_F,TML_CAT_OSS,TML_CAT_PERSONALE,TML_CAT_RSA_OSPITI,TML_CAT_ALTRO,TML_DOSE_1,TML_DOSE_2,TML_REGIONE
+2020-12-27,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,20-29,1,0,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,50-59,1,0,0,0,1,0,1,0,P.A. Trento
+2020-12-27,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,80-89,1,0,0,0,1,0,1,0,P.A. Trento
+2020-12-27,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2020-12-27,PF/BT,APSP Città di Riva di Riva del Garda,PAT,50-59,0,3,3,0,0,0,3,0,P.A. Trento
+2020-12-27,PF/BT,APSP Città di Riva di Riva del Garda,PAT,60-69,0,1,0,0,1,0,1,0,P.A. Trento
+2020-12-27,PF/BT,APSP Città di Riva di Riva del Garda,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2020-12-27,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,70-79,1,0,0,0,1,0,1,0,P.A. Trento
+2020-12-27,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,80-89,0,2,0,0,2,0,2,0,P.A. Trento
+2020-12-27,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,40-49,1,0,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,70-79,0,1,0,0,1,0,1,0,P.A. Trento
+2020-12-27,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,80-89,0,2,0,0,2,0,2,0,P.A. Trento
+2020-12-27,PF/BT,APSP San Gaetano di Predazzo,PAT,50-59,0,2,2,0,0,0,2,0,P.A. Trento
+2020-12-27,PF/BT,APSP San Gaetano di Predazzo,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2020-12-27,PF/BT,APSP San Gaetano di Predazzo,PAT,90+,0,2,0,0,2,0,2,0,P.A. Trento
+2020-12-27,PF/BT,APSP Santa Maria di Cles,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2020-12-27,PF/BT,APSP Santa Maria di Cles,PAT,70-79,1,0,0,0,1,0,1,0,P.A. Trento
+2020-12-27,PF/BT,APSP Santa Maria di Cles,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2020-12-27,PF/BT,APSP Santa Maria di Cles,PAT,90+,1,0,0,0,1,0,1,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,40-49,1,0,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,50-59,1,0,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,60-69,2,0,2,0,0,0,2,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale di Arco,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale di Arco,PAT,50-59,2,0,2,0,0,0,2,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale di Arco,PAT,60-69,1,0,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale di Fiemme di Cavalese,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale di Fiemme di Cavalese,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale di Fiemme di Cavalese,PAT,60-69,3,0,3,0,0,0,3,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale di Tione,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale di Tione,PAT,50-59,2,0,2,0,0,0,2,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale di Tione,PAT,60-69,1,0,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale S.Chiara di Trento,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale S.Chiara di Trento,PAT,30-39,2,1,3,0,0,0,3,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale S.Chiara di Trento,PAT,40-49,2,5,7,0,0,0,7,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale S.Chiara di Trento,PAT,50-59,4,9,11,2,0,0,13,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale S.Chiara di Trento,PAT,60-69,6,4,9,1,0,0,10,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,40-49,1,1,2,0,0,0,2,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,50-59,0,2,2,0,0,0,2,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,40-49,1,1,2,0,0,0,2,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,60-69,1,0,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,SPES Villa Belfonte di Trento,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,SPES Villa Belfonte di Trento,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-27,PF/BT,SPES Villa Belfonte di Trento,PAT,70-79,1,0,0,0,1,0,1,0,P.A. Trento
+2020-12-27,PF/BT,SPES Villa Belfonte di Trento,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2020-12-27,PF/BT,SPES Villa Belfonte di Trento,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2020-12-31,PF/BT,APSP Bezzecca Ledro,PAT,20-29,1,2,3,0,0,0,3,0,P.A. Trento
+2020-12-31,PF/BT,APSP Bezzecca Ledro,PAT,30-39,2,5,5,2,0,0,7,0,P.A. Trento
+2020-12-31,PF/BT,APSP Bezzecca Ledro,PAT,40-49,5,7,8,4,0,0,12,0,P.A. Trento
+2020-12-31,PF/BT,APSP Bezzecca Ledro,PAT,50-59,3,13,12,1,3,0,16,0,P.A. Trento
+2020-12-31,PF/BT,APSP Bezzecca Ledro,PAT,60-69,1,10,9,0,2,0,11,0,P.A. Trento
+2020-12-31,PF/BT,APSP Bezzecca Ledro,PAT,70-79,2,0,0,0,2,0,2,0,P.A. Trento
+2020-12-31,PF/BT,APSP Bezzecca Ledro,PAT,80-89,5,19,0,0,24,0,24,0,P.A. Trento
+2020-12-31,PF/BT,APSP Bezzecca Ledro,PAT,90+,1,13,0,0,14,0,14,0,P.A. Trento
+2020-12-31,PF/BT,APSP Campagnola Avio,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-31,PF/BT,APSP Campagnola Avio,PAT,50-59,1,4,4,1,0,0,5,0,P.A. Trento
+2020-12-31,PF/BT,APSP Campagnola Avio,PAT,60-69,1,2,0,0,3,0,3,0,P.A. Trento
+2020-12-31,PF/BT,APSP Campagnola Avio,PAT,70-79,6,5,0,0,11,0,11,0,P.A. Trento
+2020-12-31,PF/BT,APSP Campagnola Avio,PAT,80-89,6,12,0,0,18,0,18,0,P.A. Trento
+2020-12-31,PF/BT,APSP Campagnola Avio,PAT,90+,3,13,0,0,16,0,16,0,P.A. Trento
+2020-12-31,PF/BT,APSP Città di Riva di Riva del Garda,PAT,30-39,0,1,0,1,0,0,1,0,P.A. Trento
+2020-12-31,PF/BT,APSP Città di Riva di Riva del Garda,PAT,40-49,1,2,1,2,0,0,3,0,P.A. Trento
+2020-12-31,PF/BT,APSP Città di Riva di Riva del Garda,PAT,50-59,4,6,7,3,0,0,10,0,P.A. Trento
+2020-12-31,PF/BT,APSP Città di Riva di Riva del Garda,PAT,60-69,2,5,3,2,2,0,7,0,P.A. Trento
+2020-12-31,PF/BT,APSP Città di Riva di Riva del Garda,PAT,70-79,2,1,1,0,2,0,3,0,P.A. Trento
+2020-12-31,PF/BT,APSP Opera Romani Nomi,PAT,16-19,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-31,PF/BT,APSP Opera Romani Nomi,PAT,20-29,6,7,12,1,0,0,13,0,P.A. Trento
+2020-12-31,PF/BT,APSP Opera Romani Nomi,PAT,30-39,1,8,9,0,0,0,9,0,P.A. Trento
+2020-12-31,PF/BT,APSP Opera Romani Nomi,PAT,40-49,5,24,22,7,0,0,29,0,P.A. Trento
+2020-12-31,PF/BT,APSP Opera Romani Nomi,PAT,50-59,9,39,23,25,0,0,48,0,P.A. Trento
+2020-12-31,PF/BT,APSP Opera Romani Nomi,PAT,60-69,0,10,8,2,0,0,10,0,P.A. Trento
+2020-12-31,PF/BT,APSP Opera Romani Nomi,PAT,70-79,0,2,0,0,2,0,2,0,P.A. Trento
+2020-12-31,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,20-29,0,5,5,0,0,0,5,0,P.A. Trento
+2020-12-31,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,30-39,0,4,4,0,0,0,4,0,P.A. Trento
+2020-12-31,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,40-49,0,7,7,0,0,0,7,0,P.A. Trento
+2020-12-31,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,50-59,1,11,11,0,1,0,12,0,P.A. Trento
+2020-12-31,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,60-69,0,3,3,0,0,0,3,0,P.A. Trento
+2020-12-31,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,70-79,1,2,0,0,3,0,3,0,P.A. Trento
+2020-12-31,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,80-89,5,8,0,0,13,0,13,0,P.A. Trento
+2020-12-31,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,90+,0,7,0,0,7,0,7,0,P.A. Trento
+2020-12-31,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,20-29,0,5,4,1,0,0,5,0,P.A. Trento
+2020-12-31,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2020-12-31,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,40-49,0,6,5,1,0,0,6,0,P.A. Trento
+2020-12-31,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,50-59,1,19,14,6,0,0,20,0,P.A. Trento
+2020-12-31,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,60-69,4,3,2,2,3,0,7,0,P.A. Trento
+2020-12-31,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,70-79,5,6,0,0,11,0,11,0,P.A. Trento
+2020-12-31,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,80-89,5,16,0,0,21,0,21,0,P.A. Trento
+2020-12-31,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,90+,1,13,0,0,14,0,14,0,P.A. Trento
+2020-12-31,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,20-29,0,4,4,0,0,0,4,0,P.A. Trento
+2020-12-31,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,30-39,1,3,3,1,0,0,4,0,P.A. Trento
+2020-12-31,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,40-49,0,13,12,1,0,0,13,0,P.A. Trento
+2020-12-31,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,50-59,1,8,9,0,0,0,9,0,P.A. Trento
+2020-12-31,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,60-69,2,2,2,0,2,0,4,0,P.A. Trento
+2020-12-31,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,70-79,4,1,1,0,4,0,5,0,P.A. Trento
+2020-12-31,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,80-89,3,5,0,0,8,0,8,0,P.A. Trento
+2020-12-31,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,90+,1,6,0,0,7,0,7,0,P.A. Trento
+2020-12-31,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,30-39,1,2,3,0,0,0,3,0,P.A. Trento
+2020-12-31,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-31,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,50-59,2,1,1,1,1,0,3,0,P.A. Trento
+2020-12-31,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-31,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2020-12-31,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,90+,0,3,0,0,3,0,3,0,P.A. Trento
+2020-12-31,PF/BT,APSP S.Vigilio Spiazzo,PAT,20-29,0,5,5,0,0,0,5,0,P.A. Trento
+2020-12-31,PF/BT,APSP S.Vigilio Spiazzo,PAT,30-39,2,7,8,1,0,0,9,0,P.A. Trento
+2020-12-31,PF/BT,APSP S.Vigilio Spiazzo,PAT,40-49,2,12,12,2,0,0,14,0,P.A. Trento
+2020-12-31,PF/BT,APSP S.Vigilio Spiazzo,PAT,50-59,3,14,14,3,0,0,17,0,P.A. Trento
+2020-12-31,PF/BT,APSP S.Vigilio Spiazzo,PAT,60-69,3,4,5,2,0,0,7,0,P.A. Trento
+2020-12-31,PF/BT,APSP San Gaetano di Predazzo,PAT,20-29,1,2,3,0,0,0,3,0,P.A. Trento
+2020-12-31,PF/BT,APSP San Gaetano di Predazzo,PAT,30-39,2,2,4,0,0,0,4,0,P.A. Trento
+2020-12-31,PF/BT,APSP San Gaetano di Predazzo,PAT,40-49,1,12,13,0,0,0,13,0,P.A. Trento
+2020-12-31,PF/BT,APSP San Gaetano di Predazzo,PAT,50-59,2,5,6,0,1,0,7,0,P.A. Trento
+2020-12-31,PF/BT,APSP San Gaetano di Predazzo,PAT,60-69,3,3,1,0,5,0,6,0,P.A. Trento
+2020-12-31,PF/BT,APSP San Gaetano di Predazzo,PAT,70-79,10,4,0,0,14,0,14,0,P.A. Trento
+2020-12-31,PF/BT,APSP San Gaetano di Predazzo,PAT,80-89,5,8,0,0,13,0,13,0,P.A. Trento
+2020-12-31,PF/BT,APSP San Gaetano di Predazzo,PAT,90+,0,16,0,0,16,0,16,0,P.A. Trento
+2020-12-31,PF/BT,APSP Santa Maria di Cles,PAT,30-39,1,2,3,0,0,0,3,0,P.A. Trento
+2020-12-31,PF/BT,APSP Santa Maria di Cles,PAT,40-49,0,8,8,0,0,0,8,0,P.A. Trento
+2020-12-31,PF/BT,APSP Santa Maria di Cles,PAT,50-59,1,4,4,0,1,0,5,0,P.A. Trento
+2020-12-31,PF/BT,APSP Santa Maria di Cles,PAT,60-69,1,1,0,0,2,0,2,0,P.A. Trento
+2020-12-31,PF/BT,APSP Santa Maria di Cles,PAT,70-79,2,6,0,0,8,0,8,0,P.A. Trento
+2020-12-31,PF/BT,APSP Santa Maria di Cles,PAT,80-89,4,8,0,0,12,0,12,0,P.A. Trento
+2020-12-31,PF/BT,APSP Santa Maria di Cles,PAT,90+,0,4,0,0,4,0,4,0,P.A. Trento
+2020-12-31,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,40-49,1,2,2,0,1,0,3,0,P.A. Trento
+2020-12-31,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,50-59,1,1,1,0,1,0,2,0,P.A. Trento
+2020-12-31,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,60-69,1,1,0,0,2,0,2,0,P.A. Trento
+2020-12-31,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,70-79,2,0,0,0,2,0,2,0,P.A. Trento
+2020-12-31,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,80-89,3,7,0,0,10,0,10,0,P.A. Trento
+2020-12-31,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,90+,0,11,0,0,11,0,11,0,P.A. Trento
+2020-12-31,PF/BT,APSP Vigo di Fassa,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-31,PF/BT,APSP Vigo di Fassa,PAT,50-59,1,1,1,0,1,0,2,0,P.A. Trento
+2020-12-31,PF/BT,APSP Vigo di Fassa,PAT,60-69,2,1,0,0,3,0,3,0,P.A. Trento
+2020-12-31,PF/BT,APSP Vigo di Fassa,PAT,70-79,2,5,0,0,7,0,7,0,P.A. Trento
+2020-12-31,PF/BT,APSP Vigo di Fassa,PAT,80-89,5,11,0,0,16,0,16,0,P.A. Trento
+2020-12-31,PF/BT,APSP Vigo di Fassa,PAT,90+,2,10,0,0,12,0,12,0,P.A. Trento
+2020-12-31,PF/BT,APSP Villa San Lorenzo Storo,PAT,20-29,1,2,3,0,0,0,3,0,P.A. Trento
+2020-12-31,PF/BT,APSP Villa San Lorenzo Storo,PAT,40-49,1,1,2,0,0,0,2,0,P.A. Trento
+2020-12-31,PF/BT,APSP Villa San Lorenzo Storo,PAT,50-59,1,2,3,0,0,0,3,0,P.A. Trento
+2020-12-31,PF/BT,APSP Villa San Lorenzo Storo,PAT,60-69,3,2,1,0,4,0,5,0,P.A. Trento
+2020-12-31,PF/BT,APSP Villa San Lorenzo Storo,PAT,70-79,0,1,0,0,1,0,1,0,P.A. Trento
+2020-12-31,PF/BT,APSP Villa San Lorenzo Storo,PAT,80-89,1,4,0,0,5,0,5,0,P.A. Trento
+2020-12-31,PF/BT,APSP Villa San Lorenzo Storo,PAT,90+,1,4,0,0,5,0,5,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Eremo Arco,PAT,20-29,3,3,6,0,0,0,6,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Eremo Arco,PAT,30-39,2,5,7,0,0,0,7,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Eremo Arco,PAT,40-49,1,12,12,1,0,0,13,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Eremo Arco,PAT,50-59,2,14,14,2,0,0,16,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Eremo Arco,PAT,60-69,10,2,12,0,0,0,12,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Eremo Arco,PAT,70-79,3,0,3,0,0,0,3,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Eremo Arco,PAT,80-89,2,0,2,0,0,0,2,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Eremo Arco,PAT,90+,0,1,0,0,0,1,1,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Regina Arco,PAT,20-29,3,6,9,0,0,0,9,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Regina Arco,PAT,30-39,2,2,4,0,0,0,4,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Regina Arco,PAT,40-49,1,5,6,0,0,0,6,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Regina Arco,PAT,50-59,1,2,3,0,0,0,3,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Regina Arco,PAT,60-69,2,1,3,0,0,0,3,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Regina Arco,PAT,70-79,2,2,1,0,3,0,4,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Regina Arco,PAT,80-89,5,6,0,0,11,0,11,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Regina Arco,PAT,90+,1,1,0,0,2,0,2,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Solarix Rovereto,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Solarix Rovereto,PAT,30-39,1,1,2,0,0,0,2,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Solarix Rovereto,PAT,40-49,4,5,9,0,0,0,9,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Solarix Rovereto,PAT,50-59,4,3,5,2,0,0,7,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Solarix Rovereto,PAT,60-69,2,0,2,0,0,0,2,0,P.A. Trento
+2020-12-31,PF/BT,Casa di Cura Solarix Rovereto,PAT,70-79,3,0,3,0,0,0,3,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,30-39,2,7,9,0,0,0,9,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,40-49,4,7,11,0,0,0,11,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,50-59,2,4,6,0,0,0,6,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,60-69,2,0,2,0,0,0,2,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale di Arco,PAT,30-39,2,3,5,0,0,0,5,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale di Arco,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale di Arco,PAT,50-59,0,4,4,0,0,0,4,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale di Arco,PAT,60-69,2,0,2,0,0,0,2,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale di Fiemme di Cavalese,PAT,20-29,1,0,1,0,0,0,1,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale di Fiemme di Cavalese,PAT,30-39,4,4,8,0,0,0,8,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale di Fiemme di Cavalese,PAT,40-49,2,5,7,0,0,0,7,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale di Fiemme di Cavalese,PAT,50-59,0,11,11,0,0,0,11,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale di Fiemme di Cavalese,PAT,60-69,2,1,3,0,0,0,3,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale di Tione,PAT,20-29,0,4,4,0,0,0,4,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale di Tione,PAT,30-39,4,6,10,0,0,0,10,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale di Tione,PAT,40-49,2,5,7,0,0,0,7,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale di Tione,PAT,50-59,2,8,10,0,0,0,10,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale di Tione,PAT,60-69,2,3,5,0,0,0,5,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale S.Chiara di Trento,PAT,20-29,3,9,11,1,0,0,12,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale S.Chiara di Trento,PAT,30-39,15,17,30,2,0,0,32,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale S.Chiara di Trento,PAT,40-49,10,26,32,4,0,0,36,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale S.Chiara di Trento,PAT,50-59,23,26,41,8,0,0,49,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale S.Chiara di Trento,PAT,60-69,11,7,17,1,0,0,18,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,30-39,3,3,6,0,0,0,6,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,40-49,2,4,6,0,0,0,6,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,50-59,3,8,11,0,0,0,11,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,60-69,3,2,5,0,0,0,5,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,20-29,6,9,15,0,0,0,15,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,30-39,7,8,15,0,0,0,15,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,40-49,6,15,21,0,0,0,21,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,50-59,4,8,12,0,0,0,12,0,P.A. Trento
+2020-12-31,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,60-69,1,2,3,0,0,0,3,0,P.A. Trento
+2020-12-31,PF/BT,RSA Casa Famiglia Cadine,PAT,20-29,1,2,3,0,0,0,3,0,P.A. Trento
+2020-12-31,PF/BT,RSA Casa Famiglia Cadine,PAT,30-39,1,3,3,1,0,0,4,0,P.A. Trento
+2020-12-31,PF/BT,RSA Casa Famiglia Cadine,PAT,40-49,0,3,3,0,0,0,3,0,P.A. Trento
+2020-12-31,PF/BT,RSA Casa Famiglia Cadine,PAT,50-59,4,5,6,1,2,0,9,0,P.A. Trento
+2020-12-31,PF/BT,RSA Casa Famiglia Cadine,PAT,60-69,2,2,0,0,4,0,4,0,P.A. Trento
+2020-12-31,PF/BT,RSA Casa Famiglia Cadine,PAT,70-79,5,8,2,0,10,1,13,0,P.A. Trento
+2020-12-31,PF/BT,RSA Casa Famiglia Cadine,PAT,80-89,5,9,0,0,14,0,14,0,P.A. Trento
+2020-12-31,PF/BT,RSA Casa Famiglia Cadine,PAT,90+,0,9,0,0,9,0,9,0,P.A. Trento
+2020-12-31,PF/BT,RSA Grazioli Povo,PAT,20-29,0,4,3,1,0,0,4,0,P.A. Trento
+2020-12-31,PF/BT,RSA Grazioli Povo,PAT,30-39,1,6,7,0,0,0,7,0,P.A. Trento
+2020-12-31,PF/BT,RSA Grazioli Povo,PAT,40-49,1,5,3,1,2,0,6,0,P.A. Trento
+2020-12-31,PF/BT,RSA Grazioli Povo,PAT,50-59,2,9,10,0,1,0,11,0,P.A. Trento
+2020-12-31,PF/BT,RSA Grazioli Povo,PAT,60-69,1,2,2,0,1,0,3,0,P.A. Trento
+2020-12-31,PF/BT,RSA Grazioli Povo,PAT,70-79,1,6,0,0,7,0,7,0,P.A. Trento
+2020-12-31,PF/BT,RSA Grazioli Povo,PAT,80-89,7,22,0,0,29,0,29,0,P.A. Trento
+2020-12-31,PF/BT,RSA Grazioli Povo,PAT,90+,1,22,0,0,23,0,23,0,P.A. Trento
+2020-12-31,PF/BT,RSA Via Veneto Trento,PAT,40-49,0,1,0,0,1,0,1,0,P.A. Trento
+2020-12-31,PF/BT,RSA Via Veneto Trento,PAT,50-59,1,1,1,0,1,0,2,0,P.A. Trento
+2020-12-31,PF/BT,RSA Via Veneto Trento,PAT,60-69,2,1,0,0,3,0,3,0,P.A. Trento
+2020-12-31,PF/BT,RSA Via Veneto Trento,PAT,70-79,4,8,0,0,12,0,12,0,P.A. Trento
+2020-12-31,PF/BT,RSA Via Veneto Trento,PAT,80-89,5,18,0,0,23,0,23,0,P.A. Trento
+2020-12-31,PF/BT,RSA Via Veneto Trento,PAT,90+,3,13,0,0,16,0,16,0,P.A. Trento
+2020-12-31,PF/BT,SPES Villa Belfonte di Trento,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2020-12-31,PF/BT,SPES Villa Belfonte di Trento,PAT,30-39,2,1,2,0,1,0,3,0,P.A. Trento
+2020-12-31,PF/BT,SPES Villa Belfonte di Trento,PAT,40-49,0,2,0,2,0,0,2,0,P.A. Trento
+2020-12-31,PF/BT,SPES Villa Belfonte di Trento,PAT,50-59,3,2,0,1,4,0,5,0,P.A. Trento
+2020-12-31,PF/BT,SPES Villa Belfonte di Trento,PAT,60-69,2,2,1,0,3,0,4,0,P.A. Trento
+2020-12-31,PF/BT,SPES Villa Belfonte di Trento,PAT,70-79,1,7,0,0,8,0,8,0,P.A. Trento
+2020-12-31,PF/BT,SPES Villa Belfonte di Trento,PAT,80-89,6,20,0,0,26,0,26,0,P.A. Trento
+2020-12-31,PF/BT,SPES Villa Belfonte di Trento,PAT,90+,0,10,0,0,10,0,10,0,P.A. Trento
+2021-01-01,PF/BT,APSP Opera Romani Nomi,PAT,30-39,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-01,PF/BT,APSP Opera Romani Nomi,PAT,50-59,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-01,PF/BT,APSP Opera Romani Nomi,PAT,60-69,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-01,PF/BT,APSP Opera Romani Nomi,PAT,70-79,3,3,0,0,6,0,6,0,P.A. Trento
+2021-01-01,PF/BT,APSP Opera Romani Nomi,PAT,80-89,6,18,0,0,24,0,24,0,P.A. Trento
+2021-01-01,PF/BT,APSP Opera Romani Nomi,PAT,90+,1,13,0,0,14,0,14,0,P.A. Trento
+2021-01-01,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,16-19,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-01,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-01,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-01,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,40-49,0,7,7,0,0,0,7,0,P.A. Trento
+2021-01-01,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,50-59,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-01,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,60-69,2,0,0,0,2,0,2,0,P.A. Trento
+2021-01-01,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,70-79,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-01,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,80-89,2,5,0,0,7,0,7,0,P.A. Trento
+2021-01-01,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,90+,2,4,0,0,6,0,6,0,P.A. Trento
+2021-01-01,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,30-39,2,3,3,2,0,0,5,0,P.A. Trento
+2021-01-01,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,40-49,3,6,8,1,0,0,9,0,P.A. Trento
+2021-01-01,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,50-59,2,7,5,4,0,0,9,0,P.A. Trento
+2021-01-01,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,60-69,2,3,2,3,0,0,5,0,P.A. Trento
+2021-01-01,PF/BT,APSP Villa San Lorenzo Storo,PAT,20-29,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-01,PF/BT,APSP Villa San Lorenzo Storo,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-01,PF/BT,APSP Villa San Lorenzo Storo,PAT,40-49,0,7,7,0,0,0,7,0,P.A. Trento
+2021-01-01,PF/BT,APSP Villa San Lorenzo Storo,PAT,50-59,1,7,7,1,0,0,8,0,P.A. Trento
+2021-01-01,PF/BT,APSP Villa San Lorenzo Storo,PAT,60-69,1,4,2,0,3,0,5,0,P.A. Trento
+2021-01-01,PF/BT,APSP Villa San Lorenzo Storo,PAT,70-79,1,2,0,0,3,0,3,0,P.A. Trento
+2021-01-01,PF/BT,APSP Villa San Lorenzo Storo,PAT,80-89,2,10,0,0,12,0,12,0,P.A. Trento
+2021-01-01,PF/BT,APSP Villa San Lorenzo Storo,PAT,90+,0,4,0,0,4,0,4,0,P.A. Trento
+2021-01-01,PF/BT,Ospedale di Arco,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-01,PF/BT,Ospedale di Arco,PAT,40-49,1,6,7,0,0,0,7,0,P.A. Trento
+2021-01-01,PF/BT,Ospedale di Arco,PAT,50-59,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-01,PF/BT,Ospedale di Arco,PAT,60-69,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-01,PF/BT,Ospedale S.Chiara di Trento,PAT,30-39,2,3,5,0,0,0,5,0,P.A. Trento
+2021-01-01,PF/BT,Ospedale S.Chiara di Trento,PAT,40-49,2,5,7,0,0,0,7,0,P.A. Trento
+2021-01-01,PF/BT,Ospedale S.Chiara di Trento,PAT,50-59,2,4,6,0,0,0,6,0,P.A. Trento
+2021-01-01,PF/BT,Ospedale S.Chiara di Trento,PAT,60-69,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-01,PF/BT,RSA Via Veneto Trento,PAT,20-29,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-01,PF/BT,RSA Via Veneto Trento,PAT,30-39,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-01,PF/BT,RSA Via Veneto Trento,PAT,40-49,1,10,11,0,0,0,11,0,P.A. Trento
+2021-01-01,PF/BT,RSA Via Veneto Trento,PAT,50-59,1,8,9,0,0,0,9,0,P.A. Trento
+2021-01-01,PF/BT,RSA Via Veneto Trento,PAT,60-69,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-02,PF/BT,APSP Bezzecca Ledro,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-02,PF/BT,APSP Bezzecca Ledro,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-02,PF/BT,APSP Bezzecca Ledro,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-02,PF/BT,APSP Bezzecca Ledro,PAT,50-59,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-02,PF/BT,APSP Bezzecca Ledro,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-02,PF/BT,APSP Bleggio Superiore,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-02,PF/BT,APSP Bleggio Superiore,PAT,30-39,2,1,3,0,0,0,3,0,P.A. Trento
+2021-01-02,PF/BT,APSP Bleggio Superiore,PAT,40-49,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-02,PF/BT,APSP Bleggio Superiore,PAT,50-59,0,7,7,0,0,0,7,0,P.A. Trento
+2021-01-02,PF/BT,APSP Bleggio Superiore,PAT,60-69,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-02,PF/BT,APSP Campagnola Avio,PAT,20-29,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-02,PF/BT,APSP Campagnola Avio,PAT,30-39,3,3,6,0,0,0,6,0,P.A. Trento
+2021-01-02,PF/BT,APSP Campagnola Avio,PAT,40-49,2,9,10,1,0,0,11,0,P.A. Trento
+2021-01-02,PF/BT,APSP Campagnola Avio,PAT,50-59,2,12,12,2,0,0,14,0,P.A. Trento
+2021-01-02,PF/BT,APSP Campagnola Avio,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-02,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-02,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,30-39,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-02,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-02,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,50-59,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-02,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,60-69,1,4,4,0,1,0,5,0,P.A. Trento
+2021-01-02,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,70-79,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-02,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,80-89,0,4,0,0,4,0,4,0,P.A. Trento
+2021-01-02,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-02,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,30-39,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-02,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,40-49,2,5,7,0,0,0,7,0,P.A. Trento
+2021-01-02,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,50-59,1,8,9,0,0,0,9,0,P.A. Trento
+2021-01-02,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,60-69,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-02,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,50-59,1,0,0,0,0,1,1,0,P.A. Trento
+2021-01-02,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,60-69,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-02,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,70-79,6,4,0,0,10,0,10,0,P.A. Trento
+2021-01-02,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,80-89,7,12,0,0,19,0,19,0,P.A. Trento
+2021-01-02,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,90+,1,25,0,0,24,2,26,0,P.A. Trento
+2021-01-02,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-02,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-02,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-02,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,60-69,1,1,1,0,1,0,2,0,P.A. Trento
+2021-01-02,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,70-79,2,1,0,0,3,0,3,0,P.A. Trento
+2021-01-02,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,80-89,4,6,0,0,10,0,10,0,P.A. Trento
+2021-01-02,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,90+,2,2,0,0,4,0,4,0,P.A. Trento
+2021-01-02,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-02,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,50-59,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-02,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,20-29,2,2,3,0,1,0,4,0,P.A. Trento
+2021-01-02,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,30-39,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-02,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,40-49,3,4,5,1,1,0,7,0,P.A. Trento
+2021-01-02,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,50-59,2,6,6,0,2,0,8,0,P.A. Trento
+2021-01-02,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,60-69,1,1,1,0,1,0,2,0,P.A. Trento
+2021-01-02,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,70-79,5,3,0,0,8,0,8,0,P.A. Trento
+2021-01-02,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,80-89,3,10,0,0,13,0,13,0,P.A. Trento
+2021-01-02,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,90+,4,6,0,0,10,0,10,0,P.A. Trento
+2021-01-02,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-02,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-02,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,50-59,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-02,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-02,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,70-79,2,2,0,0,4,0,4,0,P.A. Trento
+2021-01-02,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,80-89,3,2,0,0,5,0,5,0,P.A. Trento
+2021-01-02,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,90+,4,10,0,0,14,0,14,0,P.A. Trento
+2021-01-02,PF/BT,APSP Vigo di Fassa,PAT,20-29,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-02,PF/BT,APSP Vigo di Fassa,PAT,30-39,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-02,PF/BT,APSP Vigo di Fassa,PAT,40-49,0,4,3,1,0,0,4,0,P.A. Trento
+2021-01-02,PF/BT,APSP Vigo di Fassa,PAT,50-59,1,5,6,0,0,0,6,0,P.A. Trento
+2021-01-02,PF/BT,APSP Villa San Lorenzo Storo,PAT,20-29,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-02,PF/BT,APSP Villa San Lorenzo Storo,PAT,30-39,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-02,PF/BT,APSP Villa San Lorenzo Storo,PAT,40-49,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-02,PF/BT,APSP Villa San Lorenzo Storo,PAT,50-59,0,6,6,0,0,0,6,0,P.A. Trento
+2021-01-02,PF/BT,APSP Villa San Lorenzo Storo,PAT,60-69,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-02,PF/BT,APSP Villa San Lorenzo Storo,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-02,PF/BT,Casa di Cura Solarix Rovereto,PAT,20-29,2,1,3,0,0,0,3,0,P.A. Trento
+2021-01-02,PF/BT,Casa di Cura Solarix Rovereto,PAT,30-39,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-02,PF/BT,Casa di Cura Solarix Rovereto,PAT,40-49,1,9,10,0,0,0,10,0,P.A. Trento
+2021-01-02,PF/BT,Casa di Cura Solarix Rovereto,PAT,50-59,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-02,PF/BT,Casa di Cura Solarix Rovereto,PAT,60-69,2,1,3,0,0,0,3,0,P.A. Trento
+2021-01-02,PF/BT,Casa di Cura Villa Bianca Trento,PAT,30-39,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-02,PF/BT,Casa di Cura Villa Bianca Trento,PAT,40-49,2,4,5,1,0,0,6,0,P.A. Trento
+2021-01-02,PF/BT,Casa di Cura Villa Bianca Trento,PAT,50-59,2,5,4,3,0,0,7,0,P.A. Trento
+2021-01-02,PF/BT,Casa di Cura Villa Bianca Trento,PAT,60-69,7,8,9,6,0,0,15,0,P.A. Trento
+2021-01-02,PF/BT,Casa di Cura Villa Bianca Trento,PAT,70-79,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-02,PF/BT,Casa di Cura Villa Bianca Trento,PAT,80-89,4,0,3,1,0,0,4,0,P.A. Trento
+2021-01-02,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-02,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,30-39,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-02,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,40-49,3,5,8,0,0,0,8,0,P.A. Trento
+2021-01-02,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,50-59,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-02,PF/BT,Ospedale di Arco,PAT,20-29,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-02,PF/BT,Ospedale di Arco,PAT,30-39,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-02,PF/BT,Ospedale di Arco,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-02,PF/BT,Ospedale di Arco,PAT,50-59,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-02,PF/BT,Ospedale S.Chiara di Trento,PAT,20-29,7,8,15,0,0,0,15,0,P.A. Trento
+2021-01-02,PF/BT,Ospedale S.Chiara di Trento,PAT,30-39,7,11,18,0,0,0,18,0,P.A. Trento
+2021-01-02,PF/BT,Ospedale S.Chiara di Trento,PAT,40-49,4,8,12,0,0,0,12,0,P.A. Trento
+2021-01-02,PF/BT,Ospedale S.Chiara di Trento,PAT,50-59,5,5,10,0,0,0,10,0,P.A. Trento
+2021-01-02,PF/BT,Ospedale S.Chiara di Trento,PAT,60-69,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-02,PF/BT,Ospedale S.Chiara di Trento,PAT,80-89,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-02,PF/BT,RSA Grazioli Povo,PAT,20-29,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-02,PF/BT,RSA Grazioli Povo,PAT,30-39,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-02,PF/BT,RSA Grazioli Povo,PAT,40-49,1,6,7,0,0,0,7,0,P.A. Trento
+2021-01-02,PF/BT,RSA Grazioli Povo,PAT,50-59,1,6,7,0,0,0,7,0,P.A. Trento
+2021-01-02,PF/BT,RSA Grazioli Povo,PAT,70-79,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-02,PF/BT,SPES Villa Belfonte di Trento,PAT,16-19,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-02,PF/BT,SPES Villa Belfonte di Trento,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-02,PF/BT,SPES Villa Belfonte di Trento,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-02,PF/BT,SPES Villa Belfonte di Trento,PAT,40-49,1,7,6,2,0,0,8,0,P.A. Trento
+2021-01-02,PF/BT,SPES Villa Belfonte di Trento,PAT,50-59,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-02,PF/BT,SPES Villa Belfonte di Trento,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-03,PF/BT,APSP Bleggio Superiore,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-03,PF/BT,APSP Bleggio Superiore,PAT,30-39,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-03,PF/BT,APSP Bleggio Superiore,PAT,40-49,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-03,PF/BT,APSP Bleggio Superiore,PAT,50-59,1,13,14,0,0,0,14,0,P.A. Trento
+2021-01-03,PF/BT,APSP Bleggio Superiore,PAT,60-69,2,5,4,0,3,0,7,0,P.A. Trento
+2021-01-03,PF/BT,APSP Bleggio Superiore,PAT,70-79,5,0,0,0,5,0,5,0,P.A. Trento
+2021-01-03,PF/BT,APSP Bleggio Superiore,PAT,80-89,4,12,0,0,16,0,16,0,P.A. Trento
+2021-01-03,PF/BT,APSP Bleggio Superiore,PAT,90+,0,9,0,0,9,0,9,0,P.A. Trento
+2021-01-03,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-03,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,40-49,2,7,9,0,0,0,9,0,P.A. Trento
+2021-01-03,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,50-59,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-03,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-03,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-03,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-03,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,50-59,2,3,5,0,0,0,5,0,P.A. Trento
+2021-01-03,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,60-69,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-03,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,16-19,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-03,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,20-29,0,5,3,2,0,0,5,0,P.A. Trento
+2021-01-03,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,30-39,1,3,3,1,0,0,4,0,P.A. Trento
+2021-01-03,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,40-49,4,7,11,0,0,0,11,0,P.A. Trento
+2021-01-03,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,50-59,4,14,15,3,0,0,18,0,P.A. Trento
+2021-01-03,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,60-69,2,2,0,1,3,0,4,0,P.A. Trento
+2021-01-03,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,70-79,1,4,0,0,5,0,5,0,P.A. Trento
+2021-01-03,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,80-89,2,5,0,0,7,0,7,0,P.A. Trento
+2021-01-03,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,90+,3,13,0,0,16,0,16,0,P.A. Trento
+2021-01-03,PF/BT,Casa di Cura Solarix Rovereto,PAT,20-29,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-03,PF/BT,Casa di Cura Solarix Rovereto,PAT,30-39,2,1,3,0,0,0,3,0,P.A. Trento
+2021-01-03,PF/BT,Casa di Cura Solarix Rovereto,PAT,40-49,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-03,PF/BT,Casa di Cura Solarix Rovereto,PAT,50-59,1,5,6,0,0,0,6,0,P.A. Trento
+2021-01-03,PF/BT,Casa di Cura Solarix Rovereto,PAT,60-69,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-03,PF/BT,Casa di Cura Solarix Rovereto,PAT,70-79,3,0,3,0,0,0,3,0,P.A. Trento
+2021-01-03,PF/BT,Casa di Cura Villa Bianca Trento,PAT,20-29,1,3,3,1,0,0,4,0,P.A. Trento
+2021-01-03,PF/BT,Casa di Cura Villa Bianca Trento,PAT,30-39,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-03,PF/BT,Casa di Cura Villa Bianca Trento,PAT,40-49,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-03,PF/BT,Casa di Cura Villa Bianca Trento,PAT,50-59,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-03,PF/BT,Casa di Cura Villa Bianca Trento,PAT,70-79,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-03,PF/BT,Ospedale S.Chiara di Trento,PAT,20-29,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-03,PF/BT,Ospedale S.Chiara di Trento,PAT,30-39,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-03,PF/BT,Ospedale S.Chiara di Trento,PAT,40-49,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-03,PF/BT,Ospedale S.Chiara di Trento,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-03,PF/BT,PVT TRENTO,PAT,20-29,3,17,20,0,0,0,20,0,P.A. Trento
+2021-01-03,PF/BT,PVT TRENTO,PAT,30-39,21,23,44,0,0,0,44,0,P.A. Trento
+2021-01-03,PF/BT,PVT TRENTO,PAT,40-49,9,41,49,1,0,0,50,0,P.A. Trento
+2021-01-03,PF/BT,PVT TRENTO,PAT,50-59,22,48,69,1,0,0,70,0,P.A. Trento
+2021-01-03,PF/BT,PVT TRENTO,PAT,60-69,50,38,88,0,0,0,88,0,P.A. Trento
+2021-01-03,PF/BT,RSA Grazioli Povo,PAT,20-29,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-03,PF/BT,RSA Grazioli Povo,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-03,PF/BT,RSA Grazioli Povo,PAT,40-49,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-03,PF/BT,RSA Grazioli Povo,PAT,50-59,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-03,PF/BT,RSA Grazioli Povo,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Bleggio Superiore,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Bleggio Superiore,PAT,40-49,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-04,PF/BT,APSP Bleggio Superiore,PAT,50-59,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-04,PF/BT,APSP Bleggio Superiore,PAT,60-69,0,2,1,0,1,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP Bleggio Superiore,PAT,70-79,5,2,0,0,7,0,7,0,P.A. Trento
+2021-01-04,PF/BT,APSP Bleggio Superiore,PAT,80-89,2,10,0,0,12,0,12,0,P.A. Trento
+2021-01-04,PF/BT,APSP Bleggio Superiore,PAT,90+,0,6,0,0,6,0,6,0,P.A. Trento
+2021-01-04,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,40-49,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-04,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,50-59,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-04,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,60-69,0,2,1,0,1,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,70-79,5,2,0,0,7,0,7,0,P.A. Trento
+2021-01-04,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,80-89,2,10,0,0,12,0,12,0,P.A. Trento
+2021-01-04,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,90+,0,6,0,0,6,0,6,0,P.A. Trento
+2021-01-04,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,30-39,1,2,2,1,0,0,3,0,P.A. Trento
+2021-01-04,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,40-49,0,5,3,2,0,0,5,0,P.A. Trento
+2021-01-04,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,60-69,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Centro Residenziale Abelardo Collini di Pinzolo,PAT,80-89,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,20-29,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-04,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,40-49,3,2,4,1,0,0,5,0,P.A. Trento
+2021-01-04,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,50-59,1,4,3,2,0,0,5,0,P.A. Trento
+2021-01-04,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,60-69,1,4,2,0,3,0,5,0,P.A. Trento
+2021-01-04,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,70-79,0,3,0,0,3,0,3,0,P.A. Trento
+2021-01-04,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,80-89,2,4,0,0,6,0,6,0,P.A. Trento
+2021-01-04,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP G.Endrizzi Lavis,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP G.Endrizzi Lavis,PAT,50-59,4,2,3,0,3,0,6,0,P.A. Trento
+2021-01-04,PF/BT,APSP G.Endrizzi Lavis,PAT,60-69,3,2,0,0,5,0,5,0,P.A. Trento
+2021-01-04,PF/BT,APSP G.Endrizzi Lavis,PAT,70-79,6,1,1,0,6,0,7,0,P.A. Trento
+2021-01-04,PF/BT,APSP G.Endrizzi Lavis,PAT,80-89,5,20,0,0,25,0,25,0,P.A. Trento
+2021-01-04,PF/BT,APSP G.Endrizzi Lavis,PAT,90+,2,13,0,0,15,0,15,0,P.A. Trento
+2021-01-04,PF/BT,APSP Levico Curae Levico Terme,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Levico Curae Levico Terme,PAT,80-89,1,5,0,0,6,0,6,0,P.A. Trento
+2021-01-04,PF/BT,APSP Levico Curae Levico Terme,PAT,90+,1,4,0,0,5,0,5,0,P.A. Trento
+2021-01-04,PF/BT,APSP Opera Romani Nomi,PAT,30-39,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Opera Romani Nomi,PAT,40-49,0,8,6,2,0,0,8,0,P.A. Trento
+2021-01-04,PF/BT,APSP Opera Romani Nomi,PAT,50-59,2,10,6,5,1,0,12,0,P.A. Trento
+2021-01-04,PF/BT,APSP Opera Romani Nomi,PAT,60-69,0,2,0,1,1,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP Opera Romani Nomi,PAT,70-79,2,4,0,0,6,0,6,0,P.A. Trento
+2021-01-04,PF/BT,APSP Opera Romani Nomi,PAT,80-89,2,5,0,0,7,0,7,0,P.A. Trento
+2021-01-04,PF/BT,APSP Opera Romani Nomi,PAT,90+,0,12,0,0,12,0,12,0,P.A. Trento
+2021-01-04,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,30-39,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-04,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,60-69,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,70-79,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,80-89,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,90+,1,3,0,0,4,0,4,0,P.A. Trento
+2021-01-04,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,20-29,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-04,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,30-39,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-04,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,40-49,1,19,19,0,1,0,20,0,P.A. Trento
+2021-01-04,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,50-59,2,22,24,0,0,0,24,0,P.A. Trento
+2021-01-04,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,60-69,3,3,3,1,2,0,6,0,P.A. Trento
+2021-01-04,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,70-79,1,2,0,0,3,0,3,0,P.A. Trento
+2021-01-04,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,80-89,0,4,0,0,4,0,4,0,P.A. Trento
+2021-01-04,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,40-49,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,50-59,2,0,1,1,0,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,30-39,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,40-49,0,7,4,3,0,0,7,0,P.A. Trento
+2021-01-04,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,50-59,0,2,1,1,0,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,50-59,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-04,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,60-69,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,20-29,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-04,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,40-49,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-04,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,50-59,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,70-79,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,80-89,0,4,0,0,4,0,4,0,P.A. Trento
+2021-01-04,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,90+,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP S.Vigilio Spiazzo,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP S.Vigilio Spiazzo,PAT,40-49,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP S.Vigilio Spiazzo,PAT,50-59,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-04,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,50-59,0,7,7,0,0,0,7,0,P.A. Trento
+2021-01-04,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,60-69,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,70-79,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,90+,0,3,0,0,3,0,3,0,P.A. Trento
+2021-01-04,PF/BT,APSP Villa San Lorenzo Storo,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Villa San Lorenzo Storo,PAT,50-59,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,APSP Villa San Lorenzo Storo,PAT,80-89,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-04,PF/BT,APSP Villa San Lorenzo Storo,PAT,90+,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-04,PF/BT,Casa di Cura Solarix Rovereto,PAT,20-29,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-04,PF/BT,Casa di Cura Solarix Rovereto,PAT,30-39,4,2,6,0,0,0,6,0,P.A. Trento
+2021-01-04,PF/BT,Casa di Cura Solarix Rovereto,PAT,40-49,1,7,7,1,0,0,8,0,P.A. Trento
+2021-01-04,PF/BT,Casa di Cura Solarix Rovereto,PAT,50-59,3,3,5,1,0,0,6,0,P.A. Trento
+2021-01-04,PF/BT,Casa di Cura Solarix Rovereto,PAT,60-69,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-04,PF/BT,Casa di Cura Solarix Rovereto,PAT,70-79,2,0,2,0,0,0,2,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,50-59,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale di Arco,PAT,20-29,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale di Arco,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale di Arco,PAT,40-49,2,5,7,0,0,0,7,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale di Arco,PAT,50-59,2,5,7,0,0,0,7,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale di Fiemme di Cavalese,PAT,20-29,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale di Fiemme di Cavalese,PAT,30-39,4,4,8,0,0,0,8,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale di Fiemme di Cavalese,PAT,40-49,2,6,8,0,0,0,8,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale di Fiemme di Cavalese,PAT,50-59,4,9,13,0,0,0,13,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale di Fiemme di Cavalese,PAT,60-69,2,1,3,0,0,0,3,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale S.Chiara di Trento,PAT,20-29,7,8,15,0,0,0,15,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale S.Chiara di Trento,PAT,30-39,10,15,25,0,0,0,25,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale S.Chiara di Trento,PAT,40-49,13,24,37,0,0,0,37,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale S.Chiara di Trento,PAT,50-59,6,19,25,0,0,0,25,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale S.Chiara di Trento,PAT,60-69,6,5,11,0,0,0,11,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,40-49,1,9,10,0,0,0,10,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,50-59,2,9,11,0,0,0,11,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,60-69,2,0,1,1,0,0,2,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,20-29,4,4,8,0,0,0,8,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,30-39,3,7,10,0,0,0,10,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,40-49,3,11,13,1,0,0,14,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,50-59,2,11,13,0,0,0,13,0,P.A. Trento
+2021-01-04,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,60-69,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-04,PF/BT,RSA Casa Famiglia Cadine,PAT,20-29,2,5,7,0,0,0,7,0,P.A. Trento
+2021-01-04,PF/BT,RSA Casa Famiglia Cadine,PAT,30-39,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-04,PF/BT,RSA Casa Famiglia Cadine,PAT,40-49,0,5,3,2,0,0,5,0,P.A. Trento
+2021-01-04,PF/BT,RSA Casa Famiglia Cadine,PAT,50-59,1,5,4,1,1,0,6,0,P.A. Trento
+2021-01-04,PF/BT,RSA Casa Famiglia Cadine,PAT,60-69,2,7,0,1,5,3,9,0,P.A. Trento
+2021-01-04,PF/BT,RSA Casa Famiglia Cadine,PAT,70-79,3,7,1,0,6,3,10,0,P.A. Trento
+2021-01-04,PF/BT,RSA Casa Famiglia Cadine,PAT,80-89,1,12,0,0,13,0,13,0,P.A. Trento
+2021-01-04,PF/BT,RSA Casa Famiglia Cadine,PAT,90+,3,18,0,0,21,0,21,0,P.A. Trento
+2021-01-04,PF/BT,RSA Grazioli Povo,PAT,20-29,0,4,1,3,0,0,4,0,P.A. Trento
+2021-01-04,PF/BT,RSA Grazioli Povo,PAT,30-39,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,RSA Grazioli Povo,PAT,40-49,2,4,4,2,0,0,6,0,P.A. Trento
+2021-01-04,PF/BT,RSA Grazioli Povo,PAT,50-59,1,10,9,2,0,0,11,0,P.A. Trento
+2021-01-04,PF/BT,RSA Grazioli Povo,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-04,PF/BT,SPES Montagnaga Pine',PAT,20-29,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-04,PF/BT,SPES Montagnaga Pine',PAT,30-39,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-04,PF/BT,SPES Montagnaga Pine',PAT,40-49,0,5,4,1,0,0,5,0,P.A. Trento
+2021-01-04,PF/BT,SPES Montagnaga Pine',PAT,50-59,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-04,PF/BT,SPES Montagnaga Pine',PAT,60-69,1,2,2,0,1,0,3,0,P.A. Trento
+2021-01-04,PF/BT,SPES Montagnaga Pine',PAT,70-79,4,2,0,0,6,0,6,0,P.A. Trento
+2021-01-04,PF/BT,SPES Montagnaga Pine',PAT,80-89,4,21,0,0,25,0,25,0,P.A. Trento
+2021-01-04,PF/BT,SPES Montagnaga Pine',PAT,90+,2,9,0,0,11,0,11,0,P.A. Trento
+2021-01-05,PF/BT,APSP Beato de Tschiderer Trento,PAT,20-29,2,4,5,1,0,0,6,0,P.A. Trento
+2021-01-05,PF/BT,APSP Beato de Tschiderer Trento,PAT,30-39,1,8,8,0,0,1,9,0,P.A. Trento
+2021-01-05,PF/BT,APSP Beato de Tschiderer Trento,PAT,40-49,2,7,7,2,0,0,9,0,P.A. Trento
+2021-01-05,PF/BT,APSP Beato de Tschiderer Trento,PAT,50-59,2,9,7,2,0,2,11,0,P.A. Trento
+2021-01-05,PF/BT,APSP Beato de Tschiderer Trento,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-05,PF/BT,APSP Beato de Tschiderer Trento,PAT,70-79,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-05,PF/BT,APSP Bleggio Superiore,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-05,PF/BT,APSP Bleggio Superiore,PAT,40-49,0,2,1,1,0,0,2,0,P.A. Trento
+2021-01-05,PF/BT,APSP Bleggio Superiore,PAT,50-59,0,3,2,1,0,0,3,0,P.A. Trento
+2021-01-05,PF/BT,APSP Bleggio Superiore,PAT,60-69,1,4,2,0,3,0,5,0,P.A. Trento
+2021-01-05,PF/BT,APSP Bleggio Superiore,PAT,70-79,3,3,0,0,6,0,6,0,P.A. Trento
+2021-01-05,PF/BT,APSP Bleggio Superiore,PAT,80-89,8,10,0,0,18,0,18,0,P.A. Trento
+2021-01-05,PF/BT,APSP Bleggio Superiore,PAT,90+,4,16,0,0,19,1,20,0,P.A. Trento
+2021-01-05,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,20-29,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-05,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,30-39,4,6,10,0,0,0,10,0,P.A. Trento
+2021-01-05,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,40-49,2,8,10,0,0,0,10,0,P.A. Trento
+2021-01-05,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,50-59,1,7,8,0,0,0,8,0,P.A. Trento
+2021-01-05,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,60-69,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-05,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,70-79,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-05,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,80-89,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-05,PF/BT,APSP Città di Riva di Riva del Garda,PAT,20-29,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-05,PF/BT,APSP Città di Riva di Riva del Garda,PAT,30-39,0,4,1,3,0,0,4,0,P.A. Trento
+2021-01-05,PF/BT,APSP Città di Riva di Riva del Garda,PAT,40-49,3,5,6,2,0,0,8,0,P.A. Trento
+2021-01-05,PF/BT,APSP Città di Riva di Riva del Garda,PAT,50-59,2,13,11,4,0,0,15,0,P.A. Trento
+2021-01-05,PF/BT,APSP Città di Riva di Riva del Garda,PAT,60-69,1,1,1,1,0,0,2,0,P.A. Trento
+2021-01-05,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-05,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,30-39,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-05,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,40-49,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-05,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,50-59,0,6,5,1,0,0,6,0,P.A. Trento
+2021-01-05,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,60-69,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-05,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,70-79,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-05,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,80-89,1,2,0,0,3,0,3,0,P.A. Trento
+2021-01-05,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-05,PF/BT,APSP G.Endrizzi Lavis,PAT,60-69,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-05,PF/BT,APSP G.Endrizzi Lavis,PAT,70-79,4,3,0,0,7,0,7,0,P.A. Trento
+2021-01-05,PF/BT,APSP G.Endrizzi Lavis,PAT,80-89,0,6,0,0,6,0,6,0,P.A. Trento
+2021-01-05,PF/BT,APSP G.Endrizzi Lavis,PAT,90+,0,3,0,0,3,0,3,0,P.A. Trento
+2021-01-05,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-05,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,50-59,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-05,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-05,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-05,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,50-59,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-05,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,20-29,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-05,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,30-39,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-05,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,40-49,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-05,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,50-59,2,2,3,0,1,0,4,0,P.A. Trento
+2021-01-05,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,60-69,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-05,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,70-79,3,2,1,0,4,0,5,0,P.A. Trento
+2021-01-05,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,80-89,0,7,0,0,7,0,7,0,P.A. Trento
+2021-01-05,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,90+,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-05,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-05,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,50-59,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-05,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,60-69,2,0,0,0,2,0,2,0,P.A. Trento
+2021-01-05,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-05,PF/BT,Casa di Cura Solarix Rovereto,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-05,PF/BT,Casa di Cura Solarix Rovereto,PAT,40-49,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-05,PF/BT,Casa di Cura Solarix Rovereto,PAT,50-59,2,0,2,0,0,0,2,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,20-29,2,8,10,0,0,0,10,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,30-39,3,9,12,0,0,0,12,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,40-49,2,8,10,0,0,0,10,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,50-59,2,10,12,0,0,0,12,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,60-69,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale di Fiemme di Cavalese,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale di Fiemme di Cavalese,PAT,30-39,7,4,11,0,0,0,11,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale di Fiemme di Cavalese,PAT,40-49,4,9,13,0,0,0,13,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale di Fiemme di Cavalese,PAT,50-59,3,6,9,0,0,0,9,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale di Fiemme di Cavalese,PAT,60-69,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale di Tione,PAT,20-29,3,6,9,0,0,0,9,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale di Tione,PAT,30-39,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale di Tione,PAT,40-49,5,7,12,0,0,0,12,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale di Tione,PAT,50-59,3,12,15,0,0,0,15,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale di Tione,PAT,60-69,3,4,4,1,0,2,7,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale di Tione,PAT,70-79,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale S.Chiara di Trento,PAT,20-29,2,5,7,0,0,0,7,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale S.Chiara di Trento,PAT,30-39,23,15,30,8,0,0,38,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale S.Chiara di Trento,PAT,40-49,21,13,31,3,0,0,34,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale S.Chiara di Trento,PAT,50-59,13,16,26,3,0,0,29,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale S.Chiara di Trento,PAT,60-69,6,6,9,3,0,0,12,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,20-29,1,2,2,1,0,0,3,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,30-39,1,4,4,1,0,0,5,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,40-49,3,1,4,0,0,0,4,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,50-59,5,10,13,2,0,0,15,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,60-69,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,30-39,2,4,6,0,0,0,6,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,40-49,6,17,23,0,0,0,23,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,50-59,5,8,13,0,0,0,13,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,60-69,4,0,4,0,0,0,4,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale San Camillo Trento,PAT,50-59,2,0,2,0,0,0,2,0,P.A. Trento
+2021-01-05,PF/BT,Ospedale San Camillo Trento,PAT,60-69,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-05,PF/BT,PVT TRENTO,PAT,20-29,1,5,6,0,0,0,6,0,P.A. Trento
+2021-01-05,PF/BT,PVT TRENTO,PAT,30-39,1,5,6,0,0,0,6,0,P.A. Trento
+2021-01-05,PF/BT,PVT TRENTO,PAT,40-49,2,4,6,0,0,0,6,0,P.A. Trento
+2021-01-05,PF/BT,PVT TRENTO,PAT,50-59,5,3,8,0,0,0,8,0,P.A. Trento
+2021-01-05,PF/BT,PVT TRENTO,PAT,60-69,0,4,3,0,0,1,4,0,P.A. Trento
+2021-01-05,PF/BT,RSA Solatrix Rovereto,PAT,20-29,2,5,6,0,1,0,7,0,P.A. Trento
+2021-01-05,PF/BT,RSA Solatrix Rovereto,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-05,PF/BT,RSA Solatrix Rovereto,PAT,40-49,1,5,5,1,0,0,6,0,P.A. Trento
+2021-01-05,PF/BT,RSA Solatrix Rovereto,PAT,50-59,2,2,2,1,1,0,4,0,P.A. Trento
+2021-01-05,PF/BT,RSA Solatrix Rovereto,PAT,60-69,2,1,0,0,3,0,3,0,P.A. Trento
+2021-01-05,PF/BT,RSA Solatrix Rovereto,PAT,70-79,3,1,1,0,3,0,4,0,P.A. Trento
+2021-01-05,PF/BT,RSA Solatrix Rovereto,PAT,80-89,6,13,0,0,19,0,19,0,P.A. Trento
+2021-01-05,PF/BT,RSA Solatrix Rovereto,PAT,90+,4,16,0,0,20,0,20,0,P.A. Trento
+2021-01-05,PF/BT,RSAO Casa di Cura Solarix Rovereto,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-05,PF/BT,RSAO Casa di Cura Solarix Rovereto,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-05,PF/BT,RSAO S.Camillo Trento,PAT,20-29,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-05,PF/BT,RSAO S.Camillo Trento,PAT,70-79,2,2,0,0,4,0,4,0,P.A. Trento
+2021-01-05,PF/BT,RSAO S.Camillo Trento,PAT,80-89,1,3,0,0,4,0,4,0,P.A. Trento
+2021-01-05,PF/BT,RSAO S.Camillo Trento,PAT,90+,1,5,0,0,6,0,6,0,P.A. Trento
+2021-01-05,PF/BT,SPES RSA Valle di Cembra Lisignago,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-05,PF/BT,SPES RSA Valle di Cembra Lisignago,PAT,40-49,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-05,PF/BT,SPES Villa Belfonte di Trento,PAT,50-59,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-06,PF/BT,Ospedale S.Chiara di Trento,PAT,20-29,0,7,7,0,0,0,7,0,P.A. Trento
+2021-01-06,PF/BT,Ospedale S.Chiara di Trento,PAT,30-39,7,8,15,0,0,0,15,0,P.A. Trento
+2021-01-06,PF/BT,Ospedale S.Chiara di Trento,PAT,40-49,5,5,10,0,0,0,10,0,P.A. Trento
+2021-01-06,PF/BT,Ospedale S.Chiara di Trento,PAT,50-59,1,7,8,0,0,0,8,0,P.A. Trento
+2021-01-06,PF/BT,Ospedale S.Chiara di Trento,PAT,60-69,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-07,PF/BT,APSP Anaunia Predaia,PAT,20-29,1,14,15,0,0,0,15,0,P.A. Trento
+2021-01-07,PF/BT,APSP Anaunia Predaia,PAT,30-39,1,6,7,0,0,0,7,0,P.A. Trento
+2021-01-07,PF/BT,APSP Anaunia Predaia,PAT,40-49,1,8,9,0,0,0,9,0,P.A. Trento
+2021-01-07,PF/BT,APSP Anaunia Predaia,PAT,50-59,2,4,5,0,1,0,6,0,P.A. Trento
+2021-01-07,PF/BT,APSP Anaunia Predaia,PAT,60-69,0,4,3,0,1,0,4,0,P.A. Trento
+2021-01-07,PF/BT,APSP Anaunia Predaia,PAT,70-79,1,5,0,0,6,0,6,0,P.A. Trento
+2021-01-07,PF/BT,APSP Anaunia Predaia,PAT,80-89,5,13,0,0,18,0,18,0,P.A. Trento
+2021-01-07,PF/BT,APSP Anaunia Predaia,PAT,90+,1,17,0,0,18,0,18,0,P.A. Trento
+2021-01-07,PF/BT,APSP Beato de Tschiderer Trento,PAT,16-19,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP Beato de Tschiderer Trento,PAT,20-29,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-07,PF/BT,APSP Beato de Tschiderer Trento,PAT,30-39,1,1,1,1,0,0,2,0,P.A. Trento
+2021-01-07,PF/BT,APSP Beato de Tschiderer Trento,PAT,40-49,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-07,PF/BT,APSP Beato de Tschiderer Trento,PAT,50-59,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-07,PF/BT,APSP Beato de Tschiderer Trento,PAT,60-69,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-07,PF/BT,APSP Beato de Tschiderer Trento,PAT,70-79,2,4,0,0,6,0,6,0,P.A. Trento
+2021-01-07,PF/BT,APSP Beato de Tschiderer Trento,PAT,80-89,2,10,0,0,12,0,12,0,P.A. Trento
+2021-01-07,PF/BT,APSP Beato de Tschiderer Trento,PAT,90+,2,9,0,0,11,0,11,0,P.A. Trento
+2021-01-07,PF/BT,APSP Brentonico,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-07,PF/BT,APSP Brentonico,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP Brentonico,PAT,50-59,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-07,PF/BT,APSP Brentonico,PAT,60-69,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-07,PF/BT,APSP Brentonico,PAT,70-79,2,4,0,0,6,0,6,0,P.A. Trento
+2021-01-07,PF/BT,APSP Brentonico,PAT,80-89,8,22,0,0,30,0,30,0,P.A. Trento
+2021-01-07,PF/BT,APSP Brentonico,PAT,90+,5,23,0,0,28,0,28,0,P.A. Trento
+2021-01-07,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,20-29,4,6,10,0,0,0,10,0,P.A. Trento
+2021-01-07,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,30-39,2,5,7,0,0,0,7,0,P.A. Trento
+2021-01-07,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,40-49,2,10,11,1,0,0,12,0,P.A. Trento
+2021-01-07,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,50-59,2,11,11,1,1,0,13,0,P.A. Trento
+2021-01-07,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,60-69,1,5,1,2,3,0,6,0,P.A. Trento
+2021-01-07,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,70-79,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-07,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,80-89,3,8,0,0,11,0,11,0,P.A. Trento
+2021-01-07,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,90+,0,5,0,0,5,0,5,0,P.A. Trento
+2021-01-07,PF/BT,APSP Casa Laner Folgaria,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP Casa Laner Folgaria,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP Casa Laner Folgaria,PAT,60-69,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-07,PF/BT,APSP Casa Laner Folgaria,PAT,70-79,2,6,0,0,8,0,8,0,P.A. Trento
+2021-01-07,PF/BT,APSP Casa Laner Folgaria,PAT,80-89,5,10,0,0,14,1,15,0,P.A. Trento
+2021-01-07,PF/BT,APSP Casa Laner Folgaria,PAT,90+,0,12,0,0,12,0,12,0,P.A. Trento
+2021-01-07,PF/BT,APSP Città di Riva di Riva del Garda,PAT,20-29,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-07,PF/BT,APSP Città di Riva di Riva del Garda,PAT,30-39,1,1,1,1,0,0,2,0,P.A. Trento
+2021-01-07,PF/BT,APSP Città di Riva di Riva del Garda,PAT,40-49,1,2,2,1,0,0,3,0,P.A. Trento
+2021-01-07,PF/BT,APSP Città di Riva di Riva del Garda,PAT,50-59,2,5,4,3,0,0,7,0,P.A. Trento
+2021-01-07,PF/BT,APSP Città di Riva di Riva del Garda,PAT,60-69,0,3,2,1,0,0,3,0,P.A. Trento
+2021-01-07,PF/BT,APSP Città di Riva di Riva del Garda,PAT,70-79,1,4,0,0,5,0,5,0,P.A. Trento
+2021-01-07,PF/BT,APSP Città di Riva di Riva del Garda,PAT,80-89,1,2,0,0,3,0,3,0,P.A. Trento
+2021-01-07,PF/BT,APSP Città di Riva di Riva del Garda,PAT,90+,1,3,0,0,4,0,4,0,P.A. Trento
+2021-01-07,PF/BT,APSP G.Endrizzi Lavis,PAT,20-29,3,4,7,0,0,0,7,0,P.A. Trento
+2021-01-07,PF/BT,APSP G.Endrizzi Lavis,PAT,30-39,4,6,10,0,0,0,10,0,P.A. Trento
+2021-01-07,PF/BT,APSP G.Endrizzi Lavis,PAT,40-49,0,9,9,0,0,0,9,0,P.A. Trento
+2021-01-07,PF/BT,APSP G.Endrizzi Lavis,PAT,50-59,0,10,9,1,0,0,10,0,P.A. Trento
+2021-01-07,PF/BT,APSP G.Endrizzi Lavis,PAT,60-69,1,2,2,0,1,0,3,0,P.A. Trento
+2021-01-07,PF/BT,APSP G.Endrizzi Lavis,PAT,80-89,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-07,PF/BT,APSP G.Endrizzi Lavis,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP Levico Curae Levico Terme,PAT,20-29,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-07,PF/BT,APSP Levico Curae Levico Terme,PAT,30-39,3,7,9,1,0,0,10,0,P.A. Trento
+2021-01-07,PF/BT,APSP Levico Curae Levico Terme,PAT,40-49,1,6,6,1,0,0,7,0,P.A. Trento
+2021-01-07,PF/BT,APSP Levico Curae Levico Terme,PAT,50-59,0,12,12,0,0,0,12,0,P.A. Trento
+2021-01-07,PF/BT,APSP Levico Curae Levico Terme,PAT,60-69,1,5,2,0,4,0,6,0,P.A. Trento
+2021-01-07,PF/BT,APSP Levico Curae Levico Terme,PAT,70-79,6,5,0,0,11,0,11,0,P.A. Trento
+2021-01-07,PF/BT,APSP Levico Curae Levico Terme,PAT,80-89,1,17,0,0,18,0,18,0,P.A. Trento
+2021-01-07,PF/BT,APSP Levico Curae Levico Terme,PAT,90+,2,10,0,0,12,0,12,0,P.A. Trento
+2021-01-07,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,40-49,2,0,0,2,0,0,2,0,P.A. Trento
+2021-01-07,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,50-59,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP Residenza Molino Dro,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-07,PF/BT,APSP Residenza Molino Dro,PAT,30-39,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-07,PF/BT,APSP Residenza Molino Dro,PAT,40-49,1,3,2,2,0,0,4,0,P.A. Trento
+2021-01-07,PF/BT,APSP Residenza Molino Dro,PAT,50-59,2,6,6,0,2,0,8,0,P.A. Trento
+2021-01-07,PF/BT,APSP Residenza Molino Dro,PAT,60-69,2,0,0,0,2,0,2,0,P.A. Trento
+2021-01-07,PF/BT,APSP Residenza Molino Dro,PAT,70-79,0,9,0,1,8,0,9,0,P.A. Trento
+2021-01-07,PF/BT,APSP Residenza Molino Dro,PAT,80-89,5,11,0,0,16,0,16,0,P.A. Trento
+2021-01-07,PF/BT,APSP Residenza Molino Dro,PAT,90+,2,7,0,0,9,0,9,0,P.A. Trento
+2021-01-07,PF/BT,APSP S. Giuseppe di Primiero San Martino di Castrozza Transacqua,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP S. Giuseppe di Primiero San Martino di Castrozza Transacqua,PAT,70-79,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP S. Giuseppe di Primiero San Martino di Castrozza Transacqua,PAT,80-89,0,4,0,0,4,0,4,0,P.A. Trento
+2021-01-07,PF/BT,APSP S. Giuseppe Roncegno Terme,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP S. Giuseppe Roncegno Terme,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP S. Giuseppe Roncegno Terme,PAT,50-59,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-07,PF/BT,APSP S. Giuseppe Roncegno Terme,PAT,60-69,1,0,0,0,0,1,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP S. Giuseppe Roncegno Terme,PAT,70-79,1,3,0,0,0,4,4,0,P.A. Trento
+2021-01-07,PF/BT,APSP S. Giuseppe Roncegno Terme,PAT,80-89,3,4,1,0,0,6,7,0,P.A. Trento
+2021-01-07,PF/BT,APSP S. Giuseppe Roncegno Terme,PAT,90+,1,5,0,0,0,6,6,0,P.A. Trento
+2021-01-07,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,60-69,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,70-79,4,1,0,0,5,0,5,0,P.A. Trento
+2021-01-07,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,80-89,3,13,0,0,16,0,16,0,P.A. Trento
+2021-01-07,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,90+,1,13,0,0,14,0,14,0,P.A. Trento
+2021-01-07,PF/BT,APSP Santa Maria di Cles,PAT,70-79,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-07,PF/BT,APSP Santa Maria di Cles,PAT,80-89,2,14,0,0,16,0,16,0,P.A. Trento
+2021-01-07,PF/BT,APSP Santa Maria di Cles,PAT,90+,0,12,0,0,12,0,12,0,P.A. Trento
+2021-01-07,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,20-29,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,50-59,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-07,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,60-69,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,APSP Valle del Vanoi Canal S.Bovo,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-07,PF/BT,Casa di Cura Regina Arco,PAT,16-19,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,Casa di Cura Regina Arco,PAT,20-29,1,9,10,0,0,0,10,0,P.A. Trento
+2021-01-07,PF/BT,Casa di Cura Regina Arco,PAT,30-39,5,3,6,2,0,0,8,0,P.A. Trento
+2021-01-07,PF/BT,Casa di Cura Regina Arco,PAT,40-49,1,5,4,2,0,0,6,0,P.A. Trento
+2021-01-07,PF/BT,Casa di Cura Regina Arco,PAT,50-59,2,5,2,4,1,0,7,0,P.A. Trento
+2021-01-07,PF/BT,Casa di Cura Regina Arco,PAT,60-69,1,2,2,1,0,0,3,0,P.A. Trento
+2021-01-07,PF/BT,Casa di Cura Regina Arco,PAT,70-79,2,0,1,0,1,0,2,0,P.A. Trento
+2021-01-07,PF/BT,Casa di Cura Regina Arco,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-07,PF/BT,Casa di Cura Regina Arco,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-07,PF/BT,Casa di Cura Solarix Rovereto,PAT,30-39,2,0,2,0,0,0,2,0,P.A. Trento
+2021-01-07,PF/BT,Casa di Cura Solarix Rovereto,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-07,PF/BT,Casa di Cura Solarix Rovereto,PAT,50-59,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,Casa di Cura Solarix Rovereto,PAT,60-69,4,0,4,0,0,0,4,0,P.A. Trento
+2021-01-07,PF/BT,Casa di Cura Solarix Rovereto,PAT,70-79,2,0,2,0,0,0,2,0,P.A. Trento
+2021-01-07,PF/BT,Centro servizi sociosanitari residenziali Malè,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,Centro servizi sociosanitari residenziali Malè,PAT,30-39,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-07,PF/BT,Centro servizi sociosanitari residenziali Malè,PAT,40-49,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-07,PF/BT,Centro servizi sociosanitari residenziali Malè,PAT,50-59,1,14,15,0,0,0,15,0,P.A. Trento
+2021-01-07,PF/BT,Centro servizi sociosanitari residenziali Malè,PAT,60-69,1,4,4,0,1,0,5,0,P.A. Trento
+2021-01-07,PF/BT,Centro servizi sociosanitari residenziali Malè,PAT,70-79,0,3,0,0,3,0,3,0,P.A. Trento
+2021-01-07,PF/BT,Centro servizi sociosanitari residenziali Malè,PAT,80-89,1,3,0,0,4,0,4,0,P.A. Trento
+2021-01-07,PF/BT,Centro servizi sociosanitari residenziali Malè,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,20-29,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,30-39,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,40-49,5,13,18,0,0,0,18,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,50-59,7,13,20,0,0,0,20,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,60-69,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale di Arco,PAT,20-29,2,5,7,0,0,0,7,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale di Arco,PAT,30-39,5,1,6,0,0,0,6,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale di Arco,PAT,40-49,6,7,13,0,0,0,13,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale di Arco,PAT,50-59,1,8,9,0,0,0,9,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale di Arco,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale di Fiemme di Cavalese,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale di Fiemme di Cavalese,PAT,30-39,2,4,6,0,0,0,6,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale di Fiemme di Cavalese,PAT,40-49,8,4,12,0,0,0,12,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale di Fiemme di Cavalese,PAT,50-59,6,4,10,0,0,0,10,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale di Tione,PAT,20-29,0,6,6,0,0,0,6,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale di Tione,PAT,30-39,2,5,7,0,0,0,7,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale di Tione,PAT,40-49,2,9,11,0,0,0,11,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale di Tione,PAT,50-59,2,6,8,0,0,0,8,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale di Tione,PAT,60-69,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale S.Chiara di Trento,PAT,20-29,0,9,9,0,0,0,9,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale S.Chiara di Trento,PAT,30-39,6,13,18,1,0,0,19,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale S.Chiara di Trento,PAT,40-49,5,16,20,1,0,0,21,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale S.Chiara di Trento,PAT,50-59,7,22,28,1,0,0,29,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale S.Chiara di Trento,PAT,60-69,1,5,6,0,0,0,6,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,20-29,0,3,1,2,0,0,3,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,30-39,2,3,4,1,0,0,5,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,40-49,5,5,7,3,0,0,10,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,50-59,5,6,7,4,0,0,11,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,60-69,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,20-29,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,30-39,5,8,13,0,0,0,13,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,40-49,5,11,16,0,0,0,16,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,50-59,3,8,11,0,0,0,11,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,60-69,2,3,5,0,0,0,5,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale San Camillo Trento,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale San Camillo Trento,PAT,30-39,3,0,3,0,0,0,3,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale San Camillo Trento,PAT,40-49,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale San Camillo Trento,PAT,50-59,3,3,6,0,0,0,6,0,P.A. Trento
+2021-01-07,PF/BT,Ospedale San Camillo Trento,PAT,60-69,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-07,PF/BT,RSA Angeli Custodi Trento,PAT,70-79,1,4,0,0,5,0,5,0,P.A. Trento
+2021-01-07,PF/BT,RSA Angeli Custodi Trento,PAT,80-89,1,8,0,0,9,0,9,0,P.A. Trento
+2021-01-07,PF/BT,RSA Angeli Custodi Trento,PAT,90+,0,22,0,0,22,0,22,0,P.A. Trento
+2021-01-07,PF/BT,RSA Casa Sacra Famiglia Arco,PAT,20-29,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-07,PF/BT,RSA Casa Sacra Famiglia Arco,PAT,40-49,0,7,7,0,0,0,7,0,P.A. Trento
+2021-01-07,PF/BT,RSA Casa Sacra Famiglia Arco,PAT,50-59,1,7,8,0,0,0,8,0,P.A. Trento
+2021-01-07,PF/BT,RSA Casa Sacra Famiglia Arco,PAT,60-69,1,1,1,0,1,0,2,0,P.A. Trento
+2021-01-07,PF/BT,RSA Casa Sacra Famiglia Arco,PAT,80-89,0,3,0,0,1,2,3,0,P.A. Trento
+2021-01-07,PF/BT,RSA Gabbiolo Trento,PAT,80-89,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-07,PF/BT,RSA Gabbiolo Trento,PAT,90+,1,3,0,0,4,0,4,0,P.A. Trento
+2021-01-07,PF/BT,RSA S. Bartolomeo Trento,PAT,20-29,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,RSA S. Bartolomeo Trento,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,RSA S. Bartolomeo Trento,PAT,60-69,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-07,PF/BT,RSA S. Bartolomeo Trento,PAT,70-79,2,2,0,0,4,0,4,0,P.A. Trento
+2021-01-07,PF/BT,RSA S. Bartolomeo Trento,PAT,80-89,2,1,0,0,3,0,3,0,P.A. Trento
+2021-01-07,PF/BT,RSA S. Bartolomeo Trento,PAT,90+,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-07,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-07,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-07,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,40-49,1,6,7,0,0,0,7,0,P.A. Trento
+2021-01-07,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,50-59,3,9,11,0,1,0,12,0,P.A. Trento
+2021-01-07,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,60-69,3,2,2,0,3,0,5,0,P.A. Trento
+2021-01-07,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,70-79,2,2,0,0,4,0,4,0,P.A. Trento
+2021-01-07,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,80-89,3,11,0,0,14,0,14,0,P.A. Trento
+2021-01-07,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,90+,0,14,0,0,14,0,14,0,P.A. Trento
+2021-01-07,PF/BT,RSA Stella del Mattino Gardolo,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,RSA Stella del Mattino Gardolo,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-07,PF/BT,RSA Stella del Mattino Gardolo,PAT,50-59,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-07,PF/BT,RSA Stella del Mattino Gardolo,PAT,60-69,0,2,1,0,1,0,2,0,P.A. Trento
+2021-01-07,PF/BT,RSA Stella del Mattino Gardolo,PAT,70-79,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-07,PF/BT,RSA Stella del Mattino Gardolo,PAT,80-89,2,9,0,0,11,0,11,0,P.A. Trento
+2021-01-07,PF/BT,RSA Stella del Mattino Gardolo,PAT,90+,2,5,0,0,7,0,7,0,P.A. Trento
+2021-01-07,PF/BT,RSAO Casa di Cura Solarix Rovereto,PAT,80-89,0,4,0,0,4,0,4,0,P.A. Trento
+2021-01-07,PF/BT,RSAO Casa di Cura Solarix Rovereto,PAT,90+,1,2,0,0,3,0,3,0,P.A. Trento
+2021-01-07,PF/BT,SPES RSA Valle di Cembra Lisignago,PAT,20-29,0,5,2,3,0,0,5,0,P.A. Trento
+2021-01-07,PF/BT,SPES RSA Valle di Cembra Lisignago,PAT,30-39,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-07,PF/BT,SPES RSA Valle di Cembra Lisignago,PAT,40-49,3,2,3,2,0,0,5,0,P.A. Trento
+2021-01-07,PF/BT,SPES RSA Valle di Cembra Lisignago,PAT,50-59,0,3,2,1,0,0,3,0,P.A. Trento
+2021-01-07,PF/BT,SPES RSA Valle di Cembra Lisignago,PAT,60-69,0,2,1,0,1,0,2,0,P.A. Trento
+2021-01-07,PF/BT,SPES RSA Valle di Cembra Lisignago,PAT,70-79,7,4,0,0,11,0,11,0,P.A. Trento
+2021-01-07,PF/BT,SPES RSA Valle di Cembra Lisignago,PAT,80-89,8,17,0,0,25,0,25,0,P.A. Trento
+2021-01-07,PF/BT,SPES RSA Valle di Cembra Lisignago,PAT,90+,1,13,0,0,14,0,14,0,P.A. Trento
+2021-01-08,PF/BT,APSP Anaunia Predaia,PAT,20-29,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP Anaunia Predaia,PAT,70-79,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Anaunia Predaia,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Anaunia Predaia,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Beato de Tschiderer Trento,PAT,70-79,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Beato de Tschiderer Trento,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Bezzecca Ledro,PAT,20-29,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Bezzecca Ledro,PAT,30-39,1,1,1,1,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Bezzecca Ledro,PAT,40-49,0,2,0,2,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Bezzecca Ledro,PAT,50-59,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Bezzecca Ledro,PAT,60-69,0,2,0,2,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Bezzecca Ledro,PAT,80-89,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Bontempelli Pellizzano,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Bontempelli Pellizzano,PAT,30-39,1,4,3,2,0,0,5,0,P.A. Trento
+2021-01-08,PF/BT,APSP Bontempelli Pellizzano,PAT,40-49,3,5,6,2,0,0,8,0,P.A. Trento
+2021-01-08,PF/BT,APSP Bontempelli Pellizzano,PAT,50-59,1,13,8,6,0,0,14,0,P.A. Trento
+2021-01-08,PF/BT,APSP Bontempelli Pellizzano,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Brentonico,PAT,20-29,3,3,6,0,0,0,6,0,P.A. Trento
+2021-01-08,PF/BT,APSP Brentonico,PAT,30-39,3,4,7,0,0,0,7,0,P.A. Trento
+2021-01-08,PF/BT,APSP Brentonico,PAT,40-49,1,7,8,0,0,0,8,0,P.A. Trento
+2021-01-08,PF/BT,APSP Brentonico,PAT,50-59,2,10,12,0,0,0,12,0,P.A. Trento
+2021-01-08,PF/BT,APSP Brentonico,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Brentonico,PAT,70-79,1,1,1,0,1,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,30-39,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,40-49,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,50-59,2,9,5,4,1,1,11,0,P.A. Trento
+2021-01-08,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,60-69,0,2,1,1,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,70-79,1,2,0,0,2,1,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,80-89,2,4,0,0,5,1,6,0,P.A. Trento
+2021-01-08,PF/BT,APSP C. Benedetti e Hospice Mori,PAT,90+,2,9,0,0,9,2,11,0,P.A. Trento
+2021-01-08,PF/BT,APSP Campagnola Avio,PAT,20-29,1,5,6,0,0,0,6,0,P.A. Trento
+2021-01-08,PF/BT,APSP Campagnola Avio,PAT,30-39,5,1,2,4,0,0,6,0,P.A. Trento
+2021-01-08,PF/BT,APSP Campagnola Avio,PAT,40-49,2,8,5,5,0,0,10,0,P.A. Trento
+2021-01-08,PF/BT,APSP Campagnola Avio,PAT,50-59,2,17,6,13,0,0,19,0,P.A. Trento
+2021-01-08,PF/BT,APSP Campagnola Avio,PAT,60-69,1,2,1,2,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP Campagnola Avio,PAT,70-79,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Campagnola Avio,PAT,80-89,1,6,0,0,7,0,7,0,P.A. Trento
+2021-01-08,PF/BT,APSP Campagnola Avio,PAT,90+,0,3,0,0,3,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa di riposo Giovanelli Tesero,PAT,20-29,1,3,2,1,1,0,4,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa di riposo Giovanelli Tesero,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa di riposo Giovanelli Tesero,PAT,40-49,1,9,8,1,1,0,10,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa di riposo Giovanelli Tesero,PAT,50-59,0,7,4,1,1,1,7,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa di riposo Giovanelli Tesero,PAT,60-69,1,4,4,0,1,0,5,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa di riposo Giovanelli Tesero,PAT,70-79,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa di riposo Giovanelli Tesero,PAT,80-89,3,4,0,0,7,0,7,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa di riposo Giovanelli Tesero,PAT,90+,1,16,0,0,17,0,17,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,30-39,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,50-59,2,6,8,0,0,0,8,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,60-69,0,3,2,0,1,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,70-79,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,80-89,0,9,0,0,9,0,9,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,90+,0,7,0,0,7,0,7,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa Laner Folgaria,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa Laner Folgaria,PAT,30-39,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa Laner Folgaria,PAT,50-59,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa Laner Folgaria,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa Laner Folgaria,PAT,70-79,1,3,0,0,4,0,4,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa Laner Folgaria,PAT,80-89,2,6,0,0,8,0,8,0,P.A. Trento
+2021-01-08,PF/BT,APSP Casa Laner Folgaria,PAT,90+,1,6,0,0,7,0,7,0,P.A. Trento
+2021-01-08,PF/BT,APSP Città di Riva di Riva del Garda,PAT,50-59,2,2,2,0,2,0,4,0,P.A. Trento
+2021-01-08,PF/BT,APSP Città di Riva di Riva del Garda,PAT,60-69,2,1,0,0,3,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP Città di Riva di Riva del Garda,PAT,70-79,2,4,0,0,6,0,6,0,P.A. Trento
+2021-01-08,PF/BT,APSP Città di Riva di Riva del Garda,PAT,80-89,5,8,0,0,13,0,13,0,P.A. Trento
+2021-01-08,PF/BT,APSP Città di Riva di Riva del Garda,PAT,90+,1,5,0,0,6,0,6,0,P.A. Trento
+2021-01-08,PF/BT,APSP Cristani de Luca Mezzocorona,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Cristani de Luca Mezzocorona,PAT,30-39,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-08,PF/BT,APSP Cristani de Luca Mezzocorona,PAT,40-49,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-08,PF/BT,APSP Cristani de Luca Mezzocorona,PAT,50-59,0,12,11,0,1,0,12,0,P.A. Trento
+2021-01-08,PF/BT,APSP Cristani de Luca Mezzocorona,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Cristani de Luca Mezzocorona,PAT,70-79,4,1,0,0,5,0,5,0,P.A. Trento
+2021-01-08,PF/BT,APSP Cristani de Luca Mezzocorona,PAT,80-89,1,15,0,0,16,0,16,0,P.A. Trento
+2021-01-08,PF/BT,APSP Cristani de Luca Mezzocorona,PAT,90+,0,7,0,0,7,0,7,0,P.A. Trento
+2021-01-08,PF/BT,APSP G.Endrizzi Lavis,PAT,20-29,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-08,PF/BT,APSP G.Endrizzi Lavis,PAT,30-39,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP G.Endrizzi Lavis,PAT,40-49,0,7,6,1,0,0,7,0,P.A. Trento
+2021-01-08,PF/BT,APSP G.Endrizzi Lavis,PAT,50-59,2,11,13,0,0,0,13,0,P.A. Trento
+2021-01-08,PF/BT,APSP G.Endrizzi Lavis,PAT,60-69,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP G.Endrizzi Lavis,PAT,70-79,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Levico Curae Levico Terme,PAT,20-29,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP Levico Curae Levico Terme,PAT,30-39,2,3,5,0,0,0,5,0,P.A. Trento
+2021-01-08,PF/BT,APSP Levico Curae Levico Terme,PAT,40-49,0,6,6,0,0,0,6,0,P.A. Trento
+2021-01-08,PF/BT,APSP Levico Curae Levico Terme,PAT,50-59,0,12,12,0,0,0,12,0,P.A. Trento
+2021-01-08,PF/BT,APSP Levico Curae Levico Terme,PAT,60-69,3,3,4,1,1,0,6,0,P.A. Trento
+2021-01-08,PF/BT,APSP Levico Curae Levico Terme,PAT,70-79,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Levico Curae Levico Terme,PAT,80-89,1,8,0,0,9,0,9,0,P.A. Trento
+2021-01-08,PF/BT,APSP Levico Curae Levico Terme,PAT,90+,0,13,0,0,13,0,13,0,P.A. Trento
+2021-01-08,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,16-19,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,30-39,0,3,2,1,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,40-49,0,6,4,2,0,0,6,0,P.A. Trento
+2021-01-08,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,50-59,0,3,2,1,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,60-69,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,70-79,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,80-89,0,3,0,0,3,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,90+,2,7,0,0,9,0,9,0,P.A. Trento
+2021-01-08,PF/BT,APSP Piccolo Ospedale Pieve Tesino,PAT,20-29,2,0,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Piccolo Ospedale Pieve Tesino,PAT,30-39,1,4,4,1,0,0,5,0,P.A. Trento
+2021-01-08,PF/BT,APSP Piccolo Ospedale Pieve Tesino,PAT,40-49,2,8,6,4,0,0,10,0,P.A. Trento
+2021-01-08,PF/BT,APSP Piccolo Ospedale Pieve Tesino,PAT,50-59,2,5,3,3,1,0,7,0,P.A. Trento
+2021-01-08,PF/BT,APSP Piccolo Ospedale Pieve Tesino,PAT,60-69,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Piccolo Ospedale Pieve Tesino,PAT,70-79,3,0,0,0,3,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP Piccolo Ospedale Pieve Tesino,PAT,80-89,1,2,0,0,3,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP Piccolo Ospedale Pieve Tesino,PAT,90+,1,3,0,0,4,0,4,0,P.A. Trento
+2021-01-08,PF/BT,APSP Residenza Molino Dro,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Residenza Molino Dro,PAT,30-39,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP Residenza Molino Dro,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Residenza Molino Dro,PAT,50-59,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-08,PF/BT,APSP Residenza Molino Dro,PAT,60-69,2,0,1,0,1,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Residenza Molino Dro,PAT,80-89,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Residenza Molino Dro,PAT,90+,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,50-59,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,60-69,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,80-89,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,90+,2,3,0,0,5,0,5,0,P.A. Trento
+2021-01-08,PF/BT,APSP S. Giuseppe di Primiero San Martino di Castrozza Transacqua,PAT,20-29,0,2,1,1,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP S. Giuseppe di Primiero San Martino di Castrozza Transacqua,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP S. Giuseppe di Primiero San Martino di Castrozza Transacqua,PAT,40-49,0,7,7,0,0,0,7,0,P.A. Trento
+2021-01-08,PF/BT,APSP S. Giuseppe di Primiero San Martino di Castrozza Transacqua,PAT,50-59,1,6,7,0,0,0,7,0,P.A. Trento
+2021-01-08,PF/BT,APSP S. Giuseppe di Primiero San Martino di Castrozza Transacqua,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP S. Giuseppe Roncegno Terme,PAT,20-29,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP S. Giuseppe Roncegno Terme,PAT,40-49,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP S. Giuseppe Roncegno Terme,PAT,50-59,2,4,5,1,0,0,6,0,P.A. Trento
+2021-01-08,PF/BT,APSP S. Giuseppe Roncegno Terme,PAT,60-69,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-08,PF/BT,APSP S. Giuseppe Roncegno Terme,PAT,70-79,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP S. Giuseppe Roncegno Terme,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,30-39,0,2,1,1,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,40-49,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,50-59,1,3,3,0,1,0,4,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,60-69,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,70-79,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,80-89,2,4,0,0,6,0,6,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,90+,0,5,0,0,5,0,5,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,30-39,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,40-49,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,50-59,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,80-89,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Vigilio Spiazzo,PAT,20-29,0,3,2,1,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Vigilio Spiazzo,PAT,30-39,0,3,2,1,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Vigilio Spiazzo,PAT,40-49,1,6,5,2,0,0,7,0,P.A. Trento
+2021-01-08,PF/BT,APSP S.Vigilio Spiazzo,PAT,50-59,0,5,2,3,0,0,5,0,P.A. Trento
+2021-01-08,PF/BT,APSP Santa Maria di Cles,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Santa Maria di Cles,PAT,40-49,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-08,PF/BT,APSP Santa Maria di Cles,PAT,50-59,0,4,3,0,1,0,4,0,P.A. Trento
+2021-01-08,PF/BT,APSP Santa Maria di Cles,PAT,70-79,1,5,0,0,6,0,6,0,P.A. Trento
+2021-01-08,PF/BT,APSP Santa Maria di Cles,PAT,80-89,2,6,0,0,8,0,8,0,P.A. Trento
+2021-01-08,PF/BT,APSP Santa Maria di Cles,PAT,90+,3,8,0,0,11,0,11,0,P.A. Trento
+2021-01-08,PF/BT,APSP Suor Agnese Castello Tesino,PAT,20-29,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-08,PF/BT,APSP Suor Agnese Castello Tesino,PAT,30-39,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Suor Agnese Castello Tesino,PAT,40-49,0,5,4,0,1,0,5,0,P.A. Trento
+2021-01-08,PF/BT,APSP Suor Agnese Castello Tesino,PAT,50-59,2,7,8,0,1,0,9,0,P.A. Trento
+2021-01-08,PF/BT,APSP Suor Agnese Castello Tesino,PAT,60-69,1,5,2,0,4,0,6,0,P.A. Trento
+2021-01-08,PF/BT,APSP Suor Agnese Castello Tesino,PAT,70-79,5,1,0,0,6,0,6,0,P.A. Trento
+2021-01-08,PF/BT,APSP Suor Agnese Castello Tesino,PAT,80-89,4,18,0,0,22,0,22,0,P.A. Trento
+2021-01-08,PF/BT,APSP Suor Agnese Castello Tesino,PAT,90+,1,11,0,0,12,0,12,0,P.A. Trento
+2021-01-08,PF/BT,APSP Vallarsa,PAT,30-39,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Vallarsa,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Vallarsa,PAT,50-59,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Vallarsa,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,APSP Vallarsa,PAT,70-79,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-08,PF/BT,APSP Vallarsa,PAT,80-89,5,5,0,0,10,0,10,0,P.A. Trento
+2021-01-08,PF/BT,APSP Vallarsa,PAT,90+,0,14,0,0,14,0,14,0,P.A. Trento
+2021-01-08,PF/BT,APSP Vigo di Fassa,PAT,40-49,0,4,3,0,1,0,4,0,P.A. Trento
+2021-01-08,PF/BT,APSP Vigo di Fassa,PAT,90+,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-08,PF/BT,Casa di Cura Eremo Arco,PAT,20-29,2,4,5,1,0,0,6,0,P.A. Trento
+2021-01-08,PF/BT,Casa di Cura Eremo Arco,PAT,30-39,2,6,6,2,0,0,8,0,P.A. Trento
+2021-01-08,PF/BT,Casa di Cura Eremo Arco,PAT,40-49,5,14,12,7,0,0,19,0,P.A. Trento
+2021-01-08,PF/BT,Casa di Cura Eremo Arco,PAT,50-59,7,24,14,17,0,0,31,0,P.A. Trento
+2021-01-08,PF/BT,Casa di Cura Eremo Arco,PAT,60-69,4,7,6,5,0,0,11,0,P.A. Trento
+2021-01-08,PF/BT,Casa di Cura Eremo Arco,PAT,70-79,2,0,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,Casa di Cura Eremo Arco,PAT,90+,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,Casa di Cura Regina Arco,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,Casa di Cura Regina Arco,PAT,40-49,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,Casa di Cura Regina Arco,PAT,60-69,0,2,1,1,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,Casa di Cura Solarix Rovereto,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,Casa di Cura Solarix Rovereto,PAT,30-39,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,Casa di Cura Solarix Rovereto,PAT,60-69,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,Casa di Cura Solarix Rovereto,PAT,70-79,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,Centro servizi sociosanitari residenziali Malè,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,Centro servizi sociosanitari residenziali Malè,PAT,50-59,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,Centro servizi sociosanitari residenziali Malè,PAT,60-69,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale di Arco,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale di Arco,PAT,30-39,3,3,6,0,0,0,6,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale di Arco,PAT,40-49,5,6,11,0,0,0,11,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale di Arco,PAT,50-59,4,7,11,0,0,0,11,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale di Arco,PAT,60-69,1,6,7,0,0,0,7,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale S.Chiara di Trento,PAT,20-29,4,9,13,0,0,0,13,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale S.Chiara di Trento,PAT,30-39,6,12,18,0,0,0,18,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale S.Chiara di Trento,PAT,40-49,7,17,24,0,0,0,24,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale S.Chiara di Trento,PAT,50-59,2,14,16,0,0,0,16,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale S.Chiara di Trento,PAT,60-69,4,8,12,0,0,0,12,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale S.Chiara di Trento,PAT,70-79,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,30-39,4,3,3,4,0,0,7,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,40-49,4,7,9,2,0,0,11,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,50-59,7,4,8,3,0,0,11,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale S.Lorenzo di Borgo Valsugana,PAT,60-69,4,1,3,2,0,0,5,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,20-29,1,7,8,0,0,0,8,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,30-39,3,2,5,0,0,0,5,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,40-49,4,14,18,0,0,0,18,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,50-59,4,10,14,0,0,0,14,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,60-69,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale San Camillo Trento,PAT,20-29,2,4,6,0,0,0,6,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale San Camillo Trento,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale San Camillo Trento,PAT,50-59,5,1,6,0,0,0,6,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale San Camillo Trento,PAT,60-69,2,1,3,0,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,Ospedale San Camillo Trento,PAT,70-79,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,PVT CLES,PAT,20-29,3,10,13,0,0,0,13,0,P.A. Trento
+2021-01-08,PF/BT,PVT CLES,PAT,30-39,3,13,16,0,0,0,16,0,P.A. Trento
+2021-01-08,PF/BT,PVT CLES,PAT,40-49,3,12,15,0,0,0,15,0,P.A. Trento
+2021-01-08,PF/BT,PVT CLES,PAT,50-59,3,15,18,0,0,0,18,0,P.A. Trento
+2021-01-08,PF/BT,PVT CLES,PAT,60-69,14,8,22,0,0,0,22,0,P.A. Trento
+2021-01-08,PF/BT,PVT CLES,PAT,70-79,2,0,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,PVT TRENTO,PAT,40-49,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,PVT TRENTO,PAT,50-59,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-08,PF/BT,PVT TRENTO,PAT,60-69,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-08,PF/BT,PVT TRENTO,PAT,70-79,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA Angeli Custodi Trento,PAT,60-69,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA Angeli Custodi Trento,PAT,70-79,1,4,0,0,5,0,5,0,P.A. Trento
+2021-01-08,PF/BT,RSA Angeli Custodi Trento,PAT,80-89,1,10,0,0,11,0,11,0,P.A. Trento
+2021-01-08,PF/BT,RSA Angeli Custodi Trento,PAT,90+,0,7,0,0,7,0,7,0,P.A. Trento
+2021-01-08,PF/BT,RSA Casa Famiglia Cadine,PAT,30-39,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA Casa Famiglia Cadine,PAT,40-49,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA Casa Famiglia Cadine,PAT,50-59,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA Casa Famiglia Cadine,PAT,70-79,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA Casa Famiglia Cadine,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA Casa Famiglia Cadine,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA Casa Sacra Famiglia Arco,PAT,60-69,2,0,1,0,1,0,2,0,P.A. Trento
+2021-01-08,PF/BT,RSA Casa Sacra Famiglia Arco,PAT,70-79,0,7,0,0,7,0,7,0,P.A. Trento
+2021-01-08,PF/BT,RSA Casa Sacra Famiglia Arco,PAT,80-89,2,12,0,0,14,0,14,0,P.A. Trento
+2021-01-08,PF/BT,RSA Casa Sacra Famiglia Arco,PAT,90+,1,12,0,0,13,0,13,0,P.A. Trento
+2021-01-08,PF/BT,RSA S. Bartolomeo Trento,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA S. Bartolomeo Trento,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA S. Bartolomeo Trento,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA S. Bartolomeo Trento,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA S. Bartolomeo Trento,PAT,60-69,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA S. Bartolomeo Trento,PAT,70-79,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA S. Bartolomeo Trento,PAT,80-89,0,5,0,0,5,0,5,0,P.A. Trento
+2021-01-08,PF/BT,RSA S. Bartolomeo Trento,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,20-29,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-08,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,30-39,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,40-49,2,9,10,0,1,0,11,0,P.A. Trento
+2021-01-08,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,50-59,1,13,13,0,1,0,14,0,P.A. Trento
+2021-01-08,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,60-69,1,9,6,0,4,0,10,0,P.A. Trento
+2021-01-08,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,70-79,1,8,0,0,9,0,9,0,P.A. Trento
+2021-01-08,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,80-89,2,9,0,0,11,0,11,0,P.A. Trento
+2021-01-08,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,90+,0,16,0,0,16,0,16,0,P.A. Trento
+2021-01-08,PF/BT,RSA Solatrix Rovereto,PAT,20-29,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,RSA Solatrix Rovereto,PAT,30-39,0,6,4,2,0,0,6,0,P.A. Trento
+2021-01-08,PF/BT,RSA Solatrix Rovereto,PAT,40-49,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-08,PF/BT,RSA Stella del Mattino Gardolo,PAT,60-69,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA Stella del Mattino Gardolo,PAT,70-79,2,0,0,0,2,0,2,0,P.A. Trento
+2021-01-08,PF/BT,RSA Stella del Mattino Gardolo,PAT,80-89,2,4,0,1,5,0,6,0,P.A. Trento
+2021-01-08,PF/BT,RSA Stella del Mattino Gardolo,PAT,90+,0,6,0,2,4,0,6,0,P.A. Trento
+2021-01-08,PF/BT,RSA Via Veneto Trento,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,RSA Via Veneto Trento,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,RSA Via Veneto Trento,PAT,50-59,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSA Via Veneto Trento,PAT,90+,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSAO Casa di Cura Solarix Rovereto,PAT,70-79,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,RSAO Casa di Cura Solarix Rovereto,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-08,PF/BT,Sacra Famiglia Rovereto,PAT,20-29,2,2,2,2,0,0,4,0,P.A. Trento
+2021-01-08,PF/BT,Sacra Famiglia Rovereto,PAT,30-39,2,0,2,0,0,0,2,0,P.A. Trento
+2021-01-08,PF/BT,Sacra Famiglia Rovereto,PAT,40-49,0,9,9,0,0,0,9,0,P.A. Trento
+2021-01-08,PF/BT,Sacra Famiglia Rovereto,PAT,50-59,1,9,8,2,0,0,10,0,P.A. Trento
+2021-01-08,PF/BT,Sacra Famiglia Rovereto,PAT,60-69,2,2,1,0,3,0,4,0,P.A. Trento
+2021-01-08,PF/BT,Sacra Famiglia Rovereto,PAT,70-79,2,11,0,0,7,6,13,0,P.A. Trento
+2021-01-08,PF/BT,Sacra Famiglia Rovereto,PAT,80-89,1,21,0,0,21,1,22,0,P.A. Trento
+2021-01-08,PF/BT,Sacra Famiglia Rovereto,PAT,90+,0,24,0,0,23,1,24,0,P.A. Trento
+2021-01-08,PF/BT,SPES Villa Belfonte di Trento,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,SPES Villa Belfonte di Trento,PAT,40-49,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-08,PF/BT,SPES Villa Belfonte di Trento,PAT,50-59,2,1,0,2,1,0,3,0,P.A. Trento
+2021-01-08,PF/BT,SPES Villa Belfonte di Trento,PAT,60-69,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-09,PF/BT,APSP Casa Laner Folgaria,PAT,20-29,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-09,PF/BT,APSP Casa Laner Folgaria,PAT,30-39,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-09,PF/BT,APSP Casa Laner Folgaria,PAT,40-49,1,3,3,1,0,0,4,0,P.A. Trento
+2021-01-09,PF/BT,APSP Casa Laner Folgaria,PAT,50-59,1,9,9,1,0,0,10,0,P.A. Trento
+2021-01-09,PF/BT,APSP Casa Laner Folgaria,PAT,60-69,0,3,1,2,0,0,3,0,P.A. Trento
+2021-01-09,PF/BT,Ospedale San Camillo Trento,PAT,20-29,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-09,PF/BT,Ospedale San Camillo Trento,PAT,30-39,2,4,6,0,0,0,6,0,P.A. Trento
+2021-01-09,PF/BT,Ospedale San Camillo Trento,PAT,40-49,6,8,14,0,0,0,14,0,P.A. Trento
+2021-01-09,PF/BT,Ospedale San Camillo Trento,PAT,50-59,4,14,18,0,0,0,18,0,P.A. Trento
+2021-01-09,PF/BT,Ospedale San Camillo Trento,PAT,60-69,6,2,8,0,0,0,8,0,P.A. Trento
+2021-01-09,PF/BT,Ospedale San Camillo Trento,PAT,70-79,3,0,3,0,0,0,3,0,P.A. Trento
+2021-01-09,PF/BT,RSA Angeli Custodi Trento,PAT,70-79,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-09,PF/BT,RSA Angeli Custodi Trento,PAT,90+,0,11,0,0,11,0,11,0,P.A. Trento
+2021-01-09,PF/BT,RSA S. Bartolomeo Trento,PAT,20-29,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-09,PF/BT,RSA S. Bartolomeo Trento,PAT,30-39,3,6,6,3,0,0,9,0,P.A. Trento
+2021-01-09,PF/BT,RSA S. Bartolomeo Trento,PAT,40-49,1,24,21,4,0,0,25,0,P.A. Trento
+2021-01-09,PF/BT,RSA S. Bartolomeo Trento,PAT,50-59,2,28,28,2,0,0,30,0,P.A. Trento
+2021-01-09,PF/BT,RSA S. Bartolomeo Trento,PAT,60-69,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-09,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,30-39,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-09,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,40-49,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-09,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,50-59,0,8,6,0,2,0,8,0,P.A. Trento
+2021-01-09,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,70-79,5,1,0,0,6,0,6,0,P.A. Trento
+2021-01-09,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,80-89,0,3,0,0,3,0,3,0,P.A. Trento
+2021-01-09,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,90+,0,5,0,0,5,0,5,0,P.A. Trento
+2021-01-10,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,30-39,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-10,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,50-59,2,1,0,3,0,0,3,0,P.A. Trento
+2021-01-10,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,90+,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-10,PF/BT,RSA Angeli Custodi Trento,PAT,80-89,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-10,PF/BT,RSA Angeli Custodi Trento,PAT,90+,0,4,0,0,4,0,4,0,P.A. Trento
+2021-01-10,PF/BT,RSA S. Bartolomeo Trento,PAT,20-29,2,8,9,1,0,0,10,0,P.A. Trento
+2021-01-10,PF/BT,RSA S. Bartolomeo Trento,PAT,30-39,2,3,4,1,0,0,5,0,P.A. Trento
+2021-01-10,PF/BT,RSA S. Bartolomeo Trento,PAT,40-49,5,13,12,6,0,0,18,0,P.A. Trento
+2021-01-10,PF/BT,RSA S. Bartolomeo Trento,PAT,50-59,4,21,20,5,0,0,25,0,P.A. Trento
+2021-01-10,PF/BT,RSA S. Bartolomeo Trento,PAT,60-69,2,6,7,1,0,0,8,0,P.A. Trento
+2021-01-11,PF/BT,APSP Anaunia Predaia,PAT,20-29,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Anaunia Predaia,PAT,30-39,1,2,2,1,0,0,3,0,P.A. Trento
+2021-01-11,PF/BT,APSP Anaunia Predaia,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Anaunia Predaia,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Bontempelli Pellizzano,PAT,40-49,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Bontempelli Pellizzano,PAT,50-59,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Bontempelli Pellizzano,PAT,60-69,1,4,0,0,5,0,5,0,P.A. Trento
+2021-01-11,PF/BT,APSP Bontempelli Pellizzano,PAT,70-79,3,7,0,0,10,0,10,0,P.A. Trento
+2021-01-11,PF/BT,APSP Bontempelli Pellizzano,PAT,80-89,5,10,0,0,15,0,15,0,P.A. Trento
+2021-01-11,PF/BT,APSP Bontempelli Pellizzano,PAT,90+,1,15,0,0,16,0,16,0,P.A. Trento
+2021-01-11,PF/BT,APSP Campagnola Avio,PAT,40-49,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Campagnola Avio,PAT,50-59,0,2,0,2,0,0,2,0,P.A. Trento
+2021-01-11,PF/BT,APSP Campagnola Avio,PAT,60-69,1,2,0,0,3,0,3,0,P.A. Trento
+2021-01-11,PF/BT,APSP Campagnola Avio,PAT,70-79,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Campagnola Avio,PAT,80-89,1,3,0,0,4,0,4,0,P.A. Trento
+2021-01-11,PF/BT,APSP Campagnola Avio,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Casa di riposo Giovanelli Tesero,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Casa di riposo Giovanelli Tesero,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Casa di riposo Giovanelli Tesero,PAT,50-59,1,1,1,0,1,0,2,0,P.A. Trento
+2021-01-11,PF/BT,APSP Casa di riposo Giovanelli Tesero,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Casa di riposo Giovanelli Tesero,PAT,70-79,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,70-79,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-11,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,80-89,0,4,0,0,4,0,4,0,P.A. Trento
+2021-01-11,PF/BT,APSP Casa Laner Folgaria,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Casa Laner Folgaria,PAT,60-69,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Casa Laner Folgaria,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Casa Laner Folgaria,PAT,90+,0,3,0,0,3,0,3,0,P.A. Trento
+2021-01-11,PF/BT,APSP Città di Riva di Riva del Garda,PAT,40-49,1,5,5,1,0,0,6,0,P.A. Trento
+2021-01-11,PF/BT,APSP Città di Riva di Riva del Garda,PAT,50-59,0,5,4,1,0,0,5,0,P.A. Trento
+2021-01-11,PF/BT,APSP Città di Riva di Riva del Garda,PAT,60-69,1,2,0,0,3,0,3,0,P.A. Trento
+2021-01-11,PF/BT,APSP Città di Riva di Riva del Garda,PAT,70-79,1,2,0,0,3,0,3,0,P.A. Trento
+2021-01-11,PF/BT,APSP Città di Riva di Riva del Garda,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Levico Curae Levico Terme,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Levico Curae Levico Terme,PAT,50-59,1,2,1,0,1,1,3,0,P.A. Trento
+2021-01-11,PF/BT,APSP Levico Curae Levico Terme,PAT,80-89,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Levico Curae Levico Terme,PAT,90+,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Opera Romani Nomi,PAT,20-29,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Opera Romani Nomi,PAT,30-39,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Opera Romani Nomi,PAT,40-49,1,5,3,3,0,0,6,0,P.A. Trento
+2021-01-11,PF/BT,APSP Opera Romani Nomi,PAT,50-59,2,7,5,4,0,0,9,0,P.A. Trento
+2021-01-11,PF/BT,APSP Opera Romani Nomi,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,20-29,0,2,1,1,0,0,2,0,P.A. Trento
+2021-01-11,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,40-49,0,3,1,2,0,0,3,0,P.A. Trento
+2021-01-11,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,60-69,1,2,0,3,0,0,3,0,P.A. Trento
+2021-01-11,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,80-89,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-11,PF/BT,APSP Padre Nicolini Pieve di Bono,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Piccolo Ospedale Pieve Tesino,PAT,30-39,1,1,0,2,0,0,2,0,P.A. Trento
+2021-01-11,PF/BT,APSP Piccolo Ospedale Pieve Tesino,PAT,40-49,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Piccolo Ospedale Pieve Tesino,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Piccolo Ospedale Pieve Tesino,PAT,90+,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-11,PF/BT,APSP Residenza Molino Dro,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Residenza Molino Dro,PAT,30-39,0,2,0,2,0,0,2,0,P.A. Trento
+2021-01-11,PF/BT,APSP Residenza Molino Dro,PAT,40-49,0,3,2,1,0,0,3,0,P.A. Trento
+2021-01-11,PF/BT,APSP Residenza Molino Dro,PAT,50-59,0,2,1,1,0,0,2,0,P.A. Trento
+2021-01-11,PF/BT,APSP Residenza Molino Dro,PAT,60-69,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Residenza Molino Dro,PAT,80-89,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-11,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,30-39,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-11,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,50-59,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,60-69,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP S. Giuseppe di Primiero San Martino di Castrozza Transacqua,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP S. Giuseppe di Primiero San Martino di Castrozza Transacqua,PAT,50-59,2,1,3,0,0,0,3,0,P.A. Trento
+2021-01-11,PF/BT,APSP S. Giuseppe di Primiero San Martino di Castrozza Transacqua,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP S. Giuseppe di Primiero San Martino di Castrozza Transacqua,PAT,70-79,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,30-39,1,4,4,1,0,0,5,0,P.A. Trento
+2021-01-11,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,50-59,0,4,3,0,1,0,4,0,P.A. Trento
+2021-01-11,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,70-79,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-11,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,80-89,1,3,0,0,4,0,4,0,P.A. Trento
+2021-01-11,PF/BT,APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Santa Maria di Cles,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-11,PF/BT,APSP Santa Maria di Cles,PAT,40-49,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-11,PF/BT,APSP Santa Maria di Cles,PAT,50-59,1,5,6,0,0,0,6,0,P.A. Trento
+2021-01-11,PF/BT,APSP Santa Maria di Cles,PAT,60-69,0,2,1,0,1,0,2,0,P.A. Trento
+2021-01-11,PF/BT,APSP Santa Maria di Cles,PAT,70-79,0,4,2,0,2,0,4,0,P.A. Trento
+2021-01-11,PF/BT,APSP Santa Maria di Cles,PAT,90+,0,5,0,0,5,0,5,0,P.A. Trento
+2021-01-11,PF/BT,APSP Villa San Lorenzo Storo,PAT,20-29,0,1,0,0,0,1,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Villa San Lorenzo Storo,PAT,40-49,0,3,1,0,0,2,3,0,P.A. Trento
+2021-01-11,PF/BT,APSP Villa San Lorenzo Storo,PAT,50-59,1,1,1,0,0,1,2,0,P.A. Trento
+2021-01-11,PF/BT,APSP Villa San Lorenzo Storo,PAT,60-69,0,2,1,0,1,0,2,0,P.A. Trento
+2021-01-11,PF/BT,APSP Villa San Lorenzo Storo,PAT,80-89,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,APSP Villa San Lorenzo Storo,PAT,90+,1,2,0,0,3,0,3,0,P.A. Trento
+2021-01-11,PF/BT,Casa di Cura Solarix Rovereto,PAT,40-49,0,3,2,1,0,0,3,0,P.A. Trento
+2021-01-11,PF/BT,Casa di Cura Solarix Rovereto,PAT,50-59,2,0,2,0,0,0,2,0,P.A. Trento
+2021-01-11,PF/BT,Casa di Cura Solarix Rovereto,PAT,60-69,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale di Arco,PAT,20-29,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale di Arco,PAT,30-39,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale di Arco,PAT,40-49,1,9,10,0,0,0,10,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale di Arco,PAT,50-59,0,14,14,0,0,0,14,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale di Arco,PAT,60-69,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale S.Chiara di Trento,PAT,20-29,2,11,13,0,0,0,13,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale S.Chiara di Trento,PAT,30-39,14,16,28,2,0,0,30,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale S.Chiara di Trento,PAT,40-49,8,12,18,2,0,0,20,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale S.Chiara di Trento,PAT,50-59,8,16,23,1,0,0,24,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale S.Chiara di Trento,PAT,60-69,6,3,9,0,0,0,9,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,20-29,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,30-39,8,7,15,0,0,0,15,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,40-49,4,9,13,0,0,0,13,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,50-59,3,10,13,0,0,0,13,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,60-69,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale San Camillo Trento,PAT,20-29,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale San Camillo Trento,PAT,30-39,4,0,4,0,0,0,4,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale San Camillo Trento,PAT,40-49,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale San Camillo Trento,PAT,50-59,1,7,8,0,0,0,8,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale San Camillo Trento,PAT,60-69,4,0,4,0,0,0,4,0,P.A. Trento
+2021-01-11,PF/BT,Ospedale San Camillo Trento,PAT,70-79,2,1,3,0,0,0,3,0,P.A. Trento
+2021-01-11,PF/BT,PVT ROVERETO,PAT,20-29,4,5,9,0,0,0,9,0,P.A. Trento
+2021-01-11,PF/BT,PVT ROVERETO,PAT,30-39,4,5,9,0,0,0,9,0,P.A. Trento
+2021-01-11,PF/BT,PVT ROVERETO,PAT,40-49,3,14,17,0,0,0,17,0,P.A. Trento
+2021-01-11,PF/BT,PVT ROVERETO,PAT,50-59,3,9,12,0,0,0,12,0,P.A. Trento
+2021-01-11,PF/BT,PVT ROVERETO,PAT,60-69,3,4,7,0,0,0,7,0,P.A. Trento
+2021-01-11,PF/BT,PVT TRENTO,PAT,20-29,4,15,18,0,0,1,19,0,P.A. Trento
+2021-01-11,PF/BT,PVT TRENTO,PAT,30-39,10,13,22,0,0,1,23,0,P.A. Trento
+2021-01-11,PF/BT,PVT TRENTO,PAT,40-49,10,27,37,0,0,0,37,0,P.A. Trento
+2021-01-11,PF/BT,PVT TRENTO,PAT,50-59,28,21,49,0,0,0,49,0,P.A. Trento
+2021-01-11,PF/BT,PVT TRENTO,PAT,60-69,14,14,27,0,0,1,28,0,P.A. Trento
+2021-01-11,PF/BT,RSA Angeli Custodi Trento,PAT,30-39,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,RSA Angeli Custodi Trento,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,RSA Angeli Custodi Trento,PAT,50-59,1,1,1,1,0,0,2,0,P.A. Trento
+2021-01-11,PF/BT,RSA Angeli Custodi Trento,PAT,70-79,1,2,0,0,3,0,3,0,P.A. Trento
+2021-01-11,PF/BT,RSA Angeli Custodi Trento,PAT,80-89,3,2,0,0,5,0,5,0,P.A. Trento
+2021-01-11,PF/BT,RSA Angeli Custodi Trento,PAT,90+,1,7,0,0,8,0,8,0,P.A. Trento
+2021-01-11,PF/BT,RSA Casa Famiglia Cadine,PAT,30-39,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,RSA Casa Famiglia Cadine,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-11,PF/BT,RSA Casa Famiglia Cadine,PAT,50-59,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,RSA Casa Famiglia Cadine,PAT,60-69,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,RSA S. Bartolomeo Trento,PAT,20-29,1,2,2,1,0,0,3,0,P.A. Trento
+2021-01-11,PF/BT,RSA S. Bartolomeo Trento,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,RSA S. Bartolomeo Trento,PAT,40-49,0,4,1,2,1,0,4,0,P.A. Trento
+2021-01-11,PF/BT,RSA S. Bartolomeo Trento,PAT,50-59,0,6,4,2,0,0,6,0,P.A. Trento
+2021-01-11,PF/BT,RSA S. Bartolomeo Trento,PAT,60-69,1,3,1,1,2,0,4,0,P.A. Trento
+2021-01-11,PF/BT,RSA S. Bartolomeo Trento,PAT,70-79,1,2,0,0,3,0,3,0,P.A. Trento
+2021-01-11,PF/BT,RSA S. Bartolomeo Trento,PAT,80-89,3,9,0,0,12,0,12,0,P.A. Trento
+2021-01-11,PF/BT,RSA S. Bartolomeo Trento,PAT,90+,0,6,0,0,6,0,6,0,P.A. Trento
+2021-01-11,PF/BT,RSA Stella del Mattino Gardolo,PAT,30-39,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,RSA Stella del Mattino Gardolo,PAT,60-69,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,RSA Stella del Mattino Gardolo,PAT,70-79,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,RSA Stella del Mattino Gardolo,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-11,PF/BT,Sacra Famiglia Rovereto,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-11,PF/BT,Sacra Famiglia Rovereto,PAT,30-39,3,0,2,1,0,0,3,0,P.A. Trento
+2021-01-11,PF/BT,Sacra Famiglia Rovereto,PAT,40-49,0,2,1,1,0,0,2,0,P.A. Trento
+2021-01-11,PF/BT,Sacra Famiglia Rovereto,PAT,50-59,2,3,4,1,0,0,5,0,P.A. Trento
+2021-01-11,PF/BT,Sacra Famiglia Rovereto,PAT,60-69,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-11,PF/BT,Sacra Famiglia Rovereto,PAT,80-89,0,3,0,0,3,0,3,0,P.A. Trento
+2021-01-11,PF/BT,SPES RSA Valle di Cembra Lisignago,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-11,PF/BT,SPES RSA Valle di Cembra Lisignago,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-11,PF/BT,SPES RSA Valle di Cembra Lisignago,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-11,PF/BT,SPES RSA Valle di Cembra Lisignago,PAT,70-79,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Beato de Tschiderer Trento,PAT,20-29,3,2,1,4,0,0,5,0,P.A. Trento
+2021-01-12,PF/BT,APSP Beato de Tschiderer Trento,PAT,30-39,0,2,1,1,0,0,2,0,P.A. Trento
+2021-01-12,PF/BT,APSP Beato de Tschiderer Trento,PAT,40-49,1,4,2,3,0,0,5,0,P.A. Trento
+2021-01-12,PF/BT,APSP Beato de Tschiderer Trento,PAT,50-59,0,5,1,4,0,0,5,0,P.A. Trento
+2021-01-12,PF/BT,APSP Beato de Tschiderer Trento,PAT,60-69,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Bleggio Superiore,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Bleggio Superiore,PAT,30-39,2,0,2,0,0,0,2,0,P.A. Trento
+2021-01-12,PF/BT,APSP Bleggio Superiore,PAT,40-49,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Bleggio Superiore,PAT,50-59,2,3,4,1,0,0,5,0,P.A. Trento
+2021-01-12,PF/BT,APSP Bleggio Superiore,PAT,60-69,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Bleggio Superiore,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Bleggio Superiore,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Città di Riva di Riva del Garda,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Città di Riva di Riva del Garda,PAT,50-59,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Città di Riva di Riva del Garda,PAT,60-69,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-12,PF/BT,APSP Città di Riva di Riva del Garda,PAT,70-79,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Città di Riva di Riva del Garda,PAT,80-89,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-12,PF/BT,APSP Città di Riva di Riva del Garda,PAT,90+,0,5,0,0,5,0,5,0,P.A. Trento
+2021-01-12,PF/BT,APSP Opera Romani Nomi,PAT,40-49,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Opera Romani Nomi,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Opera Romani Nomi,PAT,60-69,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Opera Romani Nomi,PAT,70-79,1,2,0,0,3,0,3,0,P.A. Trento
+2021-01-12,PF/BT,APSP Opera Romani Nomi,PAT,80-89,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-12,PF/BT,APSP Opera Romani Nomi,PAT,90+,0,4,0,0,4,0,4,0,P.A. Trento
+2021-01-12,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,50-59,1,1,1,1,0,0,2,0,P.A. Trento
+2021-01-12,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,60-69,1,1,1,0,1,0,2,0,P.A. Trento
+2021-01-12,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,70-79,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Residenza Valle dei Laghi Cavedine,PAT,90+,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-12,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Rosa dei Venti Borgo Chiese Condino,PAT,90+,0,3,0,0,3,0,3,0,P.A. Trento
+2021-01-12,PF/BT,APSP Vallarsa,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-12,PF/BT,APSP Vallarsa,PAT,50-59,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-12,PF/BT,APSP Vallarsa,PAT,60-69,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-12,PF/BT,APSP Vallarsa,PAT,70-79,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-12,PF/BT,APSP Vallarsa,PAT,80-89,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-12,PF/BT,APSP Vallarsa,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Villa San Lorenzo Storo,PAT,20-29,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-12,PF/BT,APSP Villa San Lorenzo Storo,PAT,40-49,0,2,0,2,0,0,2,0,P.A. Trento
+2021-01-12,PF/BT,APSP Villa San Lorenzo Storo,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-12,PF/BT,Coop.Stella Montis Fondo,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-12,PF/BT,Coop.Stella Montis Fondo,PAT,50-59,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-12,PF/BT,Coop.Stella Montis Fondo,PAT,60-69,0,2,1,0,1,0,2,0,P.A. Trento
+2021-01-12,PF/BT,Coop.Stella Montis Fondo,PAT,70-79,4,4,0,0,8,0,8,0,P.A. Trento
+2021-01-12,PF/BT,Coop.Stella Montis Fondo,PAT,80-89,6,7,0,0,13,0,13,0,P.A. Trento
+2021-01-12,PF/BT,Coop.Stella Montis Fondo,PAT,90+,1,8,0,0,9,0,9,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,20-29,2,0,2,0,0,0,2,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,30-39,1,7,8,0,0,0,8,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,40-49,5,7,11,1,0,0,12,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,50-59,3,18,20,1,0,0,21,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale delle Valli del Noce di Cles,PAT,60-69,2,3,5,0,0,0,5,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale di Arco,PAT,20-29,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale di Arco,PAT,30-39,1,5,6,0,0,0,6,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale di Arco,PAT,40-49,6,5,11,0,0,0,11,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale di Arco,PAT,50-59,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale di Arco,PAT,60-69,2,1,3,0,0,0,3,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale di Tione,PAT,20-29,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale di Tione,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale di Tione,PAT,50-59,3,3,6,0,0,0,6,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale di Tione,PAT,60-69,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale S.Chiara di Trento,PAT,20-29,4,5,8,1,0,0,9,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale S.Chiara di Trento,PAT,30-39,8,20,26,2,0,0,28,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale S.Chiara di Trento,PAT,40-49,7,20,26,1,0,0,27,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale S.Chiara di Trento,PAT,50-59,10,19,28,1,0,0,29,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale S.Chiara di Trento,PAT,60-69,7,2,9,0,0,0,9,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,20-29,1,7,8,0,0,0,8,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,30-39,5,6,11,0,0,0,11,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,40-49,3,9,12,0,0,0,12,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,50-59,7,7,14,0,0,0,14,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,60-69,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale San Camillo Trento,PAT,20-29,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale San Camillo Trento,PAT,30-39,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale San Camillo Trento,PAT,40-49,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale San Camillo Trento,PAT,50-59,2,6,8,0,0,0,8,0,P.A. Trento
+2021-01-12,PF/BT,Ospedale San Camillo Trento,PAT,60-69,3,3,6,0,0,0,6,0,P.A. Trento
+2021-01-12,PF/BT,PVT MEZZOLOMBARDO,PAT,20-29,4,8,11,0,0,1,12,0,P.A. Trento
+2021-01-12,PF/BT,PVT MEZZOLOMBARDO,PAT,30-39,8,10,14,0,0,4,18,0,P.A. Trento
+2021-01-12,PF/BT,PVT MEZZOLOMBARDO,PAT,40-49,5,8,12,0,0,1,13,0,P.A. Trento
+2021-01-12,PF/BT,PVT MEZZOLOMBARDO,PAT,50-59,5,16,17,0,0,4,21,0,P.A. Trento
+2021-01-12,PF/BT,PVT MEZZOLOMBARDO,PAT,60-69,4,2,3,0,0,3,6,0,P.A. Trento
+2021-01-12,PF/BT,PVT ROVERETO,PAT,20-29,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-12,PF/BT,PVT ROVERETO,PAT,30-39,1,2,2,0,0,1,3,0,P.A. Trento
+2021-01-12,PF/BT,PVT ROVERETO,PAT,40-49,3,7,10,0,0,0,10,0,P.A. Trento
+2021-01-12,PF/BT,PVT ROVERETO,PAT,50-59,4,16,19,1,0,0,20,0,P.A. Trento
+2021-01-12,PF/BT,PVT ROVERETO,PAT,60-69,1,4,4,0,0,1,5,0,P.A. Trento
+2021-01-12,PF/BT,RSA Grazioli Povo,PAT,20-29,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-12,PF/BT,RSA Grazioli Povo,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-12,PF/BT,RSA Grazioli Povo,PAT,40-49,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-12,PF/BT,RSA Grazioli Povo,PAT,50-59,0,6,6,0,0,0,6,0,P.A. Trento
+2021-01-13,PF/BT,APSP Santa Maria di Cles,PAT,20-29,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-13,PF/BT,APSP Santa Maria di Cles,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-13,PF/BT,APSP Santa Maria di Cles,PAT,40-49,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-13,PF/BT,APSP Santa Maria di Cles,PAT,50-59,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-13,PF/BT,APSP Santa Maria di Cles,PAT,70-79,2,0,0,0,2,0,2,0,P.A. Trento
+2021-01-13,PF/BT,APSP Santa Maria di Cles,PAT,80-89,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-13,PF/BT,APSP Santa Maria di Cles,PAT,90+,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-13,PF/BT,Coop.Stella Montis Fondo,PAT,20-29,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-13,PF/BT,Coop.Stella Montis Fondo,PAT,40-49,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-13,PF/BT,Coop.Stella Montis Fondo,PAT,50-59,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-13,PF/BT,Coop.Stella Montis Fondo,PAT,70-79,0,3,0,0,3,0,3,0,P.A. Trento
+2021-01-13,PF/BT,Coop.Stella Montis Fondo,PAT,80-89,0,4,0,0,4,0,4,0,P.A. Trento
+2021-01-13,PF/BT,Coop.Stella Montis Fondo,PAT,90+,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale di Arco,PAT,30-39,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale di Arco,PAT,40-49,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale di Arco,PAT,50-59,1,11,12,0,0,0,12,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale di Arco,PAT,60-69,3,1,4,0,0,0,4,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale di Tione,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale di Tione,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale di Tione,PAT,50-59,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale di Tione,PAT,60-69,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale S.Chiara di Trento,PAT,20-29,1,8,9,0,0,0,9,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale S.Chiara di Trento,PAT,30-39,3,23,25,1,0,0,26,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale S.Chiara di Trento,PAT,40-49,1,24,25,0,0,0,25,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale S.Chiara di Trento,PAT,50-59,6,15,19,2,0,0,21,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale S.Chiara di Trento,PAT,60-69,5,4,9,0,0,0,9,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,20-29,2,1,3,0,0,0,3,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,30-39,5,5,10,0,0,0,10,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,40-49,3,8,11,0,0,0,11,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,50-59,7,14,21,0,0,0,21,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,60-69,2,1,3,0,0,0,3,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale San Camillo Trento,PAT,20-29,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale San Camillo Trento,PAT,30-39,2,0,2,0,0,0,2,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale San Camillo Trento,PAT,40-49,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale San Camillo Trento,PAT,50-59,2,2,4,0,0,0,4,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale San Camillo Trento,PAT,60-69,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-13,PF/BT,Ospedale San Camillo Trento,PAT,70-79,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-13,PF/BT,PVT ARCO,PAT,20-29,1,2,2,0,0,1,3,0,P.A. Trento
+2021-01-13,PF/BT,PVT ARCO,PAT,30-39,2,3,5,0,0,0,5,0,P.A. Trento
+2021-01-13,PF/BT,PVT ARCO,PAT,40-49,3,7,10,0,0,0,10,0,P.A. Trento
+2021-01-13,PF/BT,PVT ARCO,PAT,50-59,5,16,20,0,0,1,21,0,P.A. Trento
+2021-01-13,PF/BT,PVT ARCO,PAT,60-69,6,3,8,0,0,1,9,0,P.A. Trento
+2021-01-13,PF/BT,PVT BORGO VALSUGANA,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-13,PF/BT,PVT BORGO VALSUGANA,PAT,40-49,2,7,9,0,0,0,9,0,P.A. Trento
+2021-01-13,PF/BT,PVT BORGO VALSUGANA,PAT,50-59,2,10,11,0,0,1,12,0,P.A. Trento
+2021-01-13,PF/BT,PVT BORGO VALSUGANA,PAT,60-69,5,2,6,0,0,1,7,0,P.A. Trento
+2021-01-13,PF/BT,PVT CLES,PAT,20-29,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-13,PF/BT,PVT CLES,PAT,30-39,0,8,7,0,0,1,8,0,P.A. Trento
+2021-01-13,PF/BT,PVT CLES,PAT,40-49,8,2,9,0,0,1,10,0,P.A. Trento
+2021-01-13,PF/BT,PVT CLES,PAT,50-59,3,2,5,0,0,0,5,0,P.A. Trento
+2021-01-13,PF/BT,PVT CLES,PAT,60-69,3,1,4,0,0,0,4,0,P.A. Trento
+2021-01-13,PF/BT,PVT MEZZOLOBARDO,PAT,20-29,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-13,PF/BT,PVT MEZZOLOBARDO,PAT,30-39,1,7,7,0,0,1,8,0,P.A. Trento
+2021-01-13,PF/BT,PVT MEZZOLOBARDO,PAT,40-49,2,6,7,0,0,1,8,0,P.A. Trento
+2021-01-13,PF/BT,PVT MEZZOLOBARDO,PAT,50-59,1,15,16,0,0,0,16,0,P.A. Trento
+2021-01-13,PF/BT,PVT MEZZOLOBARDO,PAT,60-69,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-13,PF/BT,PVT PERGINE VALSUGANA,PAT,20-29,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-13,PF/BT,PVT PERGINE VALSUGANA,PAT,30-39,3,3,6,0,0,0,6,0,P.A. Trento
+2021-01-13,PF/BT,PVT PERGINE VALSUGANA,PAT,40-49,3,1,4,0,0,0,4,0,P.A. Trento
+2021-01-13,PF/BT,PVT PERGINE VALSUGANA,PAT,50-59,5,11,16,0,0,0,16,0,P.A. Trento
+2021-01-13,PF/BT,PVT PERGINE VALSUGANA,PAT,60-69,3,3,6,0,0,0,6,0,P.A. Trento
+2021-01-13,PF/BT,RSA Grazioli Povo,PAT,20-29,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-13,PF/BT,RSA Grazioli Povo,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-13,PF/BT,RSA Grazioli Povo,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-13,PF/BT,RSA Grazioli Povo,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-13,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-13,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,50-59,3,4,6,1,0,0,7,0,P.A. Trento
+2021-01-13,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,70-79,1,0,0,1,0,0,1,0,P.A. Trento
+2021-01-13,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,80-89,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-13,PF/BT,RSA Sacro Cuore Bolognano Arco,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-14,PF/BT,APSP Beato de Tschiderer Trento,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-14,PF/BT,APSP Beato de Tschiderer Trento,PAT,30-39,0,1,0,0,0,1,1,0,P.A. Trento
+2021-01-14,PF/BT,APSP Beato de Tschiderer Trento,PAT,50-59,0,3,2,0,0,1,3,0,P.A. Trento
+2021-01-14,PF/BT,APSP Beato de Tschiderer Trento,PAT,70-79,1,0,0,0,1,0,1,0,P.A. Trento
+2021-01-14,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,20-29,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-14,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,30-39,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-14,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,40-49,0,10,10,0,0,0,10,0,P.A. Trento
+2021-01-14,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,50-59,2,10,11,0,1,0,12,0,P.A. Trento
+2021-01-14,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,60-69,5,4,2,0,7,0,9,0,P.A. Trento
+2021-01-14,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,70-79,3,3,0,0,6,0,6,0,P.A. Trento
+2021-01-14,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,80-89,3,15,0,0,18,0,18,0,P.A. Trento
+2021-01-14,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,90+,6,22,0,0,28,0,28,0,P.A. Trento
+2021-01-14,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,30-39,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-14,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,40-49,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-14,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,50-59,1,2,0,0,3,0,3,0,P.A. Trento
+2021-01-14,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,70-79,1,4,0,0,5,0,5,0,P.A. Trento
+2021-01-14,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,80-89,5,8,0,0,13,0,13,0,P.A. Trento
+2021-01-14,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,90+,1,14,0,0,15,0,15,0,P.A. Trento
+2021-01-14,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-14,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,30-39,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-14,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,40-49,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-14,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,70-79,2,3,0,0,5,0,5,0,P.A. Trento
+2021-01-14,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,80-89,2,1,0,0,3,0,3,0,P.A. Trento
+2021-01-14,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,90+,1,7,0,0,8,0,8,0,P.A. Trento
+2021-01-14,PF/BT,APSP S.Vigilio Spiazzo,PAT,30-39,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-14,PF/BT,APSP S.Vigilio Spiazzo,PAT,40-49,0,2,1,1,0,0,2,0,P.A. Trento
+2021-01-14,PF/BT,APSP S.Vigilio Spiazzo,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-14,PF/BT,APSP S.Vigilio Spiazzo,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-14,PF/BT,APSP S.Vigilio Spiazzo,PAT,70-79,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-14,PF/BT,APSP Santa Maria di Cles,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-14,PF/BT,APSP Santa Maria di Cles,PAT,50-59,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-14,PF/BT,APSP Santa Maria di Cles,PAT,80-89,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-14,PF/BT,APSP Vallarsa,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-14,PF/BT,APSP Vallarsa,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-14,PF/BT,APSP Vallarsa,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-14,PF/BT,APSP Vallarsa,PAT,60-69,1,1,1,0,1,0,2,0,P.A. Trento
+2021-01-14,PF/BT,Ospedale S.Chiara di Trento,PAT,20-29,1,9,10,0,0,0,10,0,P.A. Trento
+2021-01-14,PF/BT,Ospedale S.Chiara di Trento,PAT,30-39,7,14,20,1,0,0,21,0,P.A. Trento
+2021-01-14,PF/BT,Ospedale S.Chiara di Trento,PAT,40-49,7,19,26,0,0,0,26,0,P.A. Trento
+2021-01-14,PF/BT,Ospedale S.Chiara di Trento,PAT,50-59,9,23,31,0,0,1,32,0,P.A. Trento
+2021-01-14,PF/BT,Ospedale S.Chiara di Trento,PAT,60-69,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-14,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-14,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,30-39,2,4,6,0,0,0,6,0,P.A. Trento
+2021-01-14,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,40-49,4,12,16,0,0,0,16,0,P.A. Trento
+2021-01-14,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,50-59,3,18,21,0,0,0,21,0,P.A. Trento
+2021-01-14,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,60-69,2,1,3,0,0,0,3,0,P.A. Trento
+2021-01-14,PF/BT,Ospedale San Camillo Trento,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-14,PF/BT,Ospedale San Camillo Trento,PAT,30-39,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-14,PF/BT,Ospedale San Camillo Trento,PAT,40-49,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-14,PF/BT,Ospedale San Camillo Trento,PAT,50-59,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-14,PF/BT,Ospedale San Camillo Trento,PAT,60-69,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-14,PF/BT,PVT MALE',PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-14,PF/BT,PVT MALE',PAT,30-39,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-14,PF/BT,PVT MALE',PAT,40-49,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-14,PF/BT,PVT MALE',PAT,50-59,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-14,PF/BT,PVT MALE',PAT,60-69,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-14,PF/BT,PVT PERGINE VALSUGANA,PAT,30-39,2,1,2,0,0,1,3,0,P.A. Trento
+2021-01-14,PF/BT,PVT PERGINE VALSUGANA,PAT,40-49,3,5,8,0,0,0,8,0,P.A. Trento
+2021-01-14,PF/BT,PVT PERGINE VALSUGANA,PAT,50-59,4,13,14,0,0,3,17,0,P.A. Trento
+2021-01-14,PF/BT,PVT PERGINE VALSUGANA,PAT,60-69,3,5,7,0,0,1,8,0,P.A. Trento
+2021-01-14,PF/BT,PVT ROVERETO,PAT,20-29,3,5,7,0,0,1,8,0,P.A. Trento
+2021-01-14,PF/BT,PVT ROVERETO,PAT,30-39,5,8,12,0,0,1,13,0,P.A. Trento
+2021-01-14,PF/BT,PVT ROVERETO,PAT,40-49,7,16,22,0,0,1,23,0,P.A. Trento
+2021-01-14,PF/BT,PVT ROVERETO,PAT,50-59,7,15,21,1,0,0,22,0,P.A. Trento
+2021-01-14,PF/BT,PVT ROVERETO,PAT,60-69,8,10,18,0,0,0,18,0,P.A. Trento
+2021-01-14,PF/BT,PVT TIONE,PAT,20-29,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-14,PF/BT,PVT TIONE,PAT,30-39,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-14,PF/BT,PVT TIONE,PAT,40-49,1,5,6,0,0,0,6,0,P.A. Trento
+2021-01-14,PF/BT,PVT TIONE,PAT,50-59,5,10,14,0,0,1,15,0,P.A. Trento
+2021-01-14,PF/BT,PVT TIONE,PAT,60-69,4,3,7,0,0,0,7,0,P.A. Trento
+2021-01-14,PF/BT,PVT TONADICO,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-14,PF/BT,PVT TONADICO,PAT,30-39,4,4,8,0,0,0,8,0,P.A. Trento
+2021-01-14,PF/BT,PVT TONADICO,PAT,40-49,1,6,6,0,0,1,7,0,P.A. Trento
+2021-01-14,PF/BT,PVT TONADICO,PAT,50-59,2,7,9,0,0,0,9,0,P.A. Trento
+2021-01-14,PF/BT,PVT TONADICO,PAT,60-69,3,1,4,0,0,0,4,0,P.A. Trento
+2021-01-14,PF/BT,PVT TRENTO,PAT,20-29,2,1,3,0,0,0,3,0,P.A. Trento
+2021-01-14,PF/BT,PVT TRENTO,PAT,30-39,4,2,6,0,0,0,6,0,P.A. Trento
+2021-01-14,PF/BT,PVT TRENTO,PAT,40-49,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-14,PF/BT,PVT TRENTO,PAT,50-59,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-14,PF/BT,RSA Grazioli Povo,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-14,PF/BT,RSA Grazioli Povo,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-14,PF/BT,RSA Grazioli Povo,PAT,50-59,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-14,PF/BT,RSAO S.Camillo Trento,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-14,PF/BT,RSAO S.Camillo Trento,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-14,PF/BT,RSAO S.Camillo Trento,PAT,40-49,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-14,PF/BT,RSAO S.Camillo Trento,PAT,50-59,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-14,PF/BT,RSAO S.Camillo Trento,PAT,60-69,2,2,3,0,1,0,4,0,P.A. Trento
+2021-01-14,PF/BT,RSAO S.Camillo Trento,PAT,70-79,3,0,0,0,3,0,3,0,P.A. Trento
+2021-01-14,PF/BT,RSAO S.Camillo Trento,PAT,80-89,9,0,0,0,9,0,9,0,P.A. Trento
+2021-01-14,PF/BT,RSAO S.Camillo Trento,PAT,90+,10,0,0,0,10,0,10,0,P.A. Trento
+2021-01-15,PF/BT,APSP Bezzecca Ledro,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,APSP Bezzecca Ledro,PAT,40-49,0,2,1,1,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,APSP Bezzecca Ledro,PAT,80-89,0,3,0,0,3,0,3,0,P.A. Trento
+2021-01-15,PF/BT,APSP Brentonico,PAT,30-39,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,APSP Brentonico,PAT,40-49,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,APSP Brentonico,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,APSP Brentonico,PAT,60-69,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-15,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,20-29,1,2,3,0,0,0,3,0,P.A. Trento
+2021-01-15,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,40-49,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-15,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,50-59,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-15,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,60-69,1,1,0,0,2,0,2,0,P.A. Trento
+2021-01-15,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,70-79,3,2,0,0,5,0,5,0,P.A. Trento
+2021-01-15,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,80-89,2,17,0,0,19,0,19,0,P.A. Trento
+2021-01-15,PF/BT,APSP Casa di soggiorno Suore Filippine Grigno,PAT,90+,3,8,0,0,11,0,11,0,P.A. Trento
+2021-01-15,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,30-39,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-15,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,40-49,1,6,7,0,0,0,7,0,P.A. Trento
+2021-01-15,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,50-59,1,8,8,0,1,0,9,0,P.A. Trento
+2021-01-15,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,APSP Clementino Vannetti di Rovereto,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-15,PF/BT,APSP Cristani de Luca Mezzocorona,PAT,20-29,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,APSP Cristani de Luca Mezzocorona,PAT,30-39,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-15,PF/BT,APSP Cristani de Luca Mezzocorona,PAT,40-49,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-15,PF/BT,APSP Cristani de Luca Mezzocorona,PAT,50-59,1,10,11,0,0,0,11,0,P.A. Trento
+2021-01-15,PF/BT,APSP Cristani de Luca Mezzocorona,PAT,60-69,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,APSP Cristani de Luca Mezzocorona,PAT,70-79,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-15,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,50-59,0,7,4,3,0,0,7,0,P.A. Trento
+2021-01-15,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,APSP Redenta Floriani Castel Ivano Strigno,PAT,90+,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-15,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,APSP RSA di Borgo Sacco Rovereto,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,50-59,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,70-79,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-15,PF/BT,APSP S.Giovanni Mezzolombardo,PAT,90+,1,2,0,0,3,0,3,0,P.A. Trento
+2021-01-15,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,30-39,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-15,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,40-49,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-15,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,70-79,2,1,0,0,3,0,3,0,P.A. Trento
+2021-01-15,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,80-89,2,15,0,0,17,0,17,0,P.A. Trento
+2021-01-15,PF/BT,APSP S.Spirito Fondazione Montel Pergine Valsugana,PAT,90+,2,11,0,0,13,0,13,0,P.A. Trento
+2021-01-15,PF/BT,APSP S.Vigilio Spiazzo,PAT,30-39,0,1,0,1,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,APSP S.Vigilio Spiazzo,PAT,40-49,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,APSP S.Vigilio Spiazzo,PAT,50-59,0,2,0,2,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,APSP S.Vigilio Spiazzo,PAT,70-79,0,2,0,0,2,0,2,0,P.A. Trento
+2021-01-15,PF/BT,APSP Santa Maria di Cles,PAT,20-29,2,5,6,1,0,0,7,0,P.A. Trento
+2021-01-15,PF/BT,APSP Santa Maria di Cles,PAT,30-39,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-15,PF/BT,APSP Santa Maria di Cles,PAT,40-49,1,4,4,1,0,0,5,0,P.A. Trento
+2021-01-15,PF/BT,APSP Santa Maria di Cles,PAT,50-59,0,8,5,3,0,0,8,0,P.A. Trento
+2021-01-15,PF/BT,Centro servizi sociosanitari residenziali Malè,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,Centro servizi sociosanitari residenziali Malè,PAT,40-49,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,Centro servizi sociosanitari residenziali Malè,PAT,50-59,0,7,7,0,0,0,7,0,P.A. Trento
+2021-01-15,PF/BT,Centro servizi sociosanitari residenziali Malè,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,Ospedale S.Chiara di Trento,PAT,20-29,4,8,12,0,0,0,12,0,P.A. Trento
+2021-01-15,PF/BT,Ospedale S.Chiara di Trento,PAT,30-39,10,11,21,0,0,0,21,0,P.A. Trento
+2021-01-15,PF/BT,Ospedale S.Chiara di Trento,PAT,40-49,9,11,20,0,0,0,20,0,P.A. Trento
+2021-01-15,PF/BT,Ospedale S.Chiara di Trento,PAT,50-59,12,17,29,0,0,0,29,0,P.A. Trento
+2021-01-15,PF/BT,Ospedale S.Chiara di Trento,PAT,60-69,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,20-29,1,5,6,0,0,0,6,0,P.A. Trento
+2021-01-15,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,30-39,4,3,7,0,0,0,7,0,P.A. Trento
+2021-01-15,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,40-49,3,11,14,0,0,0,14,0,P.A. Trento
+2021-01-15,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,50-59,2,17,19,0,0,0,19,0,P.A. Trento
+2021-01-15,PF/BT,Ospedale S.Maria del Carmine di Rovereto,PAT,60-69,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,Ospedale San Camillo Trento,PAT,20-29,2,0,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,Ospedale San Camillo Trento,PAT,30-39,1,3,4,0,0,0,4,0,P.A. Trento
+2021-01-15,PF/BT,Ospedale San Camillo Trento,PAT,40-49,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-15,PF/BT,Ospedale San Camillo Trento,PAT,50-59,0,5,5,0,0,0,5,0,P.A. Trento
+2021-01-15,PF/BT,Ospedale San Camillo Trento,PAT,60-69,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-15,PF/BT,Ospedale San Camillo Trento,PAT,70-79,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,PVT ARCO,PAT,20-29,0,3,3,0,0,0,3,0,P.A. Trento
+2021-01-15,PF/BT,PVT ARCO,PAT,30-39,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-15,PF/BT,PVT ARCO,PAT,40-49,1,10,10,0,0,1,11,0,P.A. Trento
+2021-01-15,PF/BT,PVT ARCO,PAT,50-59,2,5,7,0,0,0,7,0,P.A. Trento
+2021-01-15,PF/BT,PVT ARCO,PAT,60-69,1,3,3,0,0,1,4,0,P.A. Trento
+2021-01-15,PF/BT,PVT BORGO VALSUGANA,PAT,20-29,0,3,1,0,0,2,3,0,P.A. Trento
+2021-01-15,PF/BT,PVT BORGO VALSUGANA,PAT,30-39,2,5,7,0,0,0,7,0,P.A. Trento
+2021-01-15,PF/BT,PVT BORGO VALSUGANA,PAT,40-49,1,4,5,0,0,0,5,0,P.A. Trento
+2021-01-15,PF/BT,PVT BORGO VALSUGANA,PAT,50-59,4,8,9,0,0,3,12,0,P.A. Trento
+2021-01-15,PF/BT,PVT BORGO VALSUGANA,PAT,60-69,2,0,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,PVT ROVERETO,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,PVT ROVERETO,PAT,30-39,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,PVT ROVERETO,PAT,40-49,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,PVT ROVERETO,PAT,50-59,0,4,4,0,0,0,4,0,P.A. Trento
+2021-01-15,PF/BT,PVT ROVERETO,PAT,60-69,2,0,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,PVT TIONE,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,PVT TIONE,PAT,30-39,1,2,2,0,0,1,3,0,P.A. Trento
+2021-01-15,PF/BT,PVT TIONE,PAT,40-49,1,7,5,0,0,3,8,0,P.A. Trento
+2021-01-15,PF/BT,PVT TIONE,PAT,50-59,3,6,9,0,0,0,9,0,P.A. Trento
+2021-01-15,PF/BT,PVT TIONE,PAT,60-69,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,PVT TRENTO,PAT,20-29,3,4,7,0,0,0,7,0,P.A. Trento
+2021-01-15,PF/BT,PVT TRENTO,PAT,30-39,1,15,16,0,0,0,16,0,P.A. Trento
+2021-01-15,PF/BT,PVT TRENTO,PAT,40-49,5,9,14,0,0,0,14,0,P.A. Trento
+2021-01-15,PF/BT,PVT TRENTO,PAT,50-59,6,19,24,0,0,1,25,0,P.A. Trento
+2021-01-15,PF/BT,PVT TRENTO,PAT,60-69,4,6,10,0,0,0,10,0,P.A. Trento
+2021-01-15,PF/BT,RSA Grazioli Povo,PAT,20-29,0,2,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,RSA Grazioli Povo,PAT,30-39,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,RSA Grazioli Povo,PAT,40-49,1,0,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,RSA Grazioli Povo,PAT,50-59,0,1,1,0,0,0,1,0,P.A. Trento
+2021-01-15,PF/BT,RSAO S.Camillo Trento,PAT,80-89,0,1,0,0,1,0,1,0,P.A. Trento
+2021-01-15,PF/BT,RSAO S.Camillo Trento,PAT,90+,0,5,0,0,5,0,5,0,P.A. Trento
+2021-01-15,PF/BT,Sacra Famiglia Rovereto,PAT,20-29,1,1,2,0,0,0,2,0,P.A. Trento
+2021-01-15,PF/BT,Sacra Famiglia Rovereto,PAT,30-39,2,3,2,3,0,0,5,0,P.A. Trento
+2021-01-15,PF/BT,Sacra Famiglia Rovereto,PAT,40-49,2,3,3,2,0,0,5,0,P.A. Trento
+2021-01-15,PF/BT,Sacra Famiglia Rovereto,PAT,50-59,1,2,1,2,0,0,3,0,P.A. Trento
+2021-01-15,PF/BT,Sacra Famiglia Rovereto,PAT,70-79,0,1,0,0,0,1,1,0,P.A. Trento
+2021-01-15,PF/BT,Sacra Famiglia Rovereto,PAT,90+,0,2,0,0,2,0,2,0,P.A. Trento

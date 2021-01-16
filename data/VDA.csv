@@ -1,0 +1,183 @@
+TML_DTA_SOMM,TML_VAX_FORNITORE,TML_DES_STRUTTURA,TML_AREA,TML_FASCIA_ETA,TML_SESSO_M,TML_SESSO_F,TML_CAT_OSS,TML_CAT_PERSONALE,TML_CAT_RSA_OSPITI,TML_CAT_ALTRO,TML_DOSE_1,TML_DOSE_2,TML_REGIONE
+2020-12-27,PF/BT,Ospedale Umberto Parini,VDA,20-29,0,1,1,0,0,0,1,0,Valle d'Aosta
+2020-12-27,PF/BT,Ospedale Umberto Parini,VDA,30-39,1,0,1,0,0,0,1,0,Valle d'Aosta
+2020-12-27,PF/BT,Ospedale Umberto Parini,VDA,40-49,1,3,4,0,0,0,4,0,Valle d'Aosta
+2020-12-27,PF/BT,Ospedale Umberto Parini,VDA,50-59,4,5,9,0,0,0,9,0,Valle d'Aosta
+2020-12-27,PF/BT,Ospedale Umberto Parini,VDA,60-69,3,2,5,0,0,0,5,0,Valle d'Aosta
+2020-12-31,PF/BT,Presodio Ospedaliero Parini,VDA,20-29,0,1,1,0,0,0,1,0,Valle d'Aosta
+2020-12-31,PF/BT,Presodio Ospedaliero Parini,VDA,30-39,0,2,2,0,0,0,2,0,Valle d'Aosta
+2020-12-31,PF/BT,Presodio Ospedaliero Parini,VDA,40-49,1,2,3,0,0,0,3,0,Valle d'Aosta
+2020-12-31,PF/BT,Presodio Ospedaliero Parini,VDA,50-59,3,8,11,0,0,0,11,0,Valle d'Aosta
+2020-12-31,PF/BT,Presodio Ospedaliero Parini,VDA,60-69,0,1,1,0,0,0,1,0,Valle d'Aosta
+2021-01-02,PF/BT,Azienda U.S.L. Valle d'Aosta,VDA,60-69,2,0,0,0,2,0,2,0,Valle d'Aosta
+2021-01-02,PF/BT,Azienda U.S.L. Valle d'Aosta,VDA,80-89,3,1,0,0,4,0,4,0,Valle d'Aosta
+2021-01-04,PF/BT,Azienda U.S.L. Valle d'Aosta,VDA,16-19,2,4,6,0,0,0,6,0,Valle d'Aosta
+2021-01-04,PF/BT,Azienda U.S.L. Valle d'Aosta,VDA,20-29,12,13,25,0,0,0,25,0,Valle d'Aosta
+2021-01-04,PF/BT,Azienda U.S.L. Valle d'Aosta,VDA,30-39,10,23,33,0,0,0,33,0,Valle d'Aosta
+2021-01-04,PF/BT,Azienda U.S.L. Valle d'Aosta,VDA,40-49,9,32,41,0,0,0,41,0,Valle d'Aosta
+2021-01-04,PF/BT,Azienda U.S.L. Valle d'Aosta,VDA,50-59,22,10,32,0,0,0,32,0,Valle d'Aosta
+2021-01-04,PF/BT,Azienda U.S.L. Valle d'Aosta,VDA,60-69,2,1,3,0,0,0,3,0,Valle d'Aosta
+2021-01-04,PF/BT,Azienda U.S.L. Valle d'Aosta,VDA,70-79,2,0,2,0,0,0,2,0,Valle d'Aosta
+2021-01-05,PF/BT,Azienda U.S.L. Valle d'Aosta,VDA,20-29,6,5,11,0,0,0,11,0,Valle d'Aosta
+2021-01-05,PF/BT,Azienda U.S.L. Valle d'Aosta,VDA,30-39,9,13,22,0,0,0,22,0,Valle d'Aosta
+2021-01-05,PF/BT,Azienda U.S.L. Valle d'Aosta,VDA,40-49,8,23,31,0,0,0,31,0,Valle d'Aosta
+2021-01-05,PF/BT,Azienda U.S.L. Valle d'Aosta,VDA,50-59,19,40,59,0,0,0,59,0,Valle d'Aosta
+2021-01-05,PF/BT,Azienda U.S.L. Valle d'Aosta,VDA,60-69,6,10,16,0,0,0,16,0,Valle d'Aosta
+2021-01-05,PF/BT,Refuge Pere Laurent,VDA,60-69,1,0,0,0,1,0,1,0,Valle d'Aosta
+2021-01-05,PF/BT,Refuge Pere Laurent,VDA,70-79,1,3,0,0,4,0,4,0,Valle d'Aosta
+2021-01-05,PF/BT,Refuge Pere Laurent,VDA,80-89,4,1,0,0,5,0,5,0,Valle d'Aosta
+2021-01-05,PF/BT,Refuge Pere Laurent,VDA,90+,0,1,0,0,1,0,1,0,Valle d'Aosta
+2021-01-06,PF/BT,Presidio Ospedaliero Parini,VDA,16-19,6,1,7,0,0,0,7,0,Valle d'Aosta
+2021-01-06,PF/BT,Presidio Ospedaliero Parini,VDA,20-29,3,4,7,0,0,0,7,0,Valle d'Aosta
+2021-01-06,PF/BT,Presidio Ospedaliero Parini,VDA,30-39,7,3,10,0,0,0,10,0,Valle d'Aosta
+2021-01-06,PF/BT,Presidio Ospedaliero Parini,VDA,40-49,6,6,12,0,0,0,12,0,Valle d'Aosta
+2021-01-06,PF/BT,Presidio Ospedaliero Parini,VDA,50-59,8,1,9,0,0,0,9,0,Valle d'Aosta
+2021-01-06,PF/BT,Presidio Ospedaliero Parini,VDA,60-69,2,1,3,0,0,0,3,0,Valle d'Aosta
+2021-01-06,PF/BT,Refuge Pere Laurent,VDA,60-69,0,1,0,0,1,0,1,0,Valle d'Aosta
+2021-01-06,PF/BT,Refuge Pere Laurent,VDA,70-79,1,1,0,0,2,0,2,0,Valle d'Aosta
+2021-01-06,PF/BT,Refuge Pere Laurent,VDA,80-89,0,7,0,0,7,0,7,0,Valle d'Aosta
+2021-01-06,PF/BT,Refuge Pere Laurent,VDA,90+,1,7,0,0,8,0,8,0,Valle d'Aosta
+2021-01-07,PF/BT,Microcomunità G.B. FESTAZ,VDA,50-59,1,0,0,0,1,0,1,0,Valle d'Aosta
+2021-01-07,PF/BT,Microcomunità G.B. FESTAZ,VDA,60-69,1,0,0,0,1,0,1,0,Valle d'Aosta
+2021-01-07,PF/BT,Microcomunità G.B. FESTAZ,VDA,70-79,0,2,0,0,2,0,2,0,Valle d'Aosta
+2021-01-07,PF/BT,Microcomunità G.B. FESTAZ,VDA,80-89,1,1,0,0,2,0,2,0,Valle d'Aosta
+2021-01-07,PF/BT,Presidio Ospedaliero Parini,VDA,20-29,12,14,26,0,0,0,26,0,Valle d'Aosta
+2021-01-07,PF/BT,Presidio Ospedaliero Parini,VDA,30-39,20,30,50,0,0,0,50,0,Valle d'Aosta
+2021-01-07,PF/BT,Presidio Ospedaliero Parini,VDA,40-49,25,50,75,0,0,0,75,0,Valle d'Aosta
+2021-01-07,PF/BT,Presidio Ospedaliero Parini,VDA,50-59,23,56,79,0,0,0,79,0,Valle d'Aosta
+2021-01-07,PF/BT,Presidio Ospedaliero Parini,VDA,60-69,26,13,39,0,0,0,39,0,Valle d'Aosta
+2021-01-07,PF/BT,Presidio Ospedaliero Parini,VDA,70-79,4,0,4,0,0,0,4,0,Valle d'Aosta
+2021-01-08,PF/BT,MORGEX Centro Vaccinale,VDA,30-39,0,2,0,0,2,0,2,0,Valle d'Aosta
+2021-01-08,PF/BT,MORGEX Centro Vaccinale,VDA,40-49,0,1,0,0,1,0,1,0,Valle d'Aosta
+2021-01-08,PF/BT,MORGEX Centro Vaccinale,VDA,50-59,1,4,0,0,5,0,5,0,Valle d'Aosta
+2021-01-08,PF/BT,MORGEX Centro Vaccinale,VDA,70-79,2,1,0,0,3,0,3,0,Valle d'Aosta
+2021-01-08,PF/BT,MORGEX Centro Vaccinale,VDA,80-89,4,4,0,0,8,0,8,0,Valle d'Aosta
+2021-01-08,PF/BT,MORGEX Centro Vaccinale,VDA,90+,2,3,0,0,5,0,5,0,Valle d'Aosta
+2021-01-08,PF/BT,Presidio Ospedaliero Parini,VDA,16-19,2,2,4,0,0,0,4,0,Valle d'Aosta
+2021-01-08,PF/BT,Presidio Ospedaliero Parini,VDA,20-29,11,21,32,0,0,0,32,0,Valle d'Aosta
+2021-01-08,PF/BT,Presidio Ospedaliero Parini,VDA,30-39,21,29,50,0,0,0,50,0,Valle d'Aosta
+2021-01-08,PF/BT,Presidio Ospedaliero Parini,VDA,40-49,21,35,56,0,0,0,56,0,Valle d'Aosta
+2021-01-08,PF/BT,Presidio Ospedaliero Parini,VDA,50-59,24,51,75,0,0,0,75,0,Valle d'Aosta
+2021-01-08,PF/BT,Presidio Ospedaliero Parini,VDA,60-69,22,14,36,0,0,0,36,0,Valle d'Aosta
+2021-01-08,PF/BT,Presidio Ospedaliero Parini,VDA,70-79,19,2,21,0,0,0,21,0,Valle d'Aosta
+2021-01-08,PF/BT,Presidio Ospedaliero Parini,VDA,80-89,1,0,1,0,0,0,1,0,Valle d'Aosta
+2021-01-09,PF/BT,DOMUS PACIS,VDA,40-49,0,5,0,0,5,0,5,0,Valle d'Aosta
+2021-01-09,PF/BT,DOMUS PACIS,VDA,50-59,0,2,0,0,2,0,2,0,Valle d'Aosta
+2021-01-09,PF/BT,DOMUS PACIS,VDA,60-69,0,2,0,0,2,0,2,0,Valle d'Aosta
+2021-01-09,PF/BT,DOMUS PACIS,VDA,70-79,4,2,0,0,6,0,6,0,Valle d'Aosta
+2021-01-09,PF/BT,DOMUS PACIS,VDA,80-89,1,6,0,0,7,0,7,0,Valle d'Aosta
+2021-01-09,PF/BT,DOMUS PACIS,VDA,90+,1,6,0,0,7,0,7,0,Valle d'Aosta
+2021-01-09,PF/BT,Presidio Ospedaliero Parini,VDA,16-19,4,0,4,0,0,0,4,0,Valle d'Aosta
+2021-01-09,PF/BT,Presidio Ospedaliero Parini,VDA,20-29,17,25,42,0,0,0,42,0,Valle d'Aosta
+2021-01-09,PF/BT,Presidio Ospedaliero Parini,VDA,30-39,19,34,53,0,0,0,53,0,Valle d'Aosta
+2021-01-09,PF/BT,Presidio Ospedaliero Parini,VDA,40-49,39,57,96,0,0,0,96,0,Valle d'Aosta
+2021-01-09,PF/BT,Presidio Ospedaliero Parini,VDA,50-59,58,80,138,0,0,0,138,0,Valle d'Aosta
+2021-01-09,PF/BT,Presidio Ospedaliero Parini,VDA,60-69,37,20,57,0,0,0,57,0,Valle d'Aosta
+2021-01-09,PF/BT,Presidio Ospedaliero Parini,VDA,70-79,19,5,24,0,0,0,24,0,Valle d'Aosta
+2021-01-10,PF/BT,MICROCOMUNITA' PERLOZ,VDA,20-29,1,1,2,0,0,0,2,0,Valle d'Aosta
+2021-01-10,PF/BT,MICROCOMUNITA' PERLOZ,VDA,30-39,0,2,2,0,0,0,2,0,Valle d'Aosta
+2021-01-10,PF/BT,MICROCOMUNITA' PERLOZ,VDA,40-49,2,5,7,0,0,0,7,0,Valle d'Aosta
+2021-01-10,PF/BT,MICROCOMUNITA' PERLOZ,VDA,50-59,0,4,4,0,0,0,4,0,Valle d'Aosta
+2021-01-10,PF/BT,MICROCOMUNITA' PERLOZ,VDA,60-69,3,3,0,0,6,0,6,0,Valle d'Aosta
+2021-01-10,PF/BT,MICROCOMUNITA' PERLOZ,VDA,70-79,3,5,0,0,8,0,8,0,Valle d'Aosta
+2021-01-10,PF/BT,MICROCOMUNITA' PERLOZ,VDA,80-89,2,2,0,0,4,0,4,0,Valle d'Aosta
+2021-01-10,PF/BT,MICROCOMUNITA' PERLOZ,VDA,90+,1,1,0,0,2,0,2,0,Valle d'Aosta
+2021-01-10,PF/BT,Presidio Ospedaliero Parini,VDA,20-29,3,14,17,0,0,0,17,0,Valle d'Aosta
+2021-01-10,PF/BT,Presidio Ospedaliero Parini,VDA,30-39,11,30,41,0,0,0,41,0,Valle d'Aosta
+2021-01-10,PF/BT,Presidio Ospedaliero Parini,VDA,40-49,13,31,44,0,0,0,44,0,Valle d'Aosta
+2021-01-10,PF/BT,Presidio Ospedaliero Parini,VDA,50-59,18,40,58,0,0,0,58,0,Valle d'Aosta
+2021-01-10,PF/BT,Presidio Ospedaliero Parini,VDA,60-69,12,11,23,0,0,0,23,0,Valle d'Aosta
+2021-01-10,PF/BT,Presidio Ospedaliero Parini,VDA,70-79,2,0,2,0,0,0,2,0,Valle d'Aosta
+2021-01-11,PF/BT,MICROCOMUNITA' FENIS - VERRES,VDA,40-49,0,2,2,0,0,0,2,0,Valle d'Aosta
+2021-01-11,PF/BT,MICROCOMUNITA' FENIS - VERRES,VDA,50-59,0,7,7,0,0,0,7,0,Valle d'Aosta
+2021-01-11,PF/BT,MICROCOMUNITA' FENIS - VERRES,VDA,60-69,1,2,0,0,3,0,3,0,Valle d'Aosta
+2021-01-11,PF/BT,MICROCOMUNITA' FENIS - VERRES,VDA,70-79,6,5,0,0,11,0,11,0,Valle d'Aosta
+2021-01-11,PF/BT,MICROCOMUNITA' FENIS - VERRES,VDA,80-89,4,7,0,0,11,0,11,0,Valle d'Aosta
+2021-01-11,PF/BT,MICROCOMUNITA' FENIS - VERRES,VDA,90+,2,4,0,0,6,0,6,0,Valle d'Aosta
+2021-01-11,PF/BT,Presidio Ospedaliero Parini,VDA,16-19,1,0,1,0,0,0,1,0,Valle d'Aosta
+2021-01-11,PF/BT,Presidio Ospedaliero Parini,VDA,20-29,14,16,30,0,0,0,30,0,Valle d'Aosta
+2021-01-11,PF/BT,Presidio Ospedaliero Parini,VDA,30-39,12,42,54,0,0,0,54,0,Valle d'Aosta
+2021-01-11,PF/BT,Presidio Ospedaliero Parini,VDA,40-49,20,48,68,0,0,0,68,0,Valle d'Aosta
+2021-01-11,PF/BT,Presidio Ospedaliero Parini,VDA,50-59,24,60,84,0,0,0,84,0,Valle d'Aosta
+2021-01-11,PF/BT,Presidio Ospedaliero Parini,VDA,60-69,23,19,42,0,0,0,42,0,Valle d'Aosta
+2021-01-11,PF/BT,Presidio Ospedaliero Parini,VDA,70-79,5,2,7,0,0,0,7,0,Valle d'Aosta
+2021-01-12,PF/BT,CHATILLON POLIAMBULATORIO,VDA,20-29,0,1,1,0,0,0,1,0,Valle d'Aosta
+2021-01-12,PF/BT,CHATILLON POLIAMBULATORIO,VDA,40-49,0,1,1,0,0,0,1,0,Valle d'Aosta
+2021-01-12,PF/BT,CHATILLON POLIAMBULATORIO,VDA,50-59,1,5,6,0,0,0,6,0,Valle d'Aosta
+2021-01-12,PF/BT,CHATILLON POLIAMBULATORIO,VDA,80-89,0,2,0,0,2,0,2,0,Valle d'Aosta
+2021-01-12,PF/BT,Consultorio di Verres,VDA,20-29,0,1,1,0,0,0,1,0,Valle d'Aosta
+2021-01-12,PF/BT,Consultorio di Verres,VDA,50-59,0,1,1,0,0,0,1,0,Valle d'Aosta
+2021-01-12,PF/BT,Consultorio di Verres,VDA,60-69,0,2,0,0,2,0,2,0,Valle d'Aosta
+2021-01-12,PF/BT,Consultorio di Verres,VDA,70-79,1,0,0,0,1,0,1,0,Valle d'Aosta
+2021-01-12,PF/BT,Consultorio di Verres,VDA,80-89,0,5,0,0,5,0,5,0,Valle d'Aosta
+2021-01-12,PF/BT,Consultorio di Verres,VDA,90+,0,2,0,0,2,0,2,0,Valle d'Aosta
+2021-01-12,PF/BT,Presidio Ospedaliero Parini,VDA,20-29,9,17,26,0,0,0,26,0,Valle d'Aosta
+2021-01-12,PF/BT,Presidio Ospedaliero Parini,VDA,30-39,10,26,36,0,0,0,36,0,Valle d'Aosta
+2021-01-12,PF/BT,Presidio Ospedaliero Parini,VDA,40-49,14,59,73,0,0,0,73,0,Valle d'Aosta
+2021-01-12,PF/BT,Presidio Ospedaliero Parini,VDA,50-59,20,82,102,0,0,0,102,0,Valle d'Aosta
+2021-01-12,PF/BT,Presidio Ospedaliero Parini,VDA,60-69,15,24,39,0,0,0,39,0,Valle d'Aosta
+2021-01-12,PF/BT,Presidio Ospedaliero Parini,VDA,70-79,2,1,3,0,0,0,3,0,Valle d'Aosta
+2021-01-13,PF/BT,Micro Comunità di Pontey,VDA,40-49,1,2,3,0,0,0,3,0,Valle d'Aosta
+2021-01-13,PF/BT,Micro Comunità di Pontey,VDA,50-59,2,3,5,0,0,0,5,0,Valle d'Aosta
+2021-01-13,PF/BT,Micro Comunità di Pontey,VDA,60-69,1,2,0,0,3,0,3,0,Valle d'Aosta
+2021-01-13,PF/BT,Micro Comunità di Pontey,VDA,70-79,4,1,0,0,5,0,5,0,Valle d'Aosta
+2021-01-13,PF/BT,Micro Comunità di Pontey,VDA,80-89,4,5,0,0,9,0,9,0,Valle d'Aosta
+2021-01-13,PF/BT,Micro Comunità di Pontey,VDA,90+,0,3,0,0,3,0,3,0,Valle d'Aosta
+2021-01-13,PF/BT,Presidio Ospedaliero Parini,VDA,16-19,0,1,1,0,0,0,1,0,Valle d'Aosta
+2021-01-13,PF/BT,Presidio Ospedaliero Parini,VDA,20-29,5,14,19,0,0,0,19,0,Valle d'Aosta
+2021-01-13,PF/BT,Presidio Ospedaliero Parini,VDA,30-39,16,36,52,0,0,0,52,0,Valle d'Aosta
+2021-01-13,PF/BT,Presidio Ospedaliero Parini,VDA,40-49,26,46,72,0,0,0,72,0,Valle d'Aosta
+2021-01-13,PF/BT,Presidio Ospedaliero Parini,VDA,50-59,33,84,117,0,0,0,117,0,Valle d'Aosta
+2021-01-13,PF/BT,Presidio Ospedaliero Parini,VDA,60-69,12,22,34,0,0,0,34,0,Valle d'Aosta
+2021-01-13,PF/BT,Presidio Ospedaliero Parini,VDA,70-79,3,5,8,0,0,0,8,0,Valle d'Aosta
+2021-01-13,PF/BT,Presidio Ospedaliero Parini,VDA,80-89,2,4,6,0,0,0,6,0,Valle d'Aosta
+2021-01-13,PF/BT,VALTOURNENCHE,VDA,30-39,0,2,2,0,0,0,2,0,Valle d'Aosta
+2021-01-13,PF/BT,VALTOURNENCHE,VDA,40-49,1,5,6,0,0,0,6,0,Valle d'Aosta
+2021-01-13,PF/BT,VALTOURNENCHE,VDA,50-59,0,9,9,0,0,0,9,0,Valle d'Aosta
+2021-01-13,PF/BT,VALTOURNENCHE,VDA,60-69,0,1,0,0,1,0,1,0,Valle d'Aosta
+2021-01-13,PF/BT,VALTOURNENCHE,VDA,70-79,1,2,0,0,3,0,3,0,Valle d'Aosta
+2021-01-13,PF/BT,VALTOURNENCHE,VDA,80-89,2,0,0,0,2,0,2,0,Valle d'Aosta
+2021-01-14,PF/BT,Presidio Ospedaliero Parini,VDA,16-19,1,0,1,0,0,0,1,0,Valle d'Aosta
+2021-01-14,PF/BT,Presidio Ospedaliero Parini,VDA,20-29,7,11,18,0,0,0,18,0,Valle d'Aosta
+2021-01-14,PF/BT,Presidio Ospedaliero Parini,VDA,30-39,12,23,35,0,0,0,35,0,Valle d'Aosta
+2021-01-14,PF/BT,Presidio Ospedaliero Parini,VDA,40-49,17,44,61,0,0,0,61,0,Valle d'Aosta
+2021-01-14,PF/BT,Presidio Ospedaliero Parini,VDA,50-59,21,65,86,0,0,0,86,0,Valle d'Aosta
+2021-01-14,PF/BT,Presidio Ospedaliero Parini,VDA,60-69,8,20,28,0,0,0,28,0,Valle d'Aosta
+2021-01-14,PF/BT,Presidio Ospedaliero Parini,VDA,70-79,3,4,7,0,0,0,7,0,Valle d'Aosta
+2021-01-14,PF/BT,Presidio Ospedaliero Parini,VDA,80-89,0,1,1,0,0,0,1,0,Valle d'Aosta
+2021-01-14,PF/BT,VERRES,VDA,30-39,0,1,1,0,0,0,1,0,Valle d'Aosta
+2021-01-14,PF/BT,VERRES,VDA,40-49,0,1,1,0,0,0,1,0,Valle d'Aosta
+2021-01-14,PF/BT,VERRES,VDA,50-59,1,8,9,0,0,0,9,0,Valle d'Aosta
+2021-01-14,PF/BT,VERRES,VDA,60-69,0,1,1,0,0,0,1,0,Valle d'Aosta
+2021-01-15,Moderna,SAINT-PIERRE,VDA,20-29,0,1,0,0,1,0,1,0,Valle d'Aosta
+2021-01-15,Moderna,SAINT-PIERRE,VDA,30-39,1,2,0,0,3,0,3,0,Valle d'Aosta
+2021-01-15,Moderna,SAINT-PIERRE,VDA,40-49,1,4,0,0,5,0,5,0,Valle d'Aosta
+2021-01-15,Moderna,SAINT-PIERRE,VDA,50-59,2,1,0,0,3,0,3,0,Valle d'Aosta
+2021-01-15,Moderna,SAINT-PIERRE,VDA,60-69,1,2,0,0,3,0,3,0,Valle d'Aosta
+2021-01-15,Moderna,SAINT-PIERRE,VDA,70-79,2,3,0,0,5,0,5,0,Valle d'Aosta
+2021-01-15,Moderna,SAINT-PIERRE,VDA,80-89,2,9,0,0,11,0,11,0,Valle d'Aosta
+2021-01-15,Moderna,SAINT-PIERRE,VDA,90+,2,7,0,0,9,0,9,0,Valle d'Aosta
+2021-01-15,PF/BT,Presidio Ospedaliero Parini,VDA,16-19,1,0,1,0,0,0,1,0,Valle d'Aosta
+2021-01-15,PF/BT,Presidio Ospedaliero Parini,VDA,20-29,4,15,19,0,0,0,19,0,Valle d'Aosta
+2021-01-15,PF/BT,Presidio Ospedaliero Parini,VDA,30-39,10,16,26,0,0,0,26,0,Valle d'Aosta
+2021-01-15,PF/BT,Presidio Ospedaliero Parini,VDA,40-49,11,18,29,0,0,0,29,0,Valle d'Aosta
+2021-01-15,PF/BT,Presidio Ospedaliero Parini,VDA,50-59,29,23,52,0,0,0,52,0,Valle d'Aosta
+2021-01-15,PF/BT,Presidio Ospedaliero Parini,VDA,60-69,13,17,30,0,0,0,30,0,Valle d'Aosta
+2021-01-15,PF/BT,Presidio Ospedaliero Parini,VDA,70-79,2,13,15,0,0,0,15,0,Valle d'Aosta
+2021-01-15,PF/BT,Presidio Ospedaliero Parini,VDA,80-89,1,5,6,0,0,0,6,0,Valle d'Aosta
+2021-01-16,Moderna,DONNAS,VDA,40-49,0,1,1,0,0,0,1,0,Valle d'Aosta
+2021-01-16,Moderna,DONNAS,VDA,50-59,0,3,3,0,0,0,3,0,Valle d'Aosta
+2021-01-16,Moderna,DONNAS,VDA,60-69,1,2,0,0,3,0,3,0,Valle d'Aosta
+2021-01-16,Moderna,DONNAS,VDA,70-79,3,2,0,0,5,0,5,0,Valle d'Aosta
+2021-01-16,Moderna,DONNAS,VDA,80-89,5,4,0,0,9,0,9,0,Valle d'Aosta
+2021-01-16,Moderna,DONNAS,VDA,90+,2,3,0,0,5,0,5,0,Valle d'Aosta
+2021-01-16,PF/BT,DONNAS,VDA,40-49,0,4,4,0,0,0,4,0,Valle d'Aosta
+2021-01-16,PF/BT,Presidio Ospedaliero Parini,VDA,16-19,2,5,7,0,0,0,7,0,Valle d'Aosta
+2021-01-16,PF/BT,Presidio Ospedaliero Parini,VDA,20-29,12,48,60,0,0,0,60,0,Valle d'Aosta
+2021-01-16,PF/BT,Presidio Ospedaliero Parini,VDA,30-39,11,12,23,0,0,0,23,0,Valle d'Aosta
+2021-01-16,PF/BT,Presidio Ospedaliero Parini,VDA,40-49,9,10,19,0,0,0,19,0,Valle d'Aosta
+2021-01-16,PF/BT,Presidio Ospedaliero Parini,VDA,50-59,11,23,34,0,0,0,34,0,Valle d'Aosta
+2021-01-16,PF/BT,Presidio Ospedaliero Parini,VDA,60-69,4,5,9,0,0,0,9,0,Valle d'Aosta
+2021-01-16,PF/BT,Presidio Ospedaliero Parini,VDA,70-79,1,1,0,0,0,2,2,0,Valle d'Aosta
+2021-01-16,PF/BT,Presidio Ospedaliero Parini,VDA,80-89,0,6,0,0,0,6,6,0,Valle d'Aosta
+2021-01-16,PF/BT,Presidio Ospedaliero Parini,VDA,90+,20,26,0,0,0,46,46,0,Valle d'Aosta
