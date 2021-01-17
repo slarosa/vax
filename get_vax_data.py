@@ -61,9 +61,9 @@ AREA_MAP = {
 }
 
 # Converts the JSON output of a PowerBI query to a CSV file
-def extract(region, output_dir):
+def extract(area, output_dir):
     # input_json = read_json(input_file)
-    input_json = get_raw_json(region=region)
+    input_json = get_raw_json(area=area)
     data = input_json["results"][0]["result"]["data"]
     dm0 = data["dsr"]["DS"][0]["PH"][0]["DM0"]
     columns_types = dm0[0]["S"]
@@ -76,7 +76,7 @@ def extract(region, output_dir):
     expand_values(columns_types, dm0, value_dicts)
 
     replace_newlines_with(dm0, "")
-    output_file = '{}.csv'.format(os.path.join(output_dir, region))
+    output_file = '{}.csv'.format(os.path.join(output_dir, area))
     write_csv(output_file, columns, dm0)
     df = pd.read_csv(output_file)
     df = df.rename(columns={
@@ -90,13 +90,13 @@ def extract(region, output_dir):
         'M7': 'TML_DOSE_2'
     }, inplace=False)
     df['TML_DTA_SOMM'] = pd.to_datetime(df['TML_DTA_SOMM'], unit='ms')
-    df['TML_REGIONE'] = AREA_MAP[region][0]
-    df['TML_NUTS'] = AREA_MAP[region][1]
+    df['TML_REGIONE'] = AREA_MAP[area][0]
+    df['TML_NUTS'] = AREA_MAP[area][1]
     df.to_csv(output_file, index=False)
     # df.to_json(output_file, orient="table", indent=4, index=False)
 
 
-def get_raw_json(query=None, region="CAL"):
+def get_raw_json(query=None, area="CAL"):
     url = 'https://wabi-europe-north-b-api.analysis.windows.net/public/reports/querydata?synchronous=true'
     headers = {
         'Content-Type': 'application/json;charset=UTF-8',
@@ -113,7 +113,7 @@ def get_raw_json(query=None, region="CAL"):
         'ActivityId': '6bf4dd37-d0cb-a91b-5d29-4ccbb557a95d'
     }
 
-    post_fields = { "version": "1.0.0", "queries": [ { "Query": { "Commands": [ { "SemanticQueryDataShapeCommand": { "Query": { "Version": 2, "From": [ { "Name": "t", "Entity": "TAB_MASTER", "Type": 0 } ], "Select": [ { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_DTA_SOMM" }, "Name": "TAB_MASTER.TML_DTA_SOMM" }, { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_VAX_FORNITORE" }, "Name": "TAB_MASTER.TML_VAX_FORNITORE" }, { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_DES_STRUTTURA" }, "Name": "TAB_MASTER.TML_DES_STRUTTURA" }, { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_AREA" }, "Name": "TAB_MASTER.TML_AREA" }, { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_FASCIA_ETA" }, "Name": "TAB_MASTER.TML_FASCIA_ETA" }, { "Aggregation": { "Expression": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_SESSO_M" } }, "Function": 0 }, "Name": "Sum(TAB_MASTER.TML_SESSO_M)" }, { "Aggregation": { "Expression": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_SESSO_F" } }, "Function": 0 }, "Name": "Sum(TAB_MASTER.TML_SESSO_F)" }, { "Aggregation": { "Expression": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_CAT_OSS" } }, "Function": 0 }, "Name": "Sum(TAB_MASTER.TML_CAT_OSS)" }, { "Aggregation": { "Expression": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_CAT_PERSONALE" } }, "Function": 0 }, "Name": "Sum(TAB_MASTER.TML_CAT_PERSONALE)" }, { "Aggregation": { "Expression": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_CAT_RSA_OSPITI" } }, "Function": 0 }, "Name": "Sum(TAB_MASTER.TML_CAT_RSA_OSPITI)" }, { "Aggregation": { "Expression": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_CAT_ALTRO" } }, "Function": 0 }, "Name": "Sum(TAB_MASTER.TML_CAT_ALTRO)" }, { "Aggregation": { "Expression": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_DOSE_1" } }, "Function": 0 }, "Name": "Sum(TAB_MASTER.TML_DOSE_1)" }, { "Aggregation": { "Expression": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_DOSE_2" } }, "Function": 0 }, "Name": "Sum(TAB_MASTER.TML_DOSE_2)" } ], "Where": [ { "Condition": { "Comparison": { "ComparisonKind": 1, "Left": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_DOSE_1" } }, "Right": { "Literal": { "Value": "0L" } } } } }, { "Condition": { "In": { "Expressions": [ { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_AREA" } } ], "Values": [ [ { "Literal": { "Value":"\'" + region + "\'" } } ] ] } } } ] }, "Binding": { "Primary": { "Groupings": [ { "Projections": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ] } ] }, "DataReduction": { "Primary": { "Top": { "Count": 30000 } } }, "Version": 1 } } } ] }, "QueryId": "", "ApplicationContext": { "DatasetId": "5bff6260-1025-49e0-8e9b-169ade7c07f9", "Sources": [ { "ReportId": "b548a77c-ab0a-4d7c-a457-2e38c2914fc6" } ] } } ], "cancelQueries": [], "modelId": 4280811 }
+    post_fields = { "version": "1.0.0", "queries": [ { "Query": { "Commands": [ { "SemanticQueryDataShapeCommand": { "Query": { "Version": 2, "From": [ { "Name": "t", "Entity": "TAB_MASTER", "Type": 0 } ], "Select": [ { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_DTA_SOMM" }, "Name": "TAB_MASTER.TML_DTA_SOMM" }, { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_VAX_FORNITORE" }, "Name": "TAB_MASTER.TML_VAX_FORNITORE" }, { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_DES_STRUTTURA" }, "Name": "TAB_MASTER.TML_DES_STRUTTURA" }, { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_AREA" }, "Name": "TAB_MASTER.TML_AREA" }, { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_FASCIA_ETA" }, "Name": "TAB_MASTER.TML_FASCIA_ETA" }, { "Aggregation": { "Expression": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_SESSO_M" } }, "Function": 0 }, "Name": "Sum(TAB_MASTER.TML_SESSO_M)" }, { "Aggregation": { "Expression": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_SESSO_F" } }, "Function": 0 }, "Name": "Sum(TAB_MASTER.TML_SESSO_F)" }, { "Aggregation": { "Expression": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_CAT_OSS" } }, "Function": 0 }, "Name": "Sum(TAB_MASTER.TML_CAT_OSS)" }, { "Aggregation": { "Expression": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_CAT_PERSONALE" } }, "Function": 0 }, "Name": "Sum(TAB_MASTER.TML_CAT_PERSONALE)" }, { "Aggregation": { "Expression": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_CAT_RSA_OSPITI" } }, "Function": 0 }, "Name": "Sum(TAB_MASTER.TML_CAT_RSA_OSPITI)" }, { "Aggregation": { "Expression": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_CAT_ALTRO" } }, "Function": 0 }, "Name": "Sum(TAB_MASTER.TML_CAT_ALTRO)" }, { "Aggregation": { "Expression": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_DOSE_1" } }, "Function": 0 }, "Name": "Sum(TAB_MASTER.TML_DOSE_1)" }, { "Aggregation": { "Expression": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_DOSE_2" } }, "Function": 0 }, "Name": "Sum(TAB_MASTER.TML_DOSE_2)" } ], "Where": [ { "Condition": { "Comparison": { "ComparisonKind": 1, "Left": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_DOSE_1" } }, "Right": { "Literal": { "Value": "0L" } } } } }, { "Condition": { "In": { "Expressions": [ { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "TML_AREA" } } ], "Values": [ [ { "Literal": { "Value":"\'" + area + "\'" } } ] ] } } } ] }, "Binding": { "Primary": { "Groupings": [ { "Projections": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ] } ] }, "DataReduction": { "Primary": { "Top": { "Count": 30000 } } }, "Version": 1 } } } ] }, "QueryId": "", "ApplicationContext": { "DatasetId": "5bff6260-1025-49e0-8e9b-169ade7c07f9", "Sources": [ { "ReportId": "b548a77c-ab0a-4d7c-a457-2e38c2914fc6" } ] } } ], "cancelQueries": [], "modelId": 4280811 }
 
     r = requests.post(url, data=json.dumps(post_fields), headers=headers)
     print(r.status_code, r.reason)
@@ -187,12 +187,12 @@ def main():
         dfs = []
         for filename in all_files:
             if not os.path.basename(filename).startswith("vax_"):
-                df_region = pd.read_csv(filename, index_col=None, header=0)
-                dfs.append(df_region)
+                df_area = pd.read_csv(filename, index_col=None, header=0)
+                dfs.append(df_area)
         df_total = pd.concat(dfs, axis=0, ignore_index=True)
-        df_total.to_csv(os.path.join(sys.argv[1], '_region_total.csv'), index=False)
+        df_total.to_csv(os.path.join(sys.argv[1], 'vax_total.csv'), index=False)
     else:
-        sys.exit("Usage: python3 " + sys.argv[0] + " region output_dir",
+        sys.exit("Usage: python3 " + sys.argv[0] + " area output_dir",
                  file=sys.stderr)
 
 
