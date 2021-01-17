@@ -25,7 +25,6 @@ page](https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTB
  | | |-TOS.csv
  | | |-SIC.csv
  | | |-LIG.csv
- | | |-vax_total.csv
  | | |-EMR.csv
  | | |-PUG.csv
  | | |-PAB.csv
@@ -40,6 +39,9 @@ page](https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTB
  | | |-FVG.csv
  | | |-SAR.csv
  | | |-UMB.csv
+ | | |-vax_total.csv
+ | | |-summary_vax_total.csv
+ | | |-summary_vax_total_latest.csv
 ```
 
 # Dataset
