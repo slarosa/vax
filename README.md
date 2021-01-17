@@ -1,3 +1,6 @@
+![vax](https://github.com/slarosa/vax/workflows/vax-github-actions/badge.svg)
+
+
 # Vax data
 This repository contains the unofficial data scraped from the dashboard of the [government
 page](https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTBkMWM4MTUyYTg0IiwidCI6ImFmZDBhNzVjLTg2NzEtNGNjZS05MDYxLTJjYTBkOTJlNDIyZiIsImMiOjh9&fbclid=IwAR0xF1jrq3kDmC0Emy3bDC5sikCEQxdMYbGr0ZfqYxNuQC7jKaGVHmHD5nk). 
