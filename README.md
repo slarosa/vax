@@ -1,4 +1,8 @@
+[![license](https://img.shields.io/github/license/slarosa/vax.svg)](https://github.com/slarosa/vax/blob/main/LICENSE.md)
 ![vax](https://github.com/slarosa/vax/workflows/vax-github-actions/badge.svg)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=slarosa.vax)
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
+
 
 
 # Vax data
