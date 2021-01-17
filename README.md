@@ -41,23 +41,23 @@ page](https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTB
 
 # Dataset
 Format of CSV file (separator is comma)
-| FIELD              | Format                         | Example                        |
-|--------------------|--------------------------------|--------------------------------|
-| TML_DTA_SOMM       | date (YYYY-MM-DD)              | 2020-12-27                     |
-| TML_VAX_FORNITORE  | string                         | PF/BT                          |
-| TML_DES_STRUTTURA  | string                         | "P.O. ""G. Mazzini"" - Teramo" |
-| TML_AREA           | string                         | ABR                            |
-| TML_FASCIA_ETA     | string                         | 20-29                          |
-| TML_SESSO_M        | integer                        | 1                              |
-| TML_SESSO_F        | integer                        | 4                              |
-| TML_CAT_OSS        | integer                        | 5                              |
-| TML_CAT_PERSONALE  | integer                        | 0                              |
-| TML_CAT_RSA_OSPITI | integer                        | 0                              |
-| TML_CAT_ALTRO      | integer                        | 0                              |
-| TML_DOSE_1         | integer                        | 5                              |
-| TML_DOSE_2         | integer                        | 0                              |
-| TML_REGIONE        | string                         | Abruzzo                        |
-| TML_NUTS           | string                         | ITF1                           |
+| Field              | Description                    | Format                         | Example                        |
+|--------------------|--------------------------------|--------------------------------|--------------------------------|
+| TML_DTA_SOMM       | Somministration date           | date (YYYY-MM-DD)              | 2020-12-27                     |
+| TML_VAX_FORNITORE  | Vaccine supplier               | string                         | PF/BT                          |
+| TML_DES_STRUTTURA  | date (YYYY-MM-DD)              | string                         | "P.O. ""G. Mazzini"" - Teramo" |
+| TML_AREA           | Name area                      | string                         | ABR                            |
+| TML_FASCIA_ETA     | Age range                      | string                         | 20-29                          |
+| TML_SESSO_M        | Male sex                       | integer                        | 1                              |
+| TML_SESSO_F        | Female sex                     | integer                        | 4                              |
+| TML_CAT_OSS        | Social health worker category  | integer                        | 5                              |
+| TML_CAT_PERSONALE  | Medical personnel category     | integer                        | 0                              |
+| TML_CAT_RSA_OSPITI | Nursing homes                  | integer                        | 0                              |
+| TML_CAT_ALTRO      | date (YYYY-MM-DD)              | integer                        | 0                              |
+| TML_DOSE_1         | First dose of vaccine          | integer                        | 5                              |
+| TML_DOSE_2         | Booster dose of vaccine        | integer                        | 0                              |
+| TML_REGIONE        | Region                         | string                         | Abruzzo                        |
+| TML_NUTS           | NUTS code                      | string                         | ITF1                           |
 
 
 # Note
