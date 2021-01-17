@@ -1,6 +1,7 @@
 name: vax-github-actions
 
 on:
+  push:
   schedule:
     - cron: "0 8,13,19,21,23 * * *"
 
@@ -28,5 +29,6 @@ jobs:
         run: |
             git config --global user.name 'Salvatore Larosa'
             git config --global user.email 'slarosa@users.noreply.github.com'
-            git commit -am "Update VAX data on `date +'%Y-%m-%d %H:%M:%S'`"
+            git add -A
+            git diff-index --quiet HEAD || git commit -am "Update VAX data on `date +'%Y-%m-%d %H:%M:%S'`"
             git push
