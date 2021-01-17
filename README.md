@@ -59,7 +59,7 @@ Format of CSV file (separator is comma and encoding is UTF-8)
 | TML_CAT_ALTRO      | Other                          | integer                        | 0                              |
 | TML_DOSE_1         | First dose of vaccine          | integer                        | 5                              |
 | TML_DOSE_2         | Booster dose of vaccine        | integer                        | 0                              |
-| TML_REGIONE        | Name of Regoin                 | string                         | Abruzzo                        |
+| TML_REGIONE        | Name of Region                 | string                         | Abruzzo                        |
 | TML_NUTS           | NUTS code level 2              | string                         | ITF1                           |
 
 
