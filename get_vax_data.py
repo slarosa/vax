@@ -34,6 +34,7 @@ import json
 import requests
 import glob
 import pandas as pd
+from datetime import date
 
 
 AREA_MAP = {
@@ -182,7 +183,7 @@ def main():
     if len(sys.argv) == 2:
         for k in AREA_MAP.keys():
             extract(k, sys.argv[1])
-        
+
         all_files = glob.glob(sys.argv[1] + "/*.csv")
         dfs = []
         for filename in all_files:
@@ -191,9 +192,15 @@ def main():
                 dfs.append(df_area)
         df_total = pd.concat(dfs, axis=0, ignore_index=True)
         df_total.to_csv(os.path.join(sys.argv[1], 'vax_total.csv'), index=False)
+        df_total.groupby(['TML_DTA_SOMM',
+                          'TML_REGIONE',
+                          'TML_NUTS']).sum().to_csv(os.path.join(sys.argv[1], 'summary_vax_total.csv'))
+        df_total[df_total.TML_DTA_SOMM == date.today().strftime("%Y-%m-%d")].groupby(
+            ['TML_DTA_SOMM',
+             'TML_REGIONE',
+             'TML_NUTS']).sum().to_csv(os.path.join(sys.argv[1], 'summary_vax_total_latest.csv'))
     else:
-        sys.exit("Usage: python3 " + sys.argv[0] + " area output_dir",
-                 file=sys.stderr)
+        sys.exit("Usage: python3 " + sys.argv[0] + " area output_dir", file=sys.stderr)
 
 
 if __name__ == "__main__":
