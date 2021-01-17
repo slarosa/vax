@@ -54,7 +54,7 @@ AREA_MAP = {
   "PUG": ["Puglia", "ITF4"],
   "SAR": ["Sardegna", "ITG2"],
   "SIC": ["Sicilia", "ITG1"],
-  "TOS": ["Toscana", "IT1"],
+  "TOS": ["Toscana", "ITI1"],
   "UMB": ["Umbria", "ITI2"],
   "VDA": ["Valle d'Aosta", "ITC2"],
   "VEN": ["Veneto", "ITH3"],
