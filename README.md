@@ -55,12 +55,12 @@ Format of CSV file (separator is comma and encoding is UTF-8)
 | TML_SESSO_F        | Female sex                     | integer                        | 4                              |
 | TML_CAT_OSS        | Social health worker category  | integer                        | 5                              |
 | TML_CAT_PERSONALE  | Medical personnel category     | integer                        | 0                              |
-| TML_CAT_RSA_OSPITI | Nursing homes                  | integer                        | 0                              |
-| TML_CAT_ALTRO      | date (YYYY-MM-DD)              | integer                        | 0                              |
+| TML_CAT_RSA_OSPITI | Nursing homes category         | integer                        | 0                              |
+| TML_CAT_ALTRO      | Other                          | integer                        | 0                              |
 | TML_DOSE_1         | First dose of vaccine          | integer                        | 5                              |
 | TML_DOSE_2         | Booster dose of vaccine        | integer                        | 0                              |
-| TML_REGIONE        | Region                         | string                         | Abruzzo                        |
-| TML_NUTS           | NUTS code                      | string                         | ITF1                           |
+| TML_REGIONE        | Name of Regoin                 | string                         | Abruzzo                        |
+| TML_NUTS           | NUTS code level 2              | string                         | ITF1                           |
 
 
 # Note
