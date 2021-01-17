@@ -40,12 +40,12 @@ page](https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTB
 ```
 
 # Dataset
-Format of CSV file (separator is comma)
+Format of CSV file (separator is comma and encoding is UTF-8)
 | Field              | Description                    | Format                         | Example                        |
 |--------------------|--------------------------------|--------------------------------|--------------------------------|
 | TML_DTA_SOMM       | Somministration date           | date (YYYY-MM-DD)              | 2020-12-27                     |
 | TML_VAX_FORNITORE  | Vaccine supplier               | string                         | PF/BT                          |
-| TML_DES_STRUTTURA  | date (YYYY-MM-DD)              | string                         | "P.O. ""G. Mazzini"" - Teramo" |
+| TML_DES_STRUTTURA  | Medical facility               | string                         | "P.O. ""G. Mazzini"" - Teramo" |
 | TML_AREA           | Name area                      | string                         | ABR                            |
 | TML_FASCIA_ETA     | Age range                      | string                         | 20-29                          |
 | TML_SESSO_M        | Male sex                       | integer                        | 1                              |
