@@ -225,6 +225,22 @@
                                             "Function": 0
                                         },
                                         "Name": "Sum(TAB_MASTER.TML_DOSE_2)"
+                                    },
+                                    {
+                                        "Aggregation": {
+                                            "Expression": {
+                                                "Column": {
+                                                    "Expression": {
+                                                        "SourceRef": {
+                                                            "Source": "t"
+                                                        }
+                                                    },
+                                                    "Property": "TOT_SOMM"
+                                                }
+                                            },
+                                            "Function": 0
+                                        },
+                                        "Name": "Sum(TAB_MASTER.TOT_SOMM)"
                                     }
                                 ],
                                 "Where": [
@@ -298,7 +314,8 @@
                                                 11,
                                                 12,
                                                 13,
-                                                14
+                                                14,
+                                                15
                                             ]
                                         }
                                     ]
