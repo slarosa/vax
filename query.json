@@ -45,6 +45,17 @@
                                                     "Source": "t"
                                                 }
                                             },
+                                            "Property": "TML_COD_STRUTTURA"
+                                        },
+                                        "Name": "TAB_MASTER.TML_COD_STRUTTURA"
+                                    },
+                                    {
+                                        "Column": {
+                                            "Expression": {
+                                                "SourceRef": {
+                                                    "Source": "t"
+                                                }
+                                            },
                                             "Property": "TML_DES_STRUTTURA"
                                         },
                                         "Name": "TAB_MASTER.TML_DES_STRUTTURA"
@@ -102,6 +113,22 @@
                                             "Function": 0
                                         },
                                         "Name": "Sum(TAB_MASTER.TML_SESSO_F)"
+                                    },
+                                    {
+                                        "Aggregation": {
+                                            "Expression": {
+                                                "Column": {
+                                                    "Expression": {
+                                                        "SourceRef": {
+                                                            "Source": "t"
+                                                        }
+                                                    },
+                                                    "Property": "TML_GRAVIDANZA"
+                                                }
+                                            },
+                                            "Function": 0
+                                        },
+                                        "Name": "Sum(TAB_MASTER.TML_GRAVIDANZA)"
                                     },
                                     {
                                         "Aggregation": {
@@ -242,7 +269,7 @@
                                                     [
                                                         {
                                                             "Literal": {
-                                                                "Value":"\'" + region + "\'"
+                                                                "Value":"\'" + area + "\'"
                                                             }
                                                         }
                                                     ]
@@ -269,7 +296,9 @@
                                                 9,
                                                 10,
                                                 11,
-                                                12
+                                                12,
+                                                13,
+                                                14
                                             ]
                                         }
                                     ]

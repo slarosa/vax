@@ -59,6 +59,7 @@ Format of CSV file (separator is comma and encoding is UTF-8)
 | TML_FASCIA_ETA     | Age range                      | string                         | 20-29                          |
 | TML_SESSO_M        | Male sex                       | integer                        | 1                              |
 | TML_SESSO_F        | Female sex                     | integer                        | 4                              |
+| TML_GRAVIDANZA     | Pregnant women                 | integer                        | 0                              |
 | TML_CAT_OSS        | Social health worker category  | integer                        | 5                              |
 | TML_CAT_PERSONALE  | Medical personnel category     | integer                        | 0                              |
 | TML_CAT_RSA_OSPITI | Nursing homes category         | integer                        | 0                              |

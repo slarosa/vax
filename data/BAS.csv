@@ -1,531 +1,531 @@
-TML_DTA_SOMM,TML_VAX_FORNITORE,TML_DES_STRUTTURA,TML_AREA,TML_FASCIA_ETA,TML_SESSO_M,TML_SESSO_F,TML_CAT_OSS,TML_CAT_PERSONALE,TML_CAT_RSA_OSPITI,TML_CAT_ALTRO,TML_DOSE_1,TML_DOSE_2,TML_REGIONE,TML_NUTS
-2020-12-27,PF/BT,AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI,BAS,20-29,0,2,2,0,0,0,2,0,Basilicata,ITF5
-2020-12-27,PF/BT,AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI,BAS,30-39,2,4,6,0,0,0,6,0,Basilicata,ITF5
-2020-12-27,PF/BT,AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI,BAS,40-49,9,10,19,0,0,0,19,0,Basilicata,ITF5
-2020-12-27,PF/BT,AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI,BAS,50-59,10,7,17,0,0,0,17,0,Basilicata,ITF5
-2020-12-27,PF/BT,AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI,BAS,60-69,5,6,11,0,0,0,11,0,Basilicata,ITF5
-2020-12-27,PF/BT,Sala Prelievo  Laboratorio Analisi,BAS,20-29,4,5,9,0,0,0,9,0,Basilicata,ITF5
-2020-12-27,PF/BT,Sala Prelievo  Laboratorio Analisi,BAS,30-39,9,18,27,0,0,0,27,0,Basilicata,ITF5
-2020-12-27,PF/BT,Sala Prelievo  Laboratorio Analisi,BAS,40-49,7,23,30,0,0,0,30,0,Basilicata,ITF5
-2020-12-27,PF/BT,Sala Prelievo  Laboratorio Analisi,BAS,50-59,12,13,25,0,0,0,25,0,Basilicata,ITF5
-2020-12-27,PF/BT,Sala Prelievo  Laboratorio Analisi,BAS,60-69,9,5,14,0,0,0,14,0,Basilicata,ITF5
-2020-12-27,PF/BT,SEDE DECENTRATA-DISTRETTO DI RIOERO IN VULTURE,BAS,20-29,4,4,8,0,0,0,8,0,Basilicata,ITF5
-2020-12-27,PF/BT,SEDE DECENTRATA-DISTRETTO DI RIOERO IN VULTURE,BAS,30-39,3,10,13,0,0,0,13,0,Basilicata,ITF5
-2020-12-27,PF/BT,SEDE DECENTRATA-DISTRETTO DI RIOERO IN VULTURE,BAS,40-49,1,9,10,0,0,0,10,0,Basilicata,ITF5
-2020-12-27,PF/BT,SEDE DECENTRATA-DISTRETTO DI RIOERO IN VULTURE,BAS,50-59,3,5,8,0,0,0,8,0,Basilicata,ITF5
-2020-12-27,PF/BT,SEDE DECENTRATA-DISTRETTO DI RIOERO IN VULTURE,BAS,60-69,5,4,9,0,0,0,9,0,Basilicata,ITF5
-2021-01-02,PF/BT,AMBULATORIO TERRITORIALE-DISTRETTO DI VILLA D'AGRI,BAS,20-29,0,2,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-02,PF/BT,AMBULATORIO TERRITORIALE-DISTRETTO DI VILLA D'AGRI,BAS,30-39,2,4,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-02,PF/BT,AMBULATORIO TERRITORIALE-DISTRETTO DI VILLA D'AGRI,BAS,40-49,8,10,18,0,0,0,18,0,Basilicata,ITF5
-2021-01-02,PF/BT,AMBULATORIO TERRITORIALE-DISTRETTO DI VILLA D'AGRI,BAS,50-59,10,7,17,0,0,0,17,0,Basilicata,ITF5
-2021-01-02,PF/BT,AMBULATORIO TERRITORIALE-DISTRETTO DI VILLA D'AGRI,BAS,60-69,5,6,11,0,0,0,11,0,Basilicata,ITF5
-2021-01-02,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,20-29,2,5,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-02,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,30-39,10,6,15,0,0,1,16,0,Basilicata,ITF5
-2021-01-02,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,40-49,11,8,12,0,0,7,19,0,Basilicata,ITF5
-2021-01-02,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,50-59,10,5,12,0,0,3,15,0,Basilicata,ITF5
-2021-01-02,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,60-69,15,6,18,0,0,3,21,0,Basilicata,ITF5
-2021-01-02,PF/BT,IRCCS CROB,BAS,20-29,3,1,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-02,PF/BT,IRCCS CROB,BAS,30-39,4,17,21,0,0,0,21,0,Basilicata,ITF5
-2021-01-02,PF/BT,IRCCS CROB,BAS,40-49,9,23,32,0,0,0,32,0,Basilicata,ITF5
-2021-01-02,PF/BT,IRCCS CROB,BAS,50-59,13,28,41,0,0,0,41,0,Basilicata,ITF5
-2021-01-02,PF/BT,IRCCS CROB,BAS,60-69,12,10,21,1,0,0,22,0,Basilicata,ITF5
-2021-01-02,PF/BT,OSPEDALE DISTRETTUALE DI VENOSA,BAS,20-29,1,6,6,0,0,1,7,0,Basilicata,ITF5
-2021-01-02,PF/BT,OSPEDALE DISTRETTUALE DI VENOSA,BAS,30-39,5,1,4,0,0,2,6,0,Basilicata,ITF5
-2021-01-02,PF/BT,OSPEDALE DISTRETTUALE DI VENOSA,BAS,40-49,4,7,8,0,0,3,11,0,Basilicata,ITF5
-2021-01-02,PF/BT,OSPEDALE DISTRETTUALE DI VENOSA,BAS,50-59,6,16,18,0,0,4,22,0,Basilicata,ITF5
-2021-01-02,PF/BT,OSPEDALE DISTRETTUALE DI VENOSA,BAS,60-69,8,4,9,0,0,3,12,0,Basilicata,ITF5
-2021-01-02,PF/BT,POD DI LAURIA,BAS,20-29,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-02,PF/BT,POD DI LAURIA,BAS,30-39,4,2,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-02,PF/BT,POD DI LAURIA,BAS,40-49,10,7,17,0,0,0,17,0,Basilicata,ITF5
-2021-01-02,PF/BT,POD DI LAURIA,BAS,50-59,9,13,22,0,0,0,22,0,Basilicata,ITF5
-2021-01-02,PF/BT,POD DI LAURIA,BAS,60-69,7,7,14,0,0,0,14,0,Basilicata,ITF5
-2021-01-02,PF/BT,POLIAMBULATORIO SENISE,BAS,20-29,1,1,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-02,PF/BT,POLIAMBULATORIO SENISE,BAS,30-39,3,4,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-02,PF/BT,POLIAMBULATORIO SENISE,BAS,40-49,7,7,10,0,0,4,14,0,Basilicata,ITF5
-2021-01-02,PF/BT,POLIAMBULATORIO SENISE,BAS,50-59,11,10,15,0,0,6,21,0,Basilicata,ITF5
-2021-01-02,PF/BT,POLIAMBULATORIO SENISE,BAS,60-69,7,8,6,0,0,9,15,0,Basilicata,ITF5
-2021-01-02,PF/BT,POLIAMBULATORIO SENISE,BAS,70-79,1,0,0,0,0,1,1,0,Basilicata,ITF5
-2021-01-02,PF/BT,Presidio Ospedaliero Matera,BAS,20-29,1,4,5,0,0,0,5,0,Basilicata,ITF5
-2021-01-02,PF/BT,Presidio Ospedaliero Matera,BAS,30-39,5,8,13,0,0,0,13,0,Basilicata,ITF5
-2021-01-02,PF/BT,Presidio Ospedaliero Matera,BAS,40-49,17,22,39,0,0,0,39,0,Basilicata,ITF5
-2021-01-02,PF/BT,Presidio Ospedaliero Matera,BAS,50-59,15,22,37,0,0,0,37,0,Basilicata,ITF5
-2021-01-02,PF/BT,Presidio Ospedaliero Matera,BAS,60-69,9,4,13,0,0,0,13,0,Basilicata,ITF5
-2021-01-02,PF/BT,Sala Prelievi Laboratorio Analisi,BAS,20-29,1,23,24,0,0,0,24,0,Basilicata,ITF5
-2021-01-02,PF/BT,Sala Prelievi Laboratorio Analisi,BAS,30-39,20,41,61,0,0,0,61,0,Basilicata,ITF5
-2021-01-02,PF/BT,Sala Prelievi Laboratorio Analisi,BAS,40-49,30,69,99,0,0,0,99,0,Basilicata,ITF5
-2021-01-02,PF/BT,Sala Prelievi Laboratorio Analisi,BAS,50-59,29,59,88,0,0,0,88,0,Basilicata,ITF5
-2021-01-02,PF/BT,Sala Prelievi Laboratorio Analisi,BAS,60-69,15,13,28,0,0,0,28,0,Basilicata,ITF5
-2021-01-02,PF/BT,SEDE DECENTRATA DISTRETTO DI RIONERO IN VULTURE,BAS,20-29,4,4,8,0,0,0,8,0,Basilicata,ITF5
-2021-01-02,PF/BT,SEDE DECENTRATA DISTRETTO DI RIONERO IN VULTURE,BAS,30-39,3,10,13,0,0,0,13,0,Basilicata,ITF5
-2021-01-02,PF/BT,SEDE DECENTRATA DISTRETTO DI RIONERO IN VULTURE,BAS,40-49,1,9,10,0,0,0,10,0,Basilicata,ITF5
-2021-01-02,PF/BT,SEDE DECENTRATA DISTRETTO DI RIONERO IN VULTURE,BAS,50-59,3,5,8,0,0,0,8,0,Basilicata,ITF5
-2021-01-02,PF/BT,SEDE DECENTRATA DISTRETTO DI RIONERO IN VULTURE,BAS,60-69,5,4,9,0,0,0,9,0,Basilicata,ITF5
-2021-01-03,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,20-29,3,5,8,0,0,0,8,0,Basilicata,ITF5
-2021-01-03,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,30-39,5,5,10,0,0,0,10,0,Basilicata,ITF5
-2021-01-03,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,40-49,15,14,29,0,0,0,29,0,Basilicata,ITF5
-2021-01-03,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,50-59,3,6,9,0,0,0,9,0,Basilicata,ITF5
-2021-01-03,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,60-69,5,5,10,0,0,0,10,0,Basilicata,ITF5
-2021-01-03,PF/BT,Distretto della Salute della Val d'Agri,BAS,20-29,1,1,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-03,PF/BT,Distretto della Salute della Val d'Agri,BAS,30-39,6,5,11,0,0,0,11,0,Basilicata,ITF5
-2021-01-03,PF/BT,Distretto della Salute della Val d'Agri,BAS,40-49,7,7,13,1,0,0,14,0,Basilicata,ITF5
-2021-01-03,PF/BT,Distretto della Salute della Val d'Agri,BAS,50-59,4,8,12,0,0,0,12,0,Basilicata,ITF5
-2021-01-03,PF/BT,Distretto della Salute della Val d'Agri,BAS,60-69,6,3,8,1,0,0,9,0,Basilicata,ITF5
-2021-01-03,PF/BT,IRCCS CROB,BAS,20-29,1,2,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-03,PF/BT,IRCCS CROB,BAS,30-39,9,12,21,0,0,0,21,0,Basilicata,ITF5
-2021-01-03,PF/BT,IRCCS CROB,BAS,40-49,9,20,28,1,0,0,29,0,Basilicata,ITF5
-2021-01-03,PF/BT,IRCCS CROB,BAS,50-59,6,20,24,2,0,0,26,0,Basilicata,ITF5
-2021-01-03,PF/BT,IRCCS CROB,BAS,60-69,6,4,9,1,0,0,10,0,Basilicata,ITF5
-2021-01-03,PF/BT,POD DI LAURIA,BAS,20-29,0,2,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-03,PF/BT,POD DI LAURIA,BAS,30-39,6,3,9,0,0,0,9,0,Basilicata,ITF5
-2021-01-03,PF/BT,POD DI LAURIA,BAS,40-49,8,14,22,0,0,0,22,0,Basilicata,ITF5
-2021-01-03,PF/BT,POD DI LAURIA,BAS,50-59,1,9,10,0,0,0,10,0,Basilicata,ITF5
-2021-01-03,PF/BT,POD DI LAURIA,BAS,60-69,3,4,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-03,PF/BT,Presidio Ospedaliero Matera,BAS,20-29,1,6,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-03,PF/BT,Presidio Ospedaliero Matera,BAS,30-39,8,11,19,0,0,0,19,0,Basilicata,ITF5
-2021-01-03,PF/BT,Presidio Ospedaliero Matera,BAS,40-49,14,25,39,0,0,0,39,0,Basilicata,ITF5
-2021-01-03,PF/BT,Presidio Ospedaliero Matera,BAS,50-59,11,24,35,0,0,0,35,0,Basilicata,ITF5
-2021-01-03,PF/BT,Presidio Ospedaliero Matera,BAS,60-69,10,10,20,0,0,0,20,0,Basilicata,ITF5
-2021-01-03,PF/BT,Presidio Ospedaliero Villa D'Agri,BAS,20-29,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-03,PF/BT,Presidio Ospedaliero Villa D'Agri,BAS,30-39,2,1,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-03,PF/BT,Presidio Ospedaliero Villa D'Agri,BAS,40-49,6,15,21,0,0,0,21,0,Basilicata,ITF5
-2021-01-03,PF/BT,Presidio Ospedaliero Villa D'Agri,BAS,50-59,9,7,16,0,0,0,16,0,Basilicata,ITF5
-2021-01-03,PF/BT,Presidio Ospedaliero Villa D'Agri,BAS,60-69,3,1,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-03,PF/BT,Sala Prelievi Laboratorio Analisi,BAS,20-29,3,15,18,0,0,0,18,0,Basilicata,ITF5
-2021-01-03,PF/BT,Sala Prelievi Laboratorio Analisi,BAS,30-39,17,33,50,0,0,0,50,0,Basilicata,ITF5
-2021-01-03,PF/BT,Sala Prelievi Laboratorio Analisi,BAS,40-49,38,59,97,0,0,0,97,0,Basilicata,ITF5
-2021-01-03,PF/BT,Sala Prelievi Laboratorio Analisi,BAS,50-59,35,64,99,0,0,0,99,0,Basilicata,ITF5
-2021-01-03,PF/BT,Sala Prelievi Laboratorio Analisi,BAS,60-69,27,14,41,0,0,0,41,0,Basilicata,ITF5
-2021-01-04,PF/BT,Distretto della Salute della Val d'Agri,BAS,20-29,1,1,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-04,PF/BT,Distretto della Salute della Val d'Agri,BAS,30-39,4,4,8,0,0,0,8,0,Basilicata,ITF5
-2021-01-04,PF/BT,Distretto della Salute della Val d'Agri,BAS,40-49,8,3,6,5,0,0,11,0,Basilicata,ITF5
-2021-01-04,PF/BT,Distretto della Salute della Val d'Agri,BAS,50-59,8,6,12,2,0,0,14,0,Basilicata,ITF5
-2021-01-04,PF/BT,Distretto della Salute della Val d'Agri,BAS,60-69,8,5,13,0,0,0,13,0,Basilicata,ITF5
-2021-01-04,PF/BT,IRCCS CROB,BAS,20-29,0,3,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-04,PF/BT,IRCCS CROB,BAS,30-39,4,16,15,5,0,0,20,0,Basilicata,ITF5
-2021-01-04,PF/BT,IRCCS CROB,BAS,40-49,6,12,6,12,0,0,18,0,Basilicata,ITF5
-2021-01-04,PF/BT,IRCCS CROB,BAS,50-59,11,20,14,17,0,0,31,0,Basilicata,ITF5
-2021-01-04,PF/BT,IRCCS CROB,BAS,60-69,12,10,9,13,0,0,22,0,Basilicata,ITF5
-2021-01-04,PF/BT,IRCCS CROB,BAS,70-79,1,0,0,1,0,0,1,0,Basilicata,ITF5
-2021-01-04,PF/BT,POD DI LAURIA,BAS,20-29,1,1,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-04,PF/BT,POD DI LAURIA,BAS,30-39,1,3,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-04,PF/BT,POD DI LAURIA,BAS,40-49,0,7,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-04,PF/BT,POD DI LAURIA,BAS,50-59,5,8,13,0,0,0,13,0,Basilicata,ITF5
-2021-01-04,PF/BT,POD DI LAURIA,BAS,60-69,5,4,9,0,0,0,9,0,Basilicata,ITF5
-2021-01-04,PF/BT,POD DI LAURIA,BAS,70-79,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-04,PF/BT,Presidio Ospedaliero Matera,BAS,20-29,2,4,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-04,PF/BT,Presidio Ospedaliero Matera,BAS,30-39,23,27,50,0,0,0,50,0,Basilicata,ITF5
-2021-01-04,PF/BT,Presidio Ospedaliero Matera,BAS,40-49,32,46,78,0,0,0,78,0,Basilicata,ITF5
-2021-01-04,PF/BT,Presidio Ospedaliero Matera,BAS,50-59,33,28,61,0,0,0,61,0,Basilicata,ITF5
-2021-01-04,PF/BT,Presidio Ospedaliero Matera,BAS,60-69,25,8,33,0,0,0,33,0,Basilicata,ITF5
-2021-01-05,PF/BT,Distretto della Salute della Val d'Agri,BAS,20-29,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-05,PF/BT,Distretto della Salute della Val d'Agri,BAS,30-39,2,2,3,1,0,0,4,0,Basilicata,ITF5
-2021-01-05,PF/BT,Distretto della Salute della Val d'Agri,BAS,40-49,6,9,5,10,0,0,15,0,Basilicata,ITF5
-2021-01-05,PF/BT,Distretto della Salute della Val d'Agri,BAS,50-59,10,8,10,8,0,0,18,0,Basilicata,ITF5
-2021-01-05,PF/BT,Distretto della Salute della Val d'Agri,BAS,60-69,18,10,18,10,0,0,28,0,Basilicata,ITF5
-2021-01-05,PF/BT,POD DI LAURIA,BAS,20-29,0,2,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-05,PF/BT,POD DI LAURIA,BAS,30-39,2,1,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-05,PF/BT,POD DI LAURIA,BAS,40-49,0,6,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-05,PF/BT,POD DI LAURIA,BAS,50-59,3,6,9,0,0,0,9,0,Basilicata,ITF5
-2021-01-05,PF/BT,POD DI LAURIA,BAS,60-69,5,2,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO DI MELFI_AOR SAN CARLO,BAS,20-29,1,0,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO DI MELFI_AOR SAN CARLO,BAS,30-39,7,3,10,0,0,0,10,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO DI MELFI_AOR SAN CARLO,BAS,40-49,1,11,12,0,0,0,12,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO DI MELFI_AOR SAN CARLO,BAS,50-59,2,16,18,0,0,0,18,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO DI MELFI_AOR SAN CARLO,BAS,60-69,7,2,9,0,0,0,9,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO DI PESCOPAGANO_AOR SAN CARLO,BAS,40-49,5,10,15,0,0,0,15,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO DI PESCOPAGANO_AOR SAN CARLO,BAS,50-59,6,11,17,0,0,0,17,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO DI PESCOPAGANO_AOR SAN CARLO,BAS,60-69,8,5,13,0,0,0,13,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO DI VILLA D'AGRI_AOR SAN CARLO,BAS,20-29,1,1,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO DI VILLA D'AGRI_AOR SAN CARLO,BAS,30-39,0,4,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO DI VILLA D'AGRI_AOR SAN CARLO,BAS,40-49,2,20,22,0,0,0,22,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO DI VILLA D'AGRI_AOR SAN CARLO,BAS,50-59,6,9,15,0,0,0,15,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO DI VILLA D'AGRI_AOR SAN CARLO,BAS,60-69,3,4,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO LAGONEGRO_AOR SAN CARLO,BAS,20-29,0,2,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO LAGONEGRO_AOR SAN CARLO,BAS,30-39,5,7,12,0,0,0,12,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO LAGONEGRO_AOR SAN CARLO,BAS,40-49,5,13,18,0,0,0,18,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO LAGONEGRO_AOR SAN CARLO,BAS,50-59,3,10,13,0,0,0,13,0,Basilicata,ITF5
-2021-01-05,PF/BT,PRESIDIO OSPEDALIERO LAGONEGRO_AOR SAN CARLO,BAS,60-69,2,3,5,0,0,0,5,0,Basilicata,ITF5
-2021-01-05,PF/BT,Presidio Ospedaliero Matera,BAS,20-29,6,10,16,0,0,0,16,0,Basilicata,ITF5
-2021-01-05,PF/BT,Presidio Ospedaliero Matera,BAS,30-39,1,8,9,0,0,0,9,0,Basilicata,ITF5
-2021-01-05,PF/BT,Presidio Ospedaliero Matera,BAS,40-49,13,14,27,0,0,0,27,0,Basilicata,ITF5
-2021-01-05,PF/BT,Presidio Ospedaliero Matera,BAS,50-59,15,26,41,0,0,0,41,0,Basilicata,ITF5
-2021-01-05,PF/BT,Presidio Ospedaliero Matera,BAS,60-69,14,11,25,0,0,0,25,0,Basilicata,ITF5
-2021-01-05,PF/BT,TENDOSTRUTTURA OSPEDALE SAN CARLO_AOR SAN CARLO,BAS,20-29,8,13,21,0,0,0,21,0,Basilicata,ITF5
-2021-01-05,PF/BT,TENDOSTRUTTURA OSPEDALE SAN CARLO_AOR SAN CARLO,BAS,30-39,15,21,36,0,0,0,36,0,Basilicata,ITF5
-2021-01-05,PF/BT,TENDOSTRUTTURA OSPEDALE SAN CARLO_AOR SAN CARLO,BAS,40-49,29,36,65,0,0,0,65,0,Basilicata,ITF5
-2021-01-05,PF/BT,TENDOSTRUTTURA OSPEDALE SAN CARLO_AOR SAN CARLO,BAS,50-59,12,33,45,0,0,0,45,0,Basilicata,ITF5
-2021-01-05,PF/BT,TENDOSTRUTTURA OSPEDALE SAN CARLO_AOR SAN CARLO,BAS,60-69,16,17,33,0,0,0,33,0,Basilicata,ITF5
-2021-01-05,PF/BT,ufficio igiene Venosa,BAS,20-29,2,1,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-05,PF/BT,ufficio igiene Venosa,BAS,30-39,1,3,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-05,PF/BT,ufficio igiene Venosa,BAS,40-49,2,5,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-05,PF/BT,ufficio igiene Venosa,BAS,50-59,0,4,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-05,PF/BT,ufficio igiene Venosa,BAS,60-69,18,6,24,0,0,0,24,0,Basilicata,ITF5
-2021-01-06,PF/BT,POD DI LAURIA,BAS,30-39,0,2,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-06,PF/BT,POD DI LAURIA,BAS,40-49,1,2,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-06,PF/BT,POD DI LAURIA,BAS,50-59,3,7,10,0,0,0,10,0,Basilicata,ITF5
-2021-01-06,PF/BT,POD DI LAURIA,BAS,60-69,2,1,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-06,PF/BT,Presidio Ospedaliero Matera,BAS,20-29,2,7,9,0,0,0,9,0,Basilicata,ITF5
-2021-01-06,PF/BT,Presidio Ospedaliero Matera,BAS,30-39,17,7,24,0,0,0,24,0,Basilicata,ITF5
-2021-01-06,PF/BT,Presidio Ospedaliero Matera,BAS,40-49,28,19,47,0,0,0,47,0,Basilicata,ITF5
-2021-01-06,PF/BT,Presidio Ospedaliero Matera,BAS,50-59,25,38,63,0,0,0,63,0,Basilicata,ITF5
-2021-01-06,PF/BT,Presidio Ospedaliero Matera,BAS,60-69,19,10,29,0,0,0,29,0,Basilicata,ITF5
-2021-01-06,PF/BT,ufficio igiene Venosa,BAS,20-29,0,2,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-06,PF/BT,ufficio igiene Venosa,BAS,30-39,0,2,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-06,PF/BT,ufficio igiene Venosa,BAS,40-49,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-06,PF/BT,ufficio igiene Venosa,BAS,50-59,2,2,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-06,PF/BT,ufficio igiene Venosa,BAS,60-69,3,2,5,0,0,0,5,0,Basilicata,ITF5
-2021-01-06,PF/BT,ufficio igiene Venosa,BAS,70-79,1,3,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-06,PF/BT,ufficio igiene Venosa,BAS,80-89,0,4,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-06,PF/BT,ufficio igiene Venosa,BAS,90+,1,7,8,0,0,0,8,0,Basilicata,ITF5
-2021-01-07,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,20-29,3,5,8,0,0,0,8,0,Basilicata,ITF5
-2021-01-07,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,30-39,6,10,16,0,0,0,16,0,Basilicata,ITF5
-2021-01-07,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,40-49,7,11,15,3,0,0,18,0,Basilicata,ITF5
-2021-01-07,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,50-59,15,8,22,1,0,0,23,0,Basilicata,ITF5
-2021-01-07,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,60-69,30,13,43,0,0,0,43,0,Basilicata,ITF5
-2021-01-07,PF/BT,Distretto della Salute della Val d'Agri,BAS,20-29,1,0,0,1,0,0,1,0,Basilicata,ITF5
-2021-01-07,PF/BT,Distretto della Salute della Val d'Agri,BAS,30-39,1,0,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-07,PF/BT,Distretto della Salute della Val d'Agri,BAS,40-49,0,2,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-07,PF/BT,Distretto della Salute della Val d'Agri,BAS,50-59,1,1,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-07,PF/BT,Distretto della Salute della Val d'Agri,BAS,60-69,0,6,5,1,0,0,6,0,Basilicata,ITF5
-2021-01-07,PF/BT,POD DI LAURIA,BAS,20-29,2,1,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-07,PF/BT,POD DI LAURIA,BAS,30-39,6,1,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-07,PF/BT,POD DI LAURIA,BAS,40-49,4,5,9,0,0,0,9,0,Basilicata,ITF5
-2021-01-07,PF/BT,POD DI LAURIA,BAS,50-59,4,4,8,0,0,0,8,0,Basilicata,ITF5
-2021-01-07,PF/BT,POD DI LAURIA,BAS,60-69,11,3,14,0,0,0,14,0,Basilicata,ITF5
-2021-01-07,PF/BT,POLIAMBULATORIO DI SENISE,BAS,20-29,3,7,10,0,0,0,10,0,Basilicata,ITF5
-2021-01-07,PF/BT,POLIAMBULATORIO DI SENISE,BAS,30-39,1,7,8,0,0,0,8,0,Basilicata,ITF5
-2021-01-07,PF/BT,POLIAMBULATORIO DI SENISE,BAS,40-49,9,8,17,0,0,0,17,0,Basilicata,ITF5
-2021-01-07,PF/BT,POLIAMBULATORIO DI SENISE,BAS,50-59,6,6,11,0,0,1,12,0,Basilicata,ITF5
-2021-01-07,PF/BT,POLIAMBULATORIO DI SENISE,BAS,60-69,8,4,12,0,0,0,12,0,Basilicata,ITF5
-2021-01-07,PF/BT,POLIAMBULATORIO DI SENISE,BAS,70-79,1,0,0,0,0,1,1,0,Basilicata,ITF5
-2021-01-07,PF/BT,PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO,BAS,40-49,2,0,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-07,PF/BT,PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO,BAS,50-59,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-07,PF/BT,PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO,BAS,60-69,1,1,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-07,PF/BT,Presidio Ospedaliero Matera,BAS,20-29,2,2,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-07,PF/BT,Presidio Ospedaliero Matera,BAS,30-39,9,10,19,0,0,0,19,0,Basilicata,ITF5
-2021-01-07,PF/BT,Presidio Ospedaliero Matera,BAS,40-49,20,39,59,0,0,0,59,0,Basilicata,ITF5
-2021-01-07,PF/BT,Presidio Ospedaliero Matera,BAS,50-59,30,56,86,0,0,0,86,0,Basilicata,ITF5
-2021-01-07,PF/BT,Presidio Ospedaliero Matera,BAS,60-69,26,19,45,0,0,0,45,0,Basilicata,ITF5
-2021-01-07,PF/BT,SEDE DEC.C DSB RIONERO IN V.,BAS,20-29,0,2,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-07,PF/BT,SEDE DEC.C DSB RIONERO IN V.,BAS,30-39,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-07,PF/BT,SEDE DEC.C DSB RIONERO IN V.,BAS,40-49,1,6,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-07,PF/BT,SEDE DEC.C DSB RIONERO IN V.,BAS,50-59,7,4,11,0,0,0,11,0,Basilicata,ITF5
-2021-01-07,PF/BT,SEDE DEC.C DSB RIONERO IN V.,BAS,60-69,21,14,35,0,0,0,35,0,Basilicata,ITF5
-2021-01-07,PF/BT,ufficio igiene Venosa,BAS,20-29,3,4,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-07,PF/BT,ufficio igiene Venosa,BAS,30-39,13,7,19,0,1,0,20,0,Basilicata,ITF5
-2021-01-07,PF/BT,ufficio igiene Venosa,BAS,40-49,18,14,30,0,2,0,32,0,Basilicata,ITF5
-2021-01-07,PF/BT,ufficio igiene Venosa,BAS,50-59,28,22,49,0,1,0,50,0,Basilicata,ITF5
-2021-01-07,PF/BT,ufficio igiene Venosa,BAS,60-69,12,5,15,0,2,0,17,0,Basilicata,ITF5
-2021-01-07,PF/BT,ufficio igiene Venosa,BAS,70-79,7,3,5,0,5,0,10,0,Basilicata,ITF5
-2021-01-07,PF/BT,ufficio igiene Venosa,BAS,80-89,5,5,0,0,10,0,10,0,Basilicata,ITF5
-2021-01-07,PF/BT,ufficio igiene Venosa,BAS,90+,1,5,0,0,6,0,6,0,Basilicata,ITF5
-2021-01-08,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,20-29,1,1,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-08,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,30-39,6,8,13,1,0,0,14,0,Basilicata,ITF5
-2021-01-08,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,40-49,8,4,8,4,0,0,12,0,Basilicata,ITF5
-2021-01-08,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,50-59,14,8,19,3,0,0,22,0,Basilicata,ITF5
-2021-01-08,PF/BT,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,60-69,31,15,45,1,0,0,46,0,Basilicata,ITF5
-2021-01-08,PF/BT,Distretto della Salute della Val d'Agri,BAS,20-29,2,1,2,1,0,0,3,0,Basilicata,ITF5
-2021-01-08,PF/BT,Distretto della Salute della Val d'Agri,BAS,30-39,1,6,6,1,0,0,7,0,Basilicata,ITF5
-2021-01-08,PF/BT,Distretto della Salute della Val d'Agri,BAS,40-49,3,9,4,7,1,0,12,0,Basilicata,ITF5
-2021-01-08,PF/BT,Distretto della Salute della Val d'Agri,BAS,50-59,1,7,4,3,1,0,8,0,Basilicata,ITF5
-2021-01-08,PF/BT,Distretto della Salute della Val d'Agri,BAS,60-69,4,3,2,2,3,0,7,0,Basilicata,ITF5
-2021-01-08,PF/BT,Distretto della Salute della Val d'Agri,BAS,70-79,3,4,0,0,7,0,7,0,Basilicata,ITF5
-2021-01-08,PF/BT,Distretto della Salute della Val d'Agri,BAS,80-89,3,13,0,0,16,0,16,0,Basilicata,ITF5
-2021-01-08,PF/BT,Distretto della Salute della Val d'Agri,BAS,90+,2,9,0,0,11,0,11,0,Basilicata,ITF5
-2021-01-08,PF/BT,Presidio Ospedaliero Matera,BAS,20-29,1,3,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-08,PF/BT,Presidio Ospedaliero Matera,BAS,30-39,7,18,25,0,0,0,25,0,Basilicata,ITF5
-2021-01-08,PF/BT,Presidio Ospedaliero Matera,BAS,40-49,15,24,39,0,0,0,39,0,Basilicata,ITF5
-2021-01-08,PF/BT,Presidio Ospedaliero Matera,BAS,50-59,15,35,50,0,0,0,50,0,Basilicata,ITF5
-2021-01-08,PF/BT,Presidio Ospedaliero Matera,BAS,60-69,24,22,46,0,0,0,46,0,Basilicata,ITF5
-2021-01-08,PF/BT,UNIVERSO SALUTE SRL POTENZA RSA  ANZIANI E DISABILI,BAS,50-59,2,1,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-08,PF/BT,UNIVERSO SALUTE SRL POTENZA RSA  ANZIANI E DISABILI,BAS,60-69,0,3,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-09,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,20-29,0,2,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-09,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,30-39,7,7,11,3,0,0,14,0,Basilicata,ITF5
-2021-01-09,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,40-49,7,18,24,1,0,0,25,0,Basilicata,ITF5
-2021-01-09,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,50-59,13,12,18,7,0,0,25,0,Basilicata,ITF5
-2021-01-09,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,60-69,6,6,11,1,0,0,12,0,Basilicata,ITF5
-2021-01-09,PF/BT,Distretto della Salute della Val d'Agri,BAS,20-29,1,2,2,1,0,0,3,0,Basilicata,ITF5
-2021-01-09,PF/BT,Distretto della Salute della Val d'Agri,BAS,30-39,2,2,3,1,0,0,4,0,Basilicata,ITF5
-2021-01-09,PF/BT,Distretto della Salute della Val d'Agri,BAS,40-49,4,4,4,4,0,0,8,0,Basilicata,ITF5
-2021-01-09,PF/BT,Distretto della Salute della Val d'Agri,BAS,50-59,2,10,10,1,1,0,12,0,Basilicata,ITF5
-2021-01-09,PF/BT,Distretto della Salute della Val d'Agri,BAS,60-69,3,6,5,1,3,0,9,0,Basilicata,ITF5
-2021-01-09,PF/BT,Distretto della Salute della Val d'Agri,BAS,70-79,4,2,0,0,6,0,6,0,Basilicata,ITF5
-2021-01-09,PF/BT,Distretto della Salute della Val d'Agri,BAS,80-89,9,13,0,0,22,0,22,0,Basilicata,ITF5
-2021-01-09,PF/BT,Distretto della Salute della Val d'Agri,BAS,90+,3,12,0,0,15,0,15,0,Basilicata,ITF5
-2021-01-09,PF/BT,IRCCS CROB,BAS,20-29,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-09,PF/BT,IRCCS CROB,BAS,30-39,1,6,6,1,0,0,7,0,Basilicata,ITF5
-2021-01-09,PF/BT,IRCCS CROB,BAS,40-49,2,10,10,2,0,0,12,0,Basilicata,ITF5
-2021-01-09,PF/BT,IRCCS CROB,BAS,50-59,3,15,16,2,0,0,18,0,Basilicata,ITF5
-2021-01-09,PF/BT,IRCCS CROB,BAS,60-69,2,5,6,1,0,0,7,0,Basilicata,ITF5
-2021-01-09,PF/BT,POD DI LAURIA,BAS,20-29,0,3,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-09,PF/BT,POD DI LAURIA,BAS,30-39,1,12,13,0,0,0,13,0,Basilicata,ITF5
-2021-01-09,PF/BT,POD DI LAURIA,BAS,40-49,1,7,8,0,0,0,8,0,Basilicata,ITF5
-2021-01-09,PF/BT,POD DI LAURIA,BAS,50-59,3,9,12,0,0,0,12,0,Basilicata,ITF5
-2021-01-09,PF/BT,POD DI LAURIA,BAS,60-69,5,1,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-09,PF/BT,Presidio Ospedaliero Matera,BAS,20-29,2,4,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-09,PF/BT,Presidio Ospedaliero Matera,BAS,30-39,8,18,26,0,0,0,26,0,Basilicata,ITF5
-2021-01-09,PF/BT,Presidio Ospedaliero Matera,BAS,40-49,17,25,42,0,0,0,42,0,Basilicata,ITF5
-2021-01-09,PF/BT,Presidio Ospedaliero Matera,BAS,50-59,15,38,53,0,0,0,53,0,Basilicata,ITF5
-2021-01-09,PF/BT,Presidio Ospedaliero Matera,BAS,60-69,20,23,43,0,0,0,43,0,Basilicata,ITF5
-2021-01-09,PF/BT,ufficio igiene di Venosa,BAS,20-29,1,1,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-09,PF/BT,ufficio igiene di Venosa,BAS,30-39,3,3,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-09,PF/BT,ufficio igiene di Venosa,BAS,40-49,2,9,8,0,3,0,11,0,Basilicata,ITF5
-2021-01-09,PF/BT,ufficio igiene di Venosa,BAS,50-59,10,5,6,0,9,0,15,0,Basilicata,ITF5
-2021-01-09,PF/BT,ufficio igiene di Venosa,BAS,60-69,6,5,4,0,7,0,11,0,Basilicata,ITF5
-2021-01-09,PF/BT,ufficio igiene di Venosa,BAS,70-79,0,1,0,0,1,0,1,0,Basilicata,ITF5
-2021-01-09,PF/BT,ufficio igiene di Venosa,BAS,80-89,1,1,0,0,2,0,2,0,Basilicata,ITF5
-2021-01-11,PF/BT,Distretto della Salute della Val d'Agri,BAS,20-29,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-11,PF/BT,Distretto della Salute della Val d'Agri,BAS,30-39,0,2,1,1,0,0,2,0,Basilicata,ITF5
-2021-01-11,PF/BT,Distretto della Salute della Val d'Agri,BAS,40-49,0,7,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-11,PF/BT,Distretto della Salute della Val d'Agri,BAS,50-59,0,5,5,0,0,0,5,0,Basilicata,ITF5
-2021-01-11,PF/BT,Distretto della Salute della Val d'Agri,BAS,70-79,1,1,0,0,2,0,2,0,Basilicata,ITF5
-2021-01-11,PF/BT,Distretto della Salute della Val d'Agri,BAS,80-89,5,8,0,0,13,0,13,0,Basilicata,ITF5
-2021-01-11,PF/BT,Distretto della Salute della Val d'Agri,BAS,90+,1,11,0,0,12,0,12,0,Basilicata,ITF5
-2021-01-11,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,20-29,1,0,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-11,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,30-39,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-11,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,50-59,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-11,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,60-69,2,1,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-11,PF/BT,IRCCS CROB,BAS,40-49,2,2,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-11,PF/BT,IRCCS CROB,BAS,50-59,2,4,5,1,0,0,6,0,Basilicata,ITF5
-2021-01-11,PF/BT,POD DI LAURIA,BAS,30-39,0,2,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-11,PF/BT,POD DI LAURIA,BAS,40-49,0,3,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-11,PF/BT,POD DI LAURIA,BAS,50-59,2,1,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-11,PF/BT,POD DI LAURIA,BAS,60-69,1,3,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-11,PF/BT,POLIAMBULATORIO SENISE,BAS,20-29,1,4,0,1,4,0,5,0,Basilicata,ITF5
-2021-01-11,PF/BT,POLIAMBULATORIO SENISE,BAS,30-39,3,2,2,0,3,0,5,0,Basilicata,ITF5
-2021-01-11,PF/BT,POLIAMBULATORIO SENISE,BAS,40-49,1,4,0,0,5,0,5,0,Basilicata,ITF5
-2021-01-11,PF/BT,POLIAMBULATORIO SENISE,BAS,50-59,3,5,0,1,6,1,8,0,Basilicata,ITF5
-2021-01-11,PF/BT,POLIAMBULATORIO SENISE,BAS,60-69,4,3,5,0,1,1,7,0,Basilicata,ITF5
-2021-01-11,PF/BT,Presidio Ospedaliero Matera,BAS,30-39,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-11,PF/BT,Presidio Ospedaliero Matera,BAS,40-49,0,5,5,0,0,0,5,0,Basilicata,ITF5
-2021-01-11,PF/BT,Presidio Ospedaliero Matera,BAS,50-59,2,12,14,0,0,0,14,0,Basilicata,ITF5
-2021-01-11,PF/BT,Presidio Ospedaliero Matera,BAS,60-69,4,6,10,0,0,0,10,0,Basilicata,ITF5
-2021-01-11,PF/BT,ufficio igiene di Venosa,BAS,20-29,3,2,1,0,4,0,5,0,Basilicata,ITF5
-2021-01-11,PF/BT,ufficio igiene di Venosa,BAS,30-39,1,1,1,0,1,0,2,0,Basilicata,ITF5
-2021-01-11,PF/BT,ufficio igiene di Venosa,BAS,40-49,2,2,2,0,2,0,4,0,Basilicata,ITF5
-2021-01-11,PF/BT,ufficio igiene di Venosa,BAS,50-59,3,7,6,0,4,0,10,0,Basilicata,ITF5
-2021-01-11,PF/BT,ufficio igiene di Venosa,BAS,60-69,4,3,6,0,1,0,7,0,Basilicata,ITF5
-2021-01-11,PF/BT,ufficio igiene di Venosa,BAS,80-89,0,1,0,0,1,0,1,0,Basilicata,ITF5
-2021-01-11,PF/BT,ufficio igiene di Venosa,BAS,90+,1,0,0,0,1,0,1,0,Basilicata,ITF5
-2021-01-12,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,20-29,4,5,8,1,0,0,9,0,Basilicata,ITF5
-2021-01-12,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,30-39,7,3,8,2,0,0,10,0,Basilicata,ITF5
-2021-01-12,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,40-49,5,5,6,4,0,0,10,0,Basilicata,ITF5
-2021-01-12,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,50-59,7,5,10,1,1,0,12,0,Basilicata,ITF5
-2021-01-12,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,60-69,8,1,5,0,4,0,9,0,Basilicata,ITF5
-2021-01-12,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,70-79,2,4,0,0,6,0,6,0,Basilicata,ITF5
-2021-01-12,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,80-89,5,12,0,0,17,0,17,0,Basilicata,ITF5
-2021-01-12,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,90+,1,10,0,0,11,0,11,0,Basilicata,ITF5
-2021-01-12,PF/BT,Distretto della Salute della Val d'Agri,BAS,20-29,0,3,1,2,0,0,3,0,Basilicata,ITF5
-2021-01-12,PF/BT,Distretto della Salute della Val d'Agri,BAS,30-39,0,6,5,1,0,0,6,0,Basilicata,ITF5
-2021-01-12,PF/BT,Distretto della Salute della Val d'Agri,BAS,40-49,3,4,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-12,PF/BT,Distretto della Salute della Val d'Agri,BAS,50-59,1,1,0,2,0,0,2,0,Basilicata,ITF5
-2021-01-12,PF/BT,Distretto della Salute della Val d'Agri,BAS,60-69,3,2,1,1,3,0,5,0,Basilicata,ITF5
-2021-01-12,PF/BT,Distretto della Salute della Val d'Agri,BAS,70-79,2,2,0,0,4,0,4,0,Basilicata,ITF5
-2021-01-12,PF/BT,Distretto della Salute della Val d'Agri,BAS,80-89,0,9,0,0,9,0,9,0,Basilicata,ITF5
-2021-01-12,PF/BT,Distretto della Salute della Val d'Agri,BAS,90+,0,6,0,0,6,0,6,0,Basilicata,ITF5
-2021-01-12,PF/BT,POLIAMBULATORIO SENISE,BAS,20-29,3,5,8,0,0,0,8,0,Basilicata,ITF5
-2021-01-12,PF/BT,POLIAMBULATORIO SENISE,BAS,30-39,1,1,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-12,PF/BT,POLIAMBULATORIO SENISE,BAS,40-49,2,3,4,0,0,1,5,0,Basilicata,ITF5
-2021-01-12,PF/BT,POLIAMBULATORIO SENISE,BAS,50-59,3,5,7,0,0,1,8,0,Basilicata,ITF5
-2021-01-12,PF/BT,POLIAMBULATORIO SENISE,BAS,60-69,4,3,6,0,0,1,7,0,Basilicata,ITF5
-2021-01-12,PF/BT,Presidio Ospedaliero Matera,BAS,30-39,2,5,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-12,PF/BT,Presidio Ospedaliero Matera,BAS,40-49,2,11,13,0,0,0,13,0,Basilicata,ITF5
-2021-01-12,PF/BT,Presidio Ospedaliero Matera,BAS,50-59,4,16,20,0,0,0,20,0,Basilicata,ITF5
-2021-01-12,PF/BT,Presidio Ospedaliero Matera,BAS,60-69,4,4,8,0,0,0,8,0,Basilicata,ITF5
-2021-01-12,PF/BT,ufficio igiene Venosa,BAS,30-39,6,1,3,0,4,0,7,0,Basilicata,ITF5
-2021-01-12,PF/BT,ufficio igiene Venosa,BAS,40-49,5,0,2,0,3,0,5,0,Basilicata,ITF5
-2021-01-12,PF/BT,ufficio igiene Venosa,BAS,50-59,4,1,0,0,5,0,5,0,Basilicata,ITF5
-2021-01-12,PF/BT,ufficio igiene Venosa,BAS,60-69,1,0,0,0,1,0,1,0,Basilicata,ITF5
-2021-01-13,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,20-29,2,5,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-13,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,30-39,9,9,18,0,0,0,18,0,Basilicata,ITF5
-2021-01-13,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,40-49,5,14,19,0,0,0,19,0,Basilicata,ITF5
-2021-01-13,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,50-59,7,11,14,2,2,0,18,0,Basilicata,ITF5
-2021-01-13,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,60-69,34,12,40,2,4,0,46,0,Basilicata,ITF5
-2021-01-13,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,70-79,14,9,11,0,12,0,23,0,Basilicata,ITF5
-2021-01-13,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,80-89,7,8,1,0,14,0,15,0,Basilicata,ITF5
-2021-01-13,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,90+,5,7,0,0,12,0,12,0,Basilicata,ITF5
-2021-01-13,PF/BT,Distretto della Salute della Val d'Agri,BAS,20-29,0,2,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-13,PF/BT,Distretto della Salute della Val d'Agri,BAS,30-39,1,1,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-13,PF/BT,Distretto della Salute della Val d'Agri,BAS,40-49,1,7,6,2,0,0,8,0,Basilicata,ITF5
-2021-01-13,PF/BT,Distretto della Salute della Val d'Agri,BAS,50-59,2,8,6,4,0,0,10,0,Basilicata,ITF5
-2021-01-13,PF/BT,Distretto della Salute della Val d'Agri,BAS,60-69,1,4,0,4,1,0,5,0,Basilicata,ITF5
-2021-01-13,PF/BT,Distretto della Salute della Val d'Agri,BAS,80-89,3,1,0,0,4,0,4,0,Basilicata,ITF5
-2021-01-13,PF/BT,Distretto della Salute della Val d'Agri,BAS,90+,0,4,0,0,4,0,4,0,Basilicata,ITF5
-2021-01-13,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,70-79,0,1,0,0,1,0,1,0,Basilicata,ITF5
-2021-01-13,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,80-89,2,8,0,0,10,0,10,0,Basilicata,ITF5
-2021-01-13,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,90+,1,12,0,0,13,0,13,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI LAGONEGRO-AOR SAN CARLO,BAS,20-29,0,3,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI LAGONEGRO-AOR SAN CARLO,BAS,30-39,1,5,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI LAGONEGRO-AOR SAN CARLO,BAS,40-49,2,19,21,0,0,0,21,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI LAGONEGRO-AOR SAN CARLO,BAS,50-59,5,18,23,0,0,0,23,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI LAGONEGRO-AOR SAN CARLO,BAS,60-69,2,9,11,0,0,0,11,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI LAGONEGRO-AOR SAN CARLO,BAS,70-79,1,0,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI MELFI-AOR SAN CARLO,BAS,20-29,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI MELFI-AOR SAN CARLO,BAS,30-39,3,12,15,0,0,0,15,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI MELFI-AOR SAN CARLO,BAS,40-49,3,11,14,0,0,0,14,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI MELFI-AOR SAN CARLO,BAS,50-59,4,6,10,0,0,0,10,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI MELFI-AOR SAN CARLO,BAS,60-69,5,5,10,0,0,0,10,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO,BAS,30-39,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO,BAS,50-59,2,0,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO,BAS,60-69,1,1,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI VILLA D'AGRI-AOR SAN CARLO,BAS,20-29,1,0,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI VILLA D'AGRI-AOR SAN CARLO,BAS,30-39,4,16,20,0,0,0,20,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI VILLA D'AGRI-AOR SAN CARLO,BAS,40-49,4,17,21,0,0,0,21,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI VILLA D'AGRI-AOR SAN CARLO,BAS,50-59,10,15,25,0,0,0,25,0,Basilicata,ITF5
-2021-01-13,PF/BT,PRESIDIO OSPEDALIERO DI VILLA D'AGRI-AOR SAN CARLO,BAS,60-69,5,8,13,0,0,0,13,0,Basilicata,ITF5
-2021-01-13,PF/BT,Presidio Ospedaliero Matera,BAS,20-29,6,6,0,0,0,12,12,0,Basilicata,ITF5
-2021-01-13,PF/BT,Presidio Ospedaliero Matera,BAS,30-39,10,4,6,0,0,8,14,0,Basilicata,ITF5
-2021-01-13,PF/BT,Presidio Ospedaliero Matera,BAS,40-49,11,9,17,0,0,3,20,0,Basilicata,ITF5
-2021-01-13,PF/BT,Presidio Ospedaliero Matera,BAS,50-59,14,12,22,0,3,1,26,0,Basilicata,ITF5
-2021-01-13,PF/BT,Presidio Ospedaliero Matera,BAS,60-69,36,22,51,0,3,4,58,0,Basilicata,ITF5
-2021-01-13,PF/BT,Presidio Ospedaliero Matera,BAS,70-79,5,5,0,0,10,0,10,0,Basilicata,ITF5
-2021-01-13,PF/BT,Presidio Ospedaliero Matera,BAS,80-89,4,4,0,0,8,0,8,0,Basilicata,ITF5
-2021-01-13,PF/BT,Presidio Ospedaliero Matera,BAS,90+,2,6,0,0,8,0,8,0,Basilicata,ITF5
-2021-01-13,PF/BT,TENDOSTRUTTURA OSPEDALE SAN CARLO -AOR SAN CARLO,BAS,20-29,1,5,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-13,PF/BT,TENDOSTRUTTURA OSPEDALE SAN CARLO -AOR SAN CARLO,BAS,30-39,15,24,39,0,0,0,39,0,Basilicata,ITF5
-2021-01-13,PF/BT,TENDOSTRUTTURA OSPEDALE SAN CARLO -AOR SAN CARLO,BAS,40-49,33,42,75,0,0,0,75,0,Basilicata,ITF5
-2021-01-13,PF/BT,TENDOSTRUTTURA OSPEDALE SAN CARLO -AOR SAN CARLO,BAS,50-59,31,60,91,0,0,0,91,0,Basilicata,ITF5
-2021-01-13,PF/BT,TENDOSTRUTTURA OSPEDALE SAN CARLO -AOR SAN CARLO,BAS,60-69,17,12,29,0,0,0,29,0,Basilicata,ITF5
-2021-01-13,PF/BT,ufficio igiene di Venosa,BAS,20-29,2,1,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-13,PF/BT,ufficio igiene di Venosa,BAS,30-39,0,2,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-13,PF/BT,ufficio igiene di Venosa,BAS,50-59,2,1,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-13,PF/BT,ufficio igiene di Venosa,BAS,60-69,2,1,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-13,PF/BT,ufficio igiene di Venosa,BAS,70-79,1,0,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-14,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,20-29,8,6,14,0,0,0,14,0,Basilicata,ITF5
-2021-01-14,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,30-39,7,6,12,1,0,0,13,0,Basilicata,ITF5
-2021-01-14,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,40-49,2,6,8,0,0,0,8,0,Basilicata,ITF5
-2021-01-14,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,50-59,8,5,11,2,0,0,13,0,Basilicata,ITF5
-2021-01-14,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,60-69,25,11,36,0,0,0,36,0,Basilicata,ITF5
-2021-01-14,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,70-79,14,2,16,0,0,0,16,0,Basilicata,ITF5
-2021-01-14,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,80-89,1,0,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-14,PF/BT,Distretto della Salute della Val d'Agri,BAS,20-29,2,5,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-14,PF/BT,Distretto della Salute della Val d'Agri,BAS,30-39,7,14,12,7,2,0,21,0,Basilicata,ITF5
-2021-01-14,PF/BT,Distretto della Salute della Val d'Agri,BAS,40-49,5,17,11,6,5,0,22,0,Basilicata,ITF5
-2021-01-14,PF/BT,Distretto della Salute della Val d'Agri,BAS,50-59,10,14,7,5,12,0,24,0,Basilicata,ITF5
-2021-01-14,PF/BT,Distretto della Salute della Val d'Agri,BAS,60-69,5,5,4,0,6,0,10,0,Basilicata,ITF5
-2021-01-14,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,50-59,1,1,0,1,1,0,2,0,Basilicata,ITF5
-2021-01-14,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,60-69,3,0,0,0,3,0,3,0,Basilicata,ITF5
-2021-01-14,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,70-79,4,3,0,0,7,0,7,0,Basilicata,ITF5
-2021-01-14,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,80-89,13,20,0,0,33,0,33,0,Basilicata,ITF5
-2021-01-14,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,90+,5,10,0,0,15,0,15,0,Basilicata,ITF5
-2021-01-14,PF/BT,IRCCS-CROB,BAS,30-39,1,2,2,1,0,0,3,0,Basilicata,ITF5
-2021-01-14,PF/BT,IRCCS-CROB,BAS,40-49,1,4,5,0,0,0,5,0,Basilicata,ITF5
-2021-01-14,PF/BT,IRCCS-CROB,BAS,50-59,2,2,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-14,PF/BT,IRCCS-CROB,BAS,60-69,1,1,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-14,PF/BT,POD DI LAURIA,BAS,20-29,2,4,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-14,PF/BT,POD DI LAURIA,BAS,30-39,2,4,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-14,PF/BT,POD DI LAURIA,BAS,40-49,3,3,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-14,PF/BT,POLIAMBULATORIO DI SENISE,BAS,20-29,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-14,PF/BT,POLIAMBULATORIO DI SENISE,BAS,40-49,1,1,0,1,1,0,2,0,Basilicata,ITF5
-2021-01-14,PF/BT,POLIAMBULATORIO DI SENISE,BAS,50-59,1,5,1,2,3,0,6,0,Basilicata,ITF5
-2021-01-14,PF/BT,POLIAMBULATORIO DI SENISE,BAS,60-69,1,1,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-14,PF/BT,POLIAMBULATORIO DI SENISE,BAS,70-79,2,5,0,0,7,0,7,0,Basilicata,ITF5
-2021-01-14,PF/BT,POLIAMBULATORIO DI SENISE,BAS,80-89,5,18,0,0,23,0,23,0,Basilicata,ITF5
-2021-01-14,PF/BT,POLIAMBULATORIO DI SENISE,BAS,90+,9,10,0,0,19,0,19,0,Basilicata,ITF5
-2021-01-14,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,20-29,3,5,8,0,0,0,8,0,Basilicata,ITF5
-2021-01-14,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,30-39,3,9,10,2,0,0,12,0,Basilicata,ITF5
-2021-01-14,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,40-49,2,19,19,2,0,0,21,0,Basilicata,ITF5
-2021-01-14,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,50-59,6,31,32,5,0,0,37,0,Basilicata,ITF5
-2021-01-14,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,60-69,28,16,40,0,4,0,44,0,Basilicata,ITF5
-2021-01-14,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,70-79,1,4,0,0,5,0,5,0,Basilicata,ITF5
-2021-01-14,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,80-89,9,8,0,0,17,0,17,0,Basilicata,ITF5
-2021-01-14,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,90+,6,18,0,0,24,0,24,0,Basilicata,ITF5
-2021-01-14,PF/BT,TENDOSTRUTTURA  OSPEDALE   SAN CARLO-AOR SAN CARLO,BAS,20-29,2,5,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-14,PF/BT,TENDOSTRUTTURA  OSPEDALE   SAN CARLO-AOR SAN CARLO,BAS,30-39,8,12,20,0,0,0,20,0,Basilicata,ITF5
-2021-01-14,PF/BT,TENDOSTRUTTURA  OSPEDALE   SAN CARLO-AOR SAN CARLO,BAS,40-49,11,27,38,0,0,0,38,0,Basilicata,ITF5
-2021-01-14,PF/BT,TENDOSTRUTTURA  OSPEDALE   SAN CARLO-AOR SAN CARLO,BAS,50-59,25,46,71,0,0,0,71,0,Basilicata,ITF5
-2021-01-14,PF/BT,TENDOSTRUTTURA  OSPEDALE   SAN CARLO-AOR SAN CARLO,BAS,60-69,17,22,39,0,0,0,39,0,Basilicata,ITF5
-2021-01-14,PF/BT,ufficio igiene Venosa,BAS,20-29,8,1,2,0,7,0,9,0,Basilicata,ITF5
-2021-01-14,PF/BT,ufficio igiene Venosa,BAS,30-39,11,5,9,0,7,0,16,0,Basilicata,ITF5
-2021-01-14,PF/BT,ufficio igiene Venosa,BAS,40-49,12,10,14,0,8,0,22,0,Basilicata,ITF5
-2021-01-14,PF/BT,ufficio igiene Venosa,BAS,50-59,12,2,3,0,11,0,14,0,Basilicata,ITF5
-2021-01-14,PF/BT,ufficio igiene Venosa,BAS,60-69,2,3,2,0,3,0,5,0,Basilicata,ITF5
-2021-01-14,PF/BT,ufficio igiene Venosa,BAS,70-79,2,5,3,0,4,0,7,0,Basilicata,ITF5
-2021-01-14,PF/BT,ufficio igiene Venosa,BAS,80-89,1,15,2,0,14,0,16,0,Basilicata,ITF5
-2021-01-14,PF/BT,ufficio igiene Venosa,BAS,90+,2,5,0,0,7,0,7,0,Basilicata,ITF5
-2021-01-15,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,20-29,10,13,23,0,0,0,23,0,Basilicata,ITF5
-2021-01-15,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,30-39,16,18,34,0,0,0,34,0,Basilicata,ITF5
-2021-01-15,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,40-49,5,10,14,1,0,0,15,0,Basilicata,ITF5
-2021-01-15,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,50-59,8,18,21,5,0,0,26,0,Basilicata,ITF5
-2021-01-15,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,60-69,14,13,22,0,5,0,27,0,Basilicata,ITF5
-2021-01-15,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,70-79,8,1,7,0,2,0,9,0,Basilicata,ITF5
-2021-01-15,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,80-89,7,17,3,0,21,0,24,0,Basilicata,ITF5
-2021-01-15,PF/BT,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,90+,1,9,0,0,10,0,10,0,Basilicata,ITF5
-2021-01-15,PF/BT,Distretto della Salute della Val d'Agri,BAS,20-29,4,4,7,1,0,0,8,0,Basilicata,ITF5
-2021-01-15,PF/BT,Distretto della Salute della Val d'Agri,BAS,30-39,7,4,9,2,0,0,11,0,Basilicata,ITF5
-2021-01-15,PF/BT,Distretto della Salute della Val d'Agri,BAS,40-49,0,6,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-15,PF/BT,Distretto della Salute della Val d'Agri,BAS,50-59,2,3,2,3,0,0,5,0,Basilicata,ITF5
-2021-01-15,PF/BT,Distretto della Salute della Val d'Agri,BAS,60-69,4,1,4,1,0,0,5,0,Basilicata,ITF5
-2021-01-15,PF/BT,Distretto della Salute della Val d'Agri,BAS,70-79,0,1,0,0,1,0,1,0,Basilicata,ITF5
-2021-01-15,PF/BT,Distretto della Salute della Val d'Agri,BAS,80-89,5,4,0,0,9,0,9,0,Basilicata,ITF5
-2021-01-15,PF/BT,Distretto della Salute della Val d'Agri,BAS,90+,3,6,0,0,9,0,9,0,Basilicata,ITF5
-2021-01-15,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,50-59,0,3,0,1,2,0,3,0,Basilicata,ITF5
-2021-01-15,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,60-69,5,4,0,0,9,0,9,0,Basilicata,ITF5
-2021-01-15,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,70-79,10,7,0,0,17,0,17,0,Basilicata,ITF5
-2021-01-15,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,80-89,6,14,0,0,20,0,20,0,Basilicata,ITF5
-2021-01-15,PF/BT,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,90+,4,13,0,0,17,0,17,0,Basilicata,ITF5
-2021-01-15,PF/BT,POD DI LAURIA,BAS,20-29,0,3,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-15,PF/BT,POD DI LAURIA,BAS,30-39,8,6,14,0,0,0,14,0,Basilicata,ITF5
-2021-01-15,PF/BT,POD DI LAURIA,BAS,40-49,3,6,9,0,0,0,9,0,Basilicata,ITF5
-2021-01-15,PF/BT,POD DI LAURIA,BAS,50-59,1,5,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-15,PF/BT,POD DI LAURIA,BAS,60-69,3,1,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-15,PF/BT,POLIAMBULATORIO DI SENISE,BAS,20-29,0,2,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-15,PF/BT,POLIAMBULATORIO DI SENISE,BAS,30-39,0,4,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-15,PF/BT,POLIAMBULATORIO DI SENISE,BAS,40-49,2,4,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-15,PF/BT,POLIAMBULATORIO DI SENISE,BAS,50-59,3,2,5,0,0,0,5,0,Basilicata,ITF5
-2021-01-15,PF/BT,POLIAMBULATORIO DI SENISE,BAS,60-69,1,0,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-15,PF/BT,PRESIDIO OSPEDALIERO DI  VILLA D'AGRI_AOR SAN CARLO,BAS,20-29,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-15,PF/BT,PRESIDIO OSPEDALIERO DI  VILLA D'AGRI_AOR SAN CARLO,BAS,30-39,2,3,5,0,0,0,5,0,Basilicata,ITF5
-2021-01-15,PF/BT,PRESIDIO OSPEDALIERO DI  VILLA D'AGRI_AOR SAN CARLO,BAS,40-49,0,8,8,0,0,0,8,0,Basilicata,ITF5
-2021-01-15,PF/BT,PRESIDIO OSPEDALIERO DI  VILLA D'AGRI_AOR SAN CARLO,BAS,50-59,1,6,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-15,PF/BT,PRESIDIO OSPEDALIERO DI  VILLA D'AGRI_AOR SAN CARLO,BAS,60-69,2,2,4,0,0,0,4,0,Basilicata,ITF5
-2021-01-15,PF/BT,PRESIDIO OSPEDALIERO DI MELFI_AOR SANCARLO,BAS,20-29,2,4,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-15,PF/BT,PRESIDIO OSPEDALIERO DI MELFI_AOR SANCARLO,BAS,30-39,0,5,5,0,0,0,5,0,Basilicata,ITF5
-2021-01-15,PF/BT,PRESIDIO OSPEDALIERO DI MELFI_AOR SANCARLO,BAS,40-49,3,6,9,0,0,0,9,0,Basilicata,ITF5
-2021-01-15,PF/BT,PRESIDIO OSPEDALIERO DI MELFI_AOR SANCARLO,BAS,50-59,2,16,18,0,0,0,18,0,Basilicata,ITF5
-2021-01-15,PF/BT,PRESIDIO OSPEDALIERO DI MELFI_AOR SANCARLO,BAS,60-69,6,6,12,0,0,0,12,0,Basilicata,ITF5
-2021-01-15,PF/BT,PRESIDIO OSPEDALIERO LAGONEGRO _AOR SAN CARLO,BAS,20-29,0,1,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-15,PF/BT,PRESIDIO OSPEDALIERO LAGONEGRO _AOR SAN CARLO,BAS,30-39,2,5,7,0,0,0,7,0,Basilicata,ITF5
-2021-01-15,PF/BT,PRESIDIO OSPEDALIERO LAGONEGRO _AOR SAN CARLO,BAS,40-49,5,9,14,0,0,0,14,0,Basilicata,ITF5
-2021-01-15,PF/BT,PRESIDIO OSPEDALIERO LAGONEGRO _AOR SAN CARLO,BAS,50-59,9,13,22,0,0,0,22,0,Basilicata,ITF5
-2021-01-15,PF/BT,PRESIDIO OSPEDALIERO LAGONEGRO _AOR SAN CARLO,BAS,60-69,3,3,6,0,0,0,6,0,Basilicata,ITF5
-2021-01-15,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,20-29,10,8,12,6,0,0,18,0,Basilicata,ITF5
-2021-01-15,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,30-39,19,26,21,24,0,0,45,0,Basilicata,ITF5
-2021-01-15,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,40-49,10,19,11,18,0,0,29,0,Basilicata,ITF5
-2021-01-15,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,50-59,17,23,29,11,0,0,40,0,Basilicata,ITF5
-2021-01-15,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,60-69,39,19,57,1,0,0,58,0,Basilicata,ITF5
-2021-01-15,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,70-79,6,1,5,0,2,0,7,0,Basilicata,ITF5
-2021-01-15,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,80-89,1,11,0,0,12,0,12,0,Basilicata,ITF5
-2021-01-15,PF/BT,TENDOSTRUTTURA  OSPEDALE  SAN CARLO_AOR SAN CARLO,BAS,20-29,0,3,3,0,0,0,3,0,Basilicata,ITF5
-2021-01-15,PF/BT,TENDOSTRUTTURA  OSPEDALE  SAN CARLO_AOR SAN CARLO,BAS,30-39,4,9,13,0,0,0,13,0,Basilicata,ITF5
-2021-01-15,PF/BT,TENDOSTRUTTURA  OSPEDALE  SAN CARLO_AOR SAN CARLO,BAS,40-49,2,9,11,0,0,0,11,0,Basilicata,ITF5
-2021-01-15,PF/BT,TENDOSTRUTTURA  OSPEDALE  SAN CARLO_AOR SAN CARLO,BAS,50-59,2,18,20,0,0,0,20,0,Basilicata,ITF5
-2021-01-15,PF/BT,TENDOSTRUTTURA  OSPEDALE  SAN CARLO_AOR SAN CARLO,BAS,60-69,6,12,18,0,0,0,18,0,Basilicata,ITF5
-2021-01-15,PF/BT,ufficio igiene di Venosa,BAS,16-19,1,0,0,0,1,0,1,0,Basilicata,ITF5
-2021-01-15,PF/BT,ufficio igiene di Venosa,BAS,20-29,7,1,3,0,5,0,8,0,Basilicata,ITF5
-2021-01-15,PF/BT,ufficio igiene di Venosa,BAS,30-39,10,6,7,0,9,0,16,0,Basilicata,ITF5
-2021-01-15,PF/BT,ufficio igiene di Venosa,BAS,40-49,12,1,5,0,8,0,13,0,Basilicata,ITF5
-2021-01-15,PF/BT,ufficio igiene di Venosa,BAS,50-59,8,2,4,0,6,0,10,0,Basilicata,ITF5
-2021-01-15,PF/BT,ufficio igiene di Venosa,BAS,60-69,5,1,4,0,2,0,6,0,Basilicata,ITF5
-2021-01-16,PF/BT,Distretto della Salute della Val d'Agri,BAS,20-29,2,0,2,0,0,0,2,0,Basilicata,ITF5
-2021-01-16,PF/BT,Distretto della Salute della Val d'Agri,BAS,30-39,2,5,6,1,0,0,7,0,Basilicata,ITF5
-2021-01-16,PF/BT,Distretto della Salute della Val d'Agri,BAS,40-49,1,8,8,1,0,0,9,0,Basilicata,ITF5
-2021-01-16,PF/BT,Distretto della Salute della Val d'Agri,BAS,50-59,0,10,6,4,0,0,10,0,Basilicata,ITF5
-2021-01-16,PF/BT,Distretto della Salute della Val d'Agri,BAS,60-69,0,2,1,1,0,0,2,0,Basilicata,ITF5
-2021-01-16,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,20-29,15,28,42,1,0,0,43,0,Basilicata,ITF5
-2021-01-16,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,30-39,27,29,49,7,0,0,56,0,Basilicata,ITF5
-2021-01-16,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,40-49,24,36,40,20,0,0,60,0,Basilicata,ITF5
-2021-01-16,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,50-59,38,34,33,37,2,0,72,0,Basilicata,ITF5
-2021-01-16,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,60-69,19,16,20,14,1,0,35,0,Basilicata,ITF5
-2021-01-16,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,70-79,9,11,6,0,14,0,20,0,Basilicata,ITF5
-2021-01-16,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,80-89,12,28,2,0,38,0,40,0,Basilicata,ITF5
-2021-01-16,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,90+,6,15,0,0,21,0,21,0,Basilicata,ITF5
-2021-01-17,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,16-19,1,0,1,0,0,0,1,0,Basilicata,ITF5
-2021-01-17,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,20-29,14,14,24,4,0,0,28,0,Basilicata,ITF5
-2021-01-17,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,30-39,14,17,23,8,0,0,31,0,Basilicata,ITF5
-2021-01-17,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,40-49,9,27,10,26,0,0,36,0,Basilicata,ITF5
-2021-01-17,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,50-59,11,26,16,20,1,0,37,0,Basilicata,ITF5
-2021-01-17,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,60-69,19,19,25,12,1,0,38,0,Basilicata,ITF5
-2021-01-17,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,70-79,1,3,2,0,2,0,4,0,Basilicata,ITF5
-2021-01-17,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,80-89,7,3,1,0,9,0,10,0,Basilicata,ITF5
-2021-01-17,PF/BT,Presidio Ospedaliero Matera - RSA,BAS,90+,0,1,0,0,1,0,1,0,Basilicata,ITF5
+TML_DTA_SOMM,TML_VAX_FORNITORE,TML_COD_STRUTTURA,TML_DES_STRUTTURA,TML_AREA,TML_FASCIA_ETA,TML_SESSO_M,TML_SESSO_F,TML_GRAVIDANZA,TML_CAT_OSS,TML_CAT_PERSONALE,TML_CAT_RSA_OSPITI,TML_CAT_ALTRO,TML_DOSE_1,TML_DOSE_2,TML_REGIONE,TML_NUTS
+2020-12-27,PF/BT,12002,AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI,BAS,20-29,0,2,0,2,0,0,0,2,0,Basilicata,ITF5
+2020-12-27,PF/BT,12002,AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI,BAS,30-39,2,4,0,6,0,0,0,6,0,Basilicata,ITF5
+2020-12-27,PF/BT,12002,AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI,BAS,40-49,9,10,0,19,0,0,0,19,0,Basilicata,ITF5
+2020-12-27,PF/BT,12002,AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI,BAS,50-59,10,7,0,17,0,0,0,17,0,Basilicata,ITF5
+2020-12-27,PF/BT,12002,AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI,BAS,60-69,5,6,0,11,0,0,0,11,0,Basilicata,ITF5
+2020-12-27,PF/BT,301,SEDE DECENTRATA-DISTRETTO DI RIOERO IN VULTURE,BAS,20-29,4,4,0,8,0,0,0,8,0,Basilicata,ITF5
+2020-12-27,PF/BT,301,SEDE DECENTRATA-DISTRETTO DI RIOERO IN VULTURE,BAS,30-39,3,10,0,13,0,0,0,13,0,Basilicata,ITF5
+2020-12-27,PF/BT,301,SEDE DECENTRATA-DISTRETTO DI RIOERO IN VULTURE,BAS,40-49,1,9,0,10,0,0,0,10,0,Basilicata,ITF5
+2020-12-27,PF/BT,301,SEDE DECENTRATA-DISTRETTO DI RIOERO IN VULTURE,BAS,50-59,3,5,0,8,0,0,0,8,0,Basilicata,ITF5
+2020-12-27,PF/BT,301,SEDE DECENTRATA-DISTRETTO DI RIOERO IN VULTURE,BAS,60-69,5,4,0,9,0,0,0,9,0,Basilicata,ITF5
+2020-12-27,PF/BT,901,Sala Prelievo  Laboratorio Analisi,BAS,20-29,4,5,0,9,0,0,0,9,0,Basilicata,ITF5
+2020-12-27,PF/BT,901,Sala Prelievo  Laboratorio Analisi,BAS,30-39,9,18,0,27,0,0,0,27,0,Basilicata,ITF5
+2020-12-27,PF/BT,901,Sala Prelievo  Laboratorio Analisi,BAS,40-49,7,23,0,30,0,0,0,30,0,Basilicata,ITF5
+2020-12-27,PF/BT,901,Sala Prelievo  Laboratorio Analisi,BAS,50-59,12,13,0,25,0,0,0,25,0,Basilicata,ITF5
+2020-12-27,PF/BT,901,Sala Prelievo  Laboratorio Analisi,BAS,60-69,9,5,0,14,0,0,0,14,0,Basilicata,ITF5
+2021-01-02,PF/BT,12002,AMBULATORIO TERRITORIALE-DISTRETTO DI VILLA D'AGRI,BAS,20-29,0,2,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-02,PF/BT,12002,AMBULATORIO TERRITORIALE-DISTRETTO DI VILLA D'AGRI,BAS,30-39,2,4,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-02,PF/BT,12002,AMBULATORIO TERRITORIALE-DISTRETTO DI VILLA D'AGRI,BAS,40-49,8,10,0,18,0,0,0,18,0,Basilicata,ITF5
+2021-01-02,PF/BT,12002,AMBULATORIO TERRITORIALE-DISTRETTO DI VILLA D'AGRI,BAS,50-59,10,7,0,17,0,0,0,17,0,Basilicata,ITF5
+2021-01-02,PF/BT,12002,AMBULATORIO TERRITORIALE-DISTRETTO DI VILLA D'AGRI,BAS,60-69,5,6,0,11,0,0,0,11,0,Basilicata,ITF5
+2021-01-02,PF/BT,15003,OSPEDALE DISTRETTUALE DI VENOSA,BAS,20-29,1,6,0,6,0,0,1,7,0,Basilicata,ITF5
+2021-01-02,PF/BT,15003,OSPEDALE DISTRETTUALE DI VENOSA,BAS,30-39,5,1,0,4,0,0,2,6,0,Basilicata,ITF5
+2021-01-02,PF/BT,15003,OSPEDALE DISTRETTUALE DI VENOSA,BAS,40-49,4,7,0,8,0,0,3,11,0,Basilicata,ITF5
+2021-01-02,PF/BT,15003,OSPEDALE DISTRETTUALE DI VENOSA,BAS,50-59,6,16,0,18,0,0,4,22,0,Basilicata,ITF5
+2021-01-02,PF/BT,15003,OSPEDALE DISTRETTUALE DI VENOSA,BAS,60-69,8,4,0,9,0,0,3,12,0,Basilicata,ITF5
+2021-01-02,PF/BT,170011,Presidio Ospedaliero Matera,BAS,20-29,1,4,0,5,0,0,0,5,0,Basilicata,ITF5
+2021-01-02,PF/BT,170011,Presidio Ospedaliero Matera,BAS,30-39,5,8,0,13,0,0,0,13,0,Basilicata,ITF5
+2021-01-02,PF/BT,170011,Presidio Ospedaliero Matera,BAS,40-49,17,22,0,39,0,0,0,39,0,Basilicata,ITF5
+2021-01-02,PF/BT,170011,Presidio Ospedaliero Matera,BAS,50-59,15,22,0,37,0,0,0,37,0,Basilicata,ITF5
+2021-01-02,PF/BT,170011,Presidio Ospedaliero Matera,BAS,60-69,9,4,0,13,0,0,0,13,0,Basilicata,ITF5
+2021-01-02,PF/BT,170036,POD DI LAURIA,BAS,20-29,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-02,PF/BT,170036,POD DI LAURIA,BAS,30-39,4,2,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-02,PF/BT,170036,POD DI LAURIA,BAS,40-49,10,7,0,17,0,0,0,17,0,Basilicata,ITF5
+2021-01-02,PF/BT,170036,POD DI LAURIA,BAS,50-59,9,13,0,22,0,0,0,22,0,Basilicata,ITF5
+2021-01-02,PF/BT,170036,POD DI LAURIA,BAS,60-69,7,7,0,14,0,0,0,14,0,Basilicata,ITF5
+2021-01-02,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,20-29,2,5,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-02,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,30-39,10,6,0,15,0,0,1,16,0,Basilicata,ITF5
+2021-01-02,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,40-49,11,8,0,12,0,0,7,19,0,Basilicata,ITF5
+2021-01-02,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,50-59,10,5,0,12,0,0,3,15,0,Basilicata,ITF5
+2021-01-02,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,60-69,15,6,0,18,0,0,3,21,0,Basilicata,ITF5
+2021-01-02,PF/BT,170-910,IRCCS CROB,BAS,20-29,3,1,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-02,PF/BT,170-910,IRCCS CROB,BAS,30-39,4,17,0,21,0,0,0,21,0,Basilicata,ITF5
+2021-01-02,PF/BT,170-910,IRCCS CROB,BAS,40-49,9,23,0,32,0,0,0,32,0,Basilicata,ITF5
+2021-01-02,PF/BT,170-910,IRCCS CROB,BAS,50-59,13,28,0,41,0,0,0,41,0,Basilicata,ITF5
+2021-01-02,PF/BT,170-910,IRCCS CROB,BAS,60-69,12,10,0,21,1,0,0,22,0,Basilicata,ITF5
+2021-01-02,PF/BT,1801,POLIAMBULATORIO SENISE,BAS,20-29,1,1,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-02,PF/BT,1801,POLIAMBULATORIO SENISE,BAS,30-39,3,4,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-02,PF/BT,1801,POLIAMBULATORIO SENISE,BAS,40-49,7,7,0,10,0,0,4,14,0,Basilicata,ITF5
+2021-01-02,PF/BT,1801,POLIAMBULATORIO SENISE,BAS,50-59,11,10,0,15,0,0,6,21,0,Basilicata,ITF5
+2021-01-02,PF/BT,1801,POLIAMBULATORIO SENISE,BAS,60-69,7,8,0,6,0,0,9,15,0,Basilicata,ITF5
+2021-01-02,PF/BT,1801,POLIAMBULATORIO SENISE,BAS,70-79,1,0,0,0,0,0,1,1,0,Basilicata,ITF5
+2021-01-02,PF/BT,301,SEDE DECENTRATA DISTRETTO DI RIONERO IN VULTURE,BAS,20-29,4,4,0,8,0,0,0,8,0,Basilicata,ITF5
+2021-01-02,PF/BT,301,SEDE DECENTRATA DISTRETTO DI RIONERO IN VULTURE,BAS,30-39,3,10,0,13,0,0,0,13,0,Basilicata,ITF5
+2021-01-02,PF/BT,301,SEDE DECENTRATA DISTRETTO DI RIONERO IN VULTURE,BAS,40-49,1,9,0,10,0,0,0,10,0,Basilicata,ITF5
+2021-01-02,PF/BT,301,SEDE DECENTRATA DISTRETTO DI RIONERO IN VULTURE,BAS,50-59,3,5,0,8,0,0,0,8,0,Basilicata,ITF5
+2021-01-02,PF/BT,301,SEDE DECENTRATA DISTRETTO DI RIONERO IN VULTURE,BAS,60-69,5,4,0,9,0,0,0,9,0,Basilicata,ITF5
+2021-01-02,PF/BT,901,Sala Prelievi Laboratorio Analisi,BAS,20-29,1,23,0,24,0,0,0,24,0,Basilicata,ITF5
+2021-01-02,PF/BT,901,Sala Prelievi Laboratorio Analisi,BAS,30-39,20,41,0,61,0,0,0,61,0,Basilicata,ITF5
+2021-01-02,PF/BT,901,Sala Prelievi Laboratorio Analisi,BAS,40-49,30,69,0,99,0,0,0,99,0,Basilicata,ITF5
+2021-01-02,PF/BT,901,Sala Prelievi Laboratorio Analisi,BAS,50-59,29,59,0,88,0,0,0,88,0,Basilicata,ITF5
+2021-01-02,PF/BT,901,Sala Prelievi Laboratorio Analisi,BAS,60-69,15,13,0,28,0,0,0,28,0,Basilicata,ITF5
+2021-01-03,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,20-29,1,1,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-03,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,30-39,6,5,0,11,0,0,0,11,0,Basilicata,ITF5
+2021-01-03,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,40-49,7,7,0,13,1,0,0,14,0,Basilicata,ITF5
+2021-01-03,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,50-59,4,8,0,12,0,0,0,12,0,Basilicata,ITF5
+2021-01-03,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,60-69,6,3,0,8,1,0,0,9,0,Basilicata,ITF5
+2021-01-03,PF/BT,170011,Presidio Ospedaliero Matera,BAS,20-29,1,6,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-03,PF/BT,170011,Presidio Ospedaliero Matera,BAS,30-39,8,11,0,19,0,0,0,19,0,Basilicata,ITF5
+2021-01-03,PF/BT,170011,Presidio Ospedaliero Matera,BAS,40-49,14,25,0,39,0,0,0,39,0,Basilicata,ITF5
+2021-01-03,PF/BT,170011,Presidio Ospedaliero Matera,BAS,50-59,11,24,0,35,0,0,0,35,0,Basilicata,ITF5
+2021-01-03,PF/BT,170011,Presidio Ospedaliero Matera,BAS,60-69,10,10,0,20,0,0,0,20,0,Basilicata,ITF5
+2021-01-03,PF/BT,170036,POD DI LAURIA,BAS,20-29,0,2,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-03,PF/BT,170036,POD DI LAURIA,BAS,30-39,6,3,0,9,0,0,0,9,0,Basilicata,ITF5
+2021-01-03,PF/BT,170036,POD DI LAURIA,BAS,40-49,8,14,0,22,0,0,0,22,0,Basilicata,ITF5
+2021-01-03,PF/BT,170036,POD DI LAURIA,BAS,50-59,1,9,0,10,0,0,0,10,0,Basilicata,ITF5
+2021-01-03,PF/BT,170036,POD DI LAURIA,BAS,60-69,3,4,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-03,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,20-29,3,5,0,8,0,0,0,8,0,Basilicata,ITF5
+2021-01-03,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,30-39,5,5,0,10,0,0,0,10,0,Basilicata,ITF5
+2021-01-03,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,40-49,15,14,0,29,0,0,0,29,0,Basilicata,ITF5
+2021-01-03,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,50-59,3,6,0,9,0,0,0,9,0,Basilicata,ITF5
+2021-01-03,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,BAS,60-69,5,5,0,10,0,0,0,10,0,Basilicata,ITF5
+2021-01-03,PF/BT,170-910,IRCCS CROB,BAS,20-29,1,2,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-03,PF/BT,170-910,IRCCS CROB,BAS,30-39,9,12,0,21,0,0,0,21,0,Basilicata,ITF5
+2021-01-03,PF/BT,170-910,IRCCS CROB,BAS,40-49,9,20,0,28,1,0,0,29,0,Basilicata,ITF5
+2021-01-03,PF/BT,170-910,IRCCS CROB,BAS,50-59,6,20,0,24,2,0,0,26,0,Basilicata,ITF5
+2021-01-03,PF/BT,170-910,IRCCS CROB,BAS,60-69,6,4,0,9,1,0,0,10,0,Basilicata,ITF5
+2021-01-03,PF/BT,901,Presidio Ospedaliero Villa D'Agri,BAS,20-29,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-03,PF/BT,901,Presidio Ospedaliero Villa D'Agri,BAS,30-39,2,1,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-03,PF/BT,901,Presidio Ospedaliero Villa D'Agri,BAS,40-49,6,15,0,21,0,0,0,21,0,Basilicata,ITF5
+2021-01-03,PF/BT,901,Presidio Ospedaliero Villa D'Agri,BAS,50-59,9,7,0,16,0,0,0,16,0,Basilicata,ITF5
+2021-01-03,PF/BT,901,Presidio Ospedaliero Villa D'Agri,BAS,60-69,3,1,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-03,PF/BT,901,Sala Prelievi Laboratorio Analisi,BAS,20-29,3,15,0,18,0,0,0,18,0,Basilicata,ITF5
+2021-01-03,PF/BT,901,Sala Prelievi Laboratorio Analisi,BAS,30-39,17,33,0,50,0,0,0,50,0,Basilicata,ITF5
+2021-01-03,PF/BT,901,Sala Prelievi Laboratorio Analisi,BAS,40-49,38,59,0,97,0,0,0,97,0,Basilicata,ITF5
+2021-01-03,PF/BT,901,Sala Prelievi Laboratorio Analisi,BAS,50-59,35,64,0,99,0,0,0,99,0,Basilicata,ITF5
+2021-01-03,PF/BT,901,Sala Prelievi Laboratorio Analisi,BAS,60-69,27,14,0,41,0,0,0,41,0,Basilicata,ITF5
+2021-01-04,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,20-29,1,1,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-04,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,30-39,4,4,0,8,0,0,0,8,0,Basilicata,ITF5
+2021-01-04,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,40-49,8,3,0,6,5,0,0,11,0,Basilicata,ITF5
+2021-01-04,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,50-59,8,6,0,12,2,0,0,14,0,Basilicata,ITF5
+2021-01-04,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,60-69,8,5,0,13,0,0,0,13,0,Basilicata,ITF5
+2021-01-04,PF/BT,170011,Presidio Ospedaliero Matera,BAS,20-29,2,4,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-04,PF/BT,170011,Presidio Ospedaliero Matera,BAS,30-39,23,27,0,50,0,0,0,50,0,Basilicata,ITF5
+2021-01-04,PF/BT,170011,Presidio Ospedaliero Matera,BAS,40-49,32,46,0,78,0,0,0,78,0,Basilicata,ITF5
+2021-01-04,PF/BT,170011,Presidio Ospedaliero Matera,BAS,50-59,33,28,0,61,0,0,0,61,0,Basilicata,ITF5
+2021-01-04,PF/BT,170011,Presidio Ospedaliero Matera,BAS,60-69,25,8,0,33,0,0,0,33,0,Basilicata,ITF5
+2021-01-04,PF/BT,170036,POD DI LAURIA,BAS,20-29,1,1,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-04,PF/BT,170036,POD DI LAURIA,BAS,30-39,1,3,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-04,PF/BT,170036,POD DI LAURIA,BAS,40-49,0,7,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-04,PF/BT,170036,POD DI LAURIA,BAS,50-59,5,8,0,13,0,0,0,13,0,Basilicata,ITF5
+2021-01-04,PF/BT,170036,POD DI LAURIA,BAS,60-69,5,4,0,9,0,0,0,9,0,Basilicata,ITF5
+2021-01-04,PF/BT,170036,POD DI LAURIA,BAS,70-79,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-04,PF/BT,170-910,IRCCS CROB,BAS,20-29,0,3,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-04,PF/BT,170-910,IRCCS CROB,BAS,30-39,4,16,0,15,5,0,0,20,0,Basilicata,ITF5
+2021-01-04,PF/BT,170-910,IRCCS CROB,BAS,40-49,6,12,0,6,12,0,0,18,0,Basilicata,ITF5
+2021-01-04,PF/BT,170-910,IRCCS CROB,BAS,50-59,11,20,0,14,17,0,0,31,0,Basilicata,ITF5
+2021-01-04,PF/BT,170-910,IRCCS CROB,BAS,60-69,12,10,0,9,13,0,0,22,0,Basilicata,ITF5
+2021-01-04,PF/BT,170-910,IRCCS CROB,BAS,70-79,1,0,0,0,1,0,0,1,0,Basilicata,ITF5
+2021-01-05,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,20-29,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-05,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,30-39,2,2,0,3,1,0,0,4,0,Basilicata,ITF5
+2021-01-05,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,40-49,6,9,0,5,10,0,0,15,0,Basilicata,ITF5
+2021-01-05,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,50-59,10,8,0,10,8,0,0,18,0,Basilicata,ITF5
+2021-01-05,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,60-69,18,10,0,18,10,0,0,28,0,Basilicata,ITF5
+2021-01-05,PF/BT,170011,Presidio Ospedaliero Matera,BAS,20-29,6,10,0,16,0,0,0,16,0,Basilicata,ITF5
+2021-01-05,PF/BT,170011,Presidio Ospedaliero Matera,BAS,30-39,1,8,0,9,0,0,0,9,0,Basilicata,ITF5
+2021-01-05,PF/BT,170011,Presidio Ospedaliero Matera,BAS,40-49,13,14,0,27,0,0,0,27,0,Basilicata,ITF5
+2021-01-05,PF/BT,170011,Presidio Ospedaliero Matera,BAS,50-59,15,26,0,41,0,0,0,41,0,Basilicata,ITF5
+2021-01-05,PF/BT,170011,Presidio Ospedaliero Matera,BAS,60-69,14,11,0,25,0,0,0,25,0,Basilicata,ITF5
+2021-01-05,PF/BT,170036,POD DI LAURIA,BAS,20-29,0,2,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-05,PF/BT,170036,POD DI LAURIA,BAS,30-39,2,1,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-05,PF/BT,170036,POD DI LAURIA,BAS,40-49,0,6,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-05,PF/BT,170036,POD DI LAURIA,BAS,50-59,3,6,0,9,0,0,0,9,0,Basilicata,ITF5
+2021-01-05,PF/BT,170036,POD DI LAURIA,BAS,60-69,5,2,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO DI MELFI_AOR SAN CARLO,BAS,20-29,1,0,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO DI MELFI_AOR SAN CARLO,BAS,30-39,7,3,0,10,0,0,0,10,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO DI MELFI_AOR SAN CARLO,BAS,40-49,1,11,0,12,0,0,0,12,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO DI MELFI_AOR SAN CARLO,BAS,50-59,2,16,0,18,0,0,0,18,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO DI MELFI_AOR SAN CARLO,BAS,60-69,7,2,0,9,0,0,0,9,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO DI PESCOPAGANO_AOR SAN CARLO,BAS,40-49,5,10,0,15,0,0,0,15,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO DI PESCOPAGANO_AOR SAN CARLO,BAS,50-59,6,11,0,17,0,0,0,17,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO DI PESCOPAGANO_AOR SAN CARLO,BAS,60-69,8,5,0,13,0,0,0,13,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO DI VILLA D'AGRI_AOR SAN CARLO,BAS,20-29,1,1,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO DI VILLA D'AGRI_AOR SAN CARLO,BAS,30-39,0,4,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO DI VILLA D'AGRI_AOR SAN CARLO,BAS,40-49,2,20,0,22,0,0,0,22,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO DI VILLA D'AGRI_AOR SAN CARLO,BAS,50-59,6,9,0,15,0,0,0,15,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO DI VILLA D'AGRI_AOR SAN CARLO,BAS,60-69,3,4,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO LAGONEGRO_AOR SAN CARLO,BAS,20-29,0,2,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO LAGONEGRO_AOR SAN CARLO,BAS,30-39,5,7,0,12,0,0,0,12,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO LAGONEGRO_AOR SAN CARLO,BAS,40-49,5,13,0,18,0,0,0,18,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO LAGONEGRO_AOR SAN CARLO,BAS,50-59,3,10,0,13,0,0,0,13,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,PRESIDIO OSPEDALIERO LAGONEGRO_AOR SAN CARLO,BAS,60-69,2,3,0,5,0,0,0,5,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,TENDOSTRUTTURA OSPEDALE SAN CARLO_AOR SAN CARLO,BAS,20-29,8,13,0,21,0,0,0,21,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,TENDOSTRUTTURA OSPEDALE SAN CARLO_AOR SAN CARLO,BAS,30-39,15,21,0,36,0,0,0,36,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,TENDOSTRUTTURA OSPEDALE SAN CARLO_AOR SAN CARLO,BAS,40-49,29,36,0,65,0,0,0,65,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,TENDOSTRUTTURA OSPEDALE SAN CARLO_AOR SAN CARLO,BAS,50-59,12,33,0,45,0,0,0,45,0,Basilicata,ITF5
+2021-01-05,PF/BT,901,TENDOSTRUTTURA OSPEDALE SAN CARLO_AOR SAN CARLO,BAS,60-69,16,17,0,33,0,0,0,33,0,Basilicata,ITF5
+2021-01-05,PF/BT,STS11,ufficio igiene Venosa,BAS,20-29,2,1,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-05,PF/BT,STS11,ufficio igiene Venosa,BAS,30-39,1,3,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-05,PF/BT,STS11,ufficio igiene Venosa,BAS,40-49,2,5,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-05,PF/BT,STS11,ufficio igiene Venosa,BAS,50-59,0,4,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-05,PF/BT,STS11,ufficio igiene Venosa,BAS,60-69,18,6,0,24,0,0,0,24,0,Basilicata,ITF5
+2021-01-06,PF/BT,170011,Presidio Ospedaliero Matera,BAS,20-29,2,7,0,9,0,0,0,9,0,Basilicata,ITF5
+2021-01-06,PF/BT,170011,Presidio Ospedaliero Matera,BAS,30-39,17,7,0,24,0,0,0,24,0,Basilicata,ITF5
+2021-01-06,PF/BT,170011,Presidio Ospedaliero Matera,BAS,40-49,28,19,0,47,0,0,0,47,0,Basilicata,ITF5
+2021-01-06,PF/BT,170011,Presidio Ospedaliero Matera,BAS,50-59,25,38,0,63,0,0,0,63,0,Basilicata,ITF5
+2021-01-06,PF/BT,170011,Presidio Ospedaliero Matera,BAS,60-69,19,10,0,29,0,0,0,29,0,Basilicata,ITF5
+2021-01-06,PF/BT,170036,POD DI LAURIA,BAS,30-39,0,2,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-06,PF/BT,170036,POD DI LAURIA,BAS,40-49,1,2,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-06,PF/BT,170036,POD DI LAURIA,BAS,50-59,3,7,0,10,0,0,0,10,0,Basilicata,ITF5
+2021-01-06,PF/BT,170036,POD DI LAURIA,BAS,60-69,2,1,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-06,PF/BT,STS11,ufficio igiene Venosa,BAS,20-29,0,2,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-06,PF/BT,STS11,ufficio igiene Venosa,BAS,30-39,0,2,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-06,PF/BT,STS11,ufficio igiene Venosa,BAS,40-49,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-06,PF/BT,STS11,ufficio igiene Venosa,BAS,50-59,2,2,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-06,PF/BT,STS11,ufficio igiene Venosa,BAS,60-69,3,2,0,5,0,0,0,5,0,Basilicata,ITF5
+2021-01-06,PF/BT,STS11,ufficio igiene Venosa,BAS,70-79,1,3,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-06,PF/BT,STS11,ufficio igiene Venosa,BAS,80-89,0,4,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-06,PF/BT,STS11,ufficio igiene Venosa,BAS,90+,1,7,0,8,0,0,0,8,0,Basilicata,ITF5
+2021-01-07,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,20-29,1,0,0,0,1,0,0,1,0,Basilicata,ITF5
+2021-01-07,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,30-39,1,0,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-07,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,40-49,0,2,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-07,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,50-59,1,1,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-07,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,60-69,0,6,0,5,1,0,0,6,0,Basilicata,ITF5
+2021-01-07,PF/BT,170011,Presidio Ospedaliero Matera,BAS,20-29,2,2,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-07,PF/BT,170011,Presidio Ospedaliero Matera,BAS,30-39,9,10,0,19,0,0,0,19,0,Basilicata,ITF5
+2021-01-07,PF/BT,170011,Presidio Ospedaliero Matera,BAS,40-49,20,39,0,59,0,0,0,59,0,Basilicata,ITF5
+2021-01-07,PF/BT,170011,Presidio Ospedaliero Matera,BAS,50-59,30,56,0,86,0,0,0,86,0,Basilicata,ITF5
+2021-01-07,PF/BT,170011,Presidio Ospedaliero Matera,BAS,60-69,26,19,0,45,0,0,0,45,0,Basilicata,ITF5
+2021-01-07,PF/BT,170036,POD DI LAURIA,BAS,20-29,2,1,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-07,PF/BT,170036,POD DI LAURIA,BAS,30-39,6,1,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-07,PF/BT,170036,POD DI LAURIA,BAS,40-49,4,5,0,9,0,0,0,9,0,Basilicata,ITF5
+2021-01-07,PF/BT,170036,POD DI LAURIA,BAS,50-59,4,4,0,8,0,0,0,8,0,Basilicata,ITF5
+2021-01-07,PF/BT,170036,POD DI LAURIA,BAS,60-69,11,3,0,14,0,0,0,14,0,Basilicata,ITF5
+2021-01-07,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,20-29,3,5,0,8,0,0,0,8,0,Basilicata,ITF5
+2021-01-07,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,30-39,6,10,0,16,0,0,0,16,0,Basilicata,ITF5
+2021-01-07,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,40-49,7,11,0,15,3,0,0,18,0,Basilicata,ITF5
+2021-01-07,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,50-59,15,8,0,22,1,0,0,23,0,Basilicata,ITF5
+2021-01-07,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,60-69,30,13,0,43,0,0,0,43,0,Basilicata,ITF5
+2021-01-07,PF/BT,1801,POLIAMBULATORIO DI SENISE,BAS,20-29,3,7,0,10,0,0,0,10,0,Basilicata,ITF5
+2021-01-07,PF/BT,1801,POLIAMBULATORIO DI SENISE,BAS,30-39,1,7,0,8,0,0,0,8,0,Basilicata,ITF5
+2021-01-07,PF/BT,1801,POLIAMBULATORIO DI SENISE,BAS,40-49,9,8,0,17,0,0,0,17,0,Basilicata,ITF5
+2021-01-07,PF/BT,1801,POLIAMBULATORIO DI SENISE,BAS,50-59,6,6,0,11,0,0,1,12,0,Basilicata,ITF5
+2021-01-07,PF/BT,1801,POLIAMBULATORIO DI SENISE,BAS,60-69,8,4,0,12,0,0,0,12,0,Basilicata,ITF5
+2021-01-07,PF/BT,1801,POLIAMBULATORIO DI SENISE,BAS,70-79,1,0,0,0,0,0,1,1,0,Basilicata,ITF5
+2021-01-07,PF/BT,301,SEDE DEC.C DSB RIONERO IN V.,BAS,20-29,0,2,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-07,PF/BT,301,SEDE DEC.C DSB RIONERO IN V.,BAS,30-39,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-07,PF/BT,301,SEDE DEC.C DSB RIONERO IN V.,BAS,40-49,1,6,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-07,PF/BT,301,SEDE DEC.C DSB RIONERO IN V.,BAS,50-59,7,4,0,11,0,0,0,11,0,Basilicata,ITF5
+2021-01-07,PF/BT,301,SEDE DEC.C DSB RIONERO IN V.,BAS,60-69,21,14,0,35,0,0,0,35,0,Basilicata,ITF5
+2021-01-07,PF/BT,901,PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO,BAS,40-49,2,0,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-07,PF/BT,901,PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO,BAS,50-59,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-07,PF/BT,901,PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO,BAS,60-69,1,1,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-07,PF/BT,STS11,ufficio igiene Venosa,BAS,20-29,3,4,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-07,PF/BT,STS11,ufficio igiene Venosa,BAS,30-39,13,7,0,19,0,1,0,20,0,Basilicata,ITF5
+2021-01-07,PF/BT,STS11,ufficio igiene Venosa,BAS,40-49,18,14,0,30,0,2,0,32,0,Basilicata,ITF5
+2021-01-07,PF/BT,STS11,ufficio igiene Venosa,BAS,50-59,28,22,0,49,0,1,0,50,0,Basilicata,ITF5
+2021-01-07,PF/BT,STS11,ufficio igiene Venosa,BAS,60-69,12,5,0,15,0,2,0,17,0,Basilicata,ITF5
+2021-01-07,PF/BT,STS11,ufficio igiene Venosa,BAS,70-79,7,3,0,5,0,5,0,10,0,Basilicata,ITF5
+2021-01-07,PF/BT,STS11,ufficio igiene Venosa,BAS,80-89,5,5,0,0,0,10,0,10,0,Basilicata,ITF5
+2021-01-07,PF/BT,STS11,ufficio igiene Venosa,BAS,90+,1,5,0,0,0,6,0,6,0,Basilicata,ITF5
+2021-01-08,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,20-29,2,1,0,2,1,0,0,3,0,Basilicata,ITF5
+2021-01-08,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,30-39,1,6,0,6,1,0,0,7,0,Basilicata,ITF5
+2021-01-08,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,40-49,3,9,0,4,7,1,0,12,0,Basilicata,ITF5
+2021-01-08,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,50-59,1,7,0,4,3,1,0,8,0,Basilicata,ITF5
+2021-01-08,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,60-69,4,3,0,2,2,3,0,7,0,Basilicata,ITF5
+2021-01-08,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,70-79,3,4,0,0,0,7,0,7,0,Basilicata,ITF5
+2021-01-08,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,80-89,3,13,0,0,0,16,0,16,0,Basilicata,ITF5
+2021-01-08,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,90+,2,9,0,0,0,11,0,11,0,Basilicata,ITF5
+2021-01-08,PF/BT,150221,UNIVERSO SALUTE SRL POTENZA RSA  ANZIANI E DISABILI,BAS,50-59,2,1,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-08,PF/BT,150221,UNIVERSO SALUTE SRL POTENZA RSA  ANZIANI E DISABILI,BAS,60-69,0,3,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-08,PF/BT,170011,Presidio Ospedaliero Matera,BAS,20-29,1,3,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-08,PF/BT,170011,Presidio Ospedaliero Matera,BAS,30-39,7,18,0,25,0,0,0,25,0,Basilicata,ITF5
+2021-01-08,PF/BT,170011,Presidio Ospedaliero Matera,BAS,40-49,15,24,0,39,0,0,0,39,0,Basilicata,ITF5
+2021-01-08,PF/BT,170011,Presidio Ospedaliero Matera,BAS,50-59,15,35,0,50,0,0,0,50,0,Basilicata,ITF5
+2021-01-08,PF/BT,170011,Presidio Ospedaliero Matera,BAS,60-69,24,22,0,46,0,0,0,46,0,Basilicata,ITF5
+2021-01-08,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,20-29,1,1,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-08,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,30-39,6,8,0,13,1,0,0,14,0,Basilicata,ITF5
+2021-01-08,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,40-49,8,4,0,8,4,0,0,12,0,Basilicata,ITF5
+2021-01-08,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,50-59,14,8,0,19,3,0,0,22,0,Basilicata,ITF5
+2021-01-08,PF/BT,170201,ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,BAS,60-69,31,15,0,45,1,0,0,46,0,Basilicata,ITF5
+2021-01-09,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,20-29,1,2,0,2,1,0,0,3,0,Basilicata,ITF5
+2021-01-09,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,30-39,2,2,0,3,1,0,0,4,0,Basilicata,ITF5
+2021-01-09,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,40-49,4,4,0,4,4,0,0,8,0,Basilicata,ITF5
+2021-01-09,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,50-59,2,10,0,10,1,1,0,12,0,Basilicata,ITF5
+2021-01-09,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,60-69,3,6,0,5,1,3,0,9,0,Basilicata,ITF5
+2021-01-09,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,70-79,4,2,0,0,0,6,0,6,0,Basilicata,ITF5
+2021-01-09,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,80-89,9,13,0,0,0,22,0,22,0,Basilicata,ITF5
+2021-01-09,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,90+,3,12,0,0,0,15,0,15,0,Basilicata,ITF5
+2021-01-09,PF/BT,170011,Presidio Ospedaliero Matera,BAS,20-29,2,4,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-09,PF/BT,170011,Presidio Ospedaliero Matera,BAS,30-39,8,18,0,26,0,0,0,26,0,Basilicata,ITF5
+2021-01-09,PF/BT,170011,Presidio Ospedaliero Matera,BAS,40-49,17,25,0,42,0,0,0,42,0,Basilicata,ITF5
+2021-01-09,PF/BT,170011,Presidio Ospedaliero Matera,BAS,50-59,15,38,0,53,0,0,0,53,0,Basilicata,ITF5
+2021-01-09,PF/BT,170011,Presidio Ospedaliero Matera,BAS,60-69,20,23,0,43,0,0,0,43,0,Basilicata,ITF5
+2021-01-09,PF/BT,170036,POD DI LAURIA,BAS,20-29,0,3,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-09,PF/BT,170036,POD DI LAURIA,BAS,30-39,1,12,0,13,0,0,0,13,0,Basilicata,ITF5
+2021-01-09,PF/BT,170036,POD DI LAURIA,BAS,40-49,1,7,0,8,0,0,0,8,0,Basilicata,ITF5
+2021-01-09,PF/BT,170036,POD DI LAURIA,BAS,50-59,3,9,0,12,0,0,0,12,0,Basilicata,ITF5
+2021-01-09,PF/BT,170036,POD DI LAURIA,BAS,60-69,5,1,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-09,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,20-29,0,2,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-09,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,30-39,7,7,0,11,3,0,0,14,0,Basilicata,ITF5
+2021-01-09,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,40-49,7,18,0,24,1,0,0,25,0,Basilicata,ITF5
+2021-01-09,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,50-59,13,12,0,18,7,0,0,25,0,Basilicata,ITF5
+2021-01-09,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,60-69,6,6,0,11,1,0,0,12,0,Basilicata,ITF5
+2021-01-09,PF/BT,170-910,IRCCS CROB,BAS,20-29,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-09,PF/BT,170-910,IRCCS CROB,BAS,30-39,1,6,0,6,1,0,0,7,0,Basilicata,ITF5
+2021-01-09,PF/BT,170-910,IRCCS CROB,BAS,40-49,2,10,0,10,2,0,0,12,0,Basilicata,ITF5
+2021-01-09,PF/BT,170-910,IRCCS CROB,BAS,50-59,3,15,0,16,2,0,0,18,0,Basilicata,ITF5
+2021-01-09,PF/BT,170-910,IRCCS CROB,BAS,60-69,2,5,0,6,1,0,0,7,0,Basilicata,ITF5
+2021-01-09,PF/BT,STS11,ufficio igiene di Venosa,BAS,20-29,1,1,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-09,PF/BT,STS11,ufficio igiene di Venosa,BAS,30-39,3,3,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-09,PF/BT,STS11,ufficio igiene di Venosa,BAS,40-49,2,9,0,8,0,3,0,11,0,Basilicata,ITF5
+2021-01-09,PF/BT,STS11,ufficio igiene di Venosa,BAS,50-59,10,5,0,6,0,9,0,15,0,Basilicata,ITF5
+2021-01-09,PF/BT,STS11,ufficio igiene di Venosa,BAS,60-69,6,5,0,4,0,7,0,11,0,Basilicata,ITF5
+2021-01-09,PF/BT,STS11,ufficio igiene di Venosa,BAS,70-79,0,1,0,0,0,1,0,1,0,Basilicata,ITF5
+2021-01-09,PF/BT,STS11,ufficio igiene di Venosa,BAS,80-89,1,1,0,0,0,2,0,2,0,Basilicata,ITF5
+2021-01-11,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,20-29,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-11,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,30-39,0,2,0,1,1,0,0,2,0,Basilicata,ITF5
+2021-01-11,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,40-49,0,7,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-11,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,50-59,0,5,0,5,0,0,0,5,0,Basilicata,ITF5
+2021-01-11,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,70-79,1,1,0,0,0,2,0,2,0,Basilicata,ITF5
+2021-01-11,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,80-89,5,8,0,0,0,13,0,13,0,Basilicata,ITF5
+2021-01-11,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,90+,1,11,0,0,0,12,0,12,0,Basilicata,ITF5
+2021-01-11,PF/BT,170011,Presidio Ospedaliero Matera,BAS,30-39,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-11,PF/BT,170011,Presidio Ospedaliero Matera,BAS,40-49,0,5,0,5,0,0,0,5,0,Basilicata,ITF5
+2021-01-11,PF/BT,170011,Presidio Ospedaliero Matera,BAS,50-59,2,12,0,14,0,0,0,14,0,Basilicata,ITF5
+2021-01-11,PF/BT,170011,Presidio Ospedaliero Matera,BAS,60-69,4,6,0,10,0,0,0,10,0,Basilicata,ITF5
+2021-01-11,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,20-29,1,0,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-11,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,30-39,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-11,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,50-59,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-11,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,60-69,2,1,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-11,PF/BT,170036,POD DI LAURIA,BAS,30-39,0,2,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-11,PF/BT,170036,POD DI LAURIA,BAS,40-49,0,3,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-11,PF/BT,170036,POD DI LAURIA,BAS,50-59,2,1,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-11,PF/BT,170036,POD DI LAURIA,BAS,60-69,1,3,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-11,PF/BT,170-910,IRCCS CROB,BAS,40-49,2,2,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-11,PF/BT,170-910,IRCCS CROB,BAS,50-59,2,4,0,5,1,0,0,6,0,Basilicata,ITF5
+2021-01-11,PF/BT,1801,POLIAMBULATORIO SENISE,BAS,20-29,1,4,0,0,1,4,0,5,0,Basilicata,ITF5
+2021-01-11,PF/BT,1801,POLIAMBULATORIO SENISE,BAS,30-39,3,2,0,2,0,3,0,5,0,Basilicata,ITF5
+2021-01-11,PF/BT,1801,POLIAMBULATORIO SENISE,BAS,40-49,1,4,0,0,0,5,0,5,0,Basilicata,ITF5
+2021-01-11,PF/BT,1801,POLIAMBULATORIO SENISE,BAS,50-59,3,5,0,0,1,6,1,8,0,Basilicata,ITF5
+2021-01-11,PF/BT,1801,POLIAMBULATORIO SENISE,BAS,60-69,4,3,0,5,0,1,1,7,0,Basilicata,ITF5
+2021-01-11,PF/BT,STS11,ufficio igiene di Venosa,BAS,20-29,3,2,0,1,0,4,0,5,0,Basilicata,ITF5
+2021-01-11,PF/BT,STS11,ufficio igiene di Venosa,BAS,30-39,1,1,0,1,0,1,0,2,0,Basilicata,ITF5
+2021-01-11,PF/BT,STS11,ufficio igiene di Venosa,BAS,40-49,2,2,0,2,0,2,0,4,0,Basilicata,ITF5
+2021-01-11,PF/BT,STS11,ufficio igiene di Venosa,BAS,50-59,3,7,0,6,0,4,0,10,0,Basilicata,ITF5
+2021-01-11,PF/BT,STS11,ufficio igiene di Venosa,BAS,60-69,4,3,0,6,0,1,0,7,0,Basilicata,ITF5
+2021-01-11,PF/BT,STS11,ufficio igiene di Venosa,BAS,80-89,0,1,0,0,0,1,0,1,0,Basilicata,ITF5
+2021-01-11,PF/BT,STS11,ufficio igiene di Venosa,BAS,90+,1,0,0,0,0,1,0,1,0,Basilicata,ITF5
+2021-01-12,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,20-29,0,3,0,1,2,0,0,3,0,Basilicata,ITF5
+2021-01-12,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,30-39,0,6,0,5,1,0,0,6,0,Basilicata,ITF5
+2021-01-12,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,40-49,3,4,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-12,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,50-59,1,1,0,0,2,0,0,2,0,Basilicata,ITF5
+2021-01-12,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,60-69,3,2,0,1,1,3,0,5,0,Basilicata,ITF5
+2021-01-12,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,70-79,2,2,0,0,0,4,0,4,0,Basilicata,ITF5
+2021-01-12,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,80-89,0,9,0,0,0,9,0,9,0,Basilicata,ITF5
+2021-01-12,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,90+,0,6,0,0,0,6,0,6,0,Basilicata,ITF5
+2021-01-12,PF/BT,170011,Presidio Ospedaliero Matera,BAS,30-39,2,5,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-12,PF/BT,170011,Presidio Ospedaliero Matera,BAS,40-49,2,11,0,13,0,0,0,13,0,Basilicata,ITF5
+2021-01-12,PF/BT,170011,Presidio Ospedaliero Matera,BAS,50-59,4,16,0,20,0,0,0,20,0,Basilicata,ITF5
+2021-01-12,PF/BT,170011,Presidio Ospedaliero Matera,BAS,60-69,4,4,0,8,0,0,0,8,0,Basilicata,ITF5
+2021-01-12,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,20-29,4,5,0,8,1,0,0,9,0,Basilicata,ITF5
+2021-01-12,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,30-39,7,3,0,8,2,0,0,10,0,Basilicata,ITF5
+2021-01-12,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,40-49,5,5,0,6,4,0,0,10,0,Basilicata,ITF5
+2021-01-12,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,50-59,7,5,0,10,1,1,0,12,0,Basilicata,ITF5
+2021-01-12,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,60-69,8,1,0,5,0,4,0,9,0,Basilicata,ITF5
+2021-01-12,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,70-79,2,4,0,0,0,6,0,6,0,Basilicata,ITF5
+2021-01-12,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,80-89,5,12,0,0,0,17,0,17,0,Basilicata,ITF5
+2021-01-12,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,90+,1,10,0,0,0,11,0,11,0,Basilicata,ITF5
+2021-01-12,PF/BT,1801,POLIAMBULATORIO SENISE,BAS,20-29,3,5,0,8,0,0,0,8,0,Basilicata,ITF5
+2021-01-12,PF/BT,1801,POLIAMBULATORIO SENISE,BAS,30-39,1,1,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-12,PF/BT,1801,POLIAMBULATORIO SENISE,BAS,40-49,2,3,0,4,0,0,1,5,0,Basilicata,ITF5
+2021-01-12,PF/BT,1801,POLIAMBULATORIO SENISE,BAS,50-59,3,5,0,7,0,0,1,8,0,Basilicata,ITF5
+2021-01-12,PF/BT,1801,POLIAMBULATORIO SENISE,BAS,60-69,4,3,0,6,0,0,1,7,0,Basilicata,ITF5
+2021-01-12,PF/BT,STS11,ufficio igiene Venosa,BAS,30-39,6,1,0,3,0,4,0,7,0,Basilicata,ITF5
+2021-01-12,PF/BT,STS11,ufficio igiene Venosa,BAS,40-49,5,0,0,2,0,3,0,5,0,Basilicata,ITF5
+2021-01-12,PF/BT,STS11,ufficio igiene Venosa,BAS,50-59,4,1,0,0,0,5,0,5,0,Basilicata,ITF5
+2021-01-12,PF/BT,STS11,ufficio igiene Venosa,BAS,60-69,1,0,0,0,0,1,0,1,0,Basilicata,ITF5
+2021-01-13,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,20-29,0,2,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-13,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,30-39,1,1,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-13,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,40-49,1,7,0,6,2,0,0,8,0,Basilicata,ITF5
+2021-01-13,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,50-59,2,8,0,6,4,0,0,10,0,Basilicata,ITF5
+2021-01-13,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,60-69,1,4,0,0,4,1,0,5,0,Basilicata,ITF5
+2021-01-13,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,80-89,3,1,0,0,0,4,0,4,0,Basilicata,ITF5
+2021-01-13,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,90+,0,4,0,0,0,4,0,4,0,Basilicata,ITF5
+2021-01-13,PF/BT,170011,Presidio Ospedaliero Matera,BAS,20-29,6,6,0,0,0,0,12,12,0,Basilicata,ITF5
+2021-01-13,PF/BT,170011,Presidio Ospedaliero Matera,BAS,30-39,10,4,0,6,0,0,8,14,0,Basilicata,ITF5
+2021-01-13,PF/BT,170011,Presidio Ospedaliero Matera,BAS,40-49,11,9,0,17,0,0,3,20,0,Basilicata,ITF5
+2021-01-13,PF/BT,170011,Presidio Ospedaliero Matera,BAS,50-59,14,12,0,22,0,3,1,26,0,Basilicata,ITF5
+2021-01-13,PF/BT,170011,Presidio Ospedaliero Matera,BAS,60-69,36,22,0,51,0,3,4,58,0,Basilicata,ITF5
+2021-01-13,PF/BT,170011,Presidio Ospedaliero Matera,BAS,70-79,5,5,0,0,0,10,0,10,0,Basilicata,ITF5
+2021-01-13,PF/BT,170011,Presidio Ospedaliero Matera,BAS,80-89,4,4,0,0,0,8,0,8,0,Basilicata,ITF5
+2021-01-13,PF/BT,170011,Presidio Ospedaliero Matera,BAS,90+,2,6,0,0,0,8,0,8,0,Basilicata,ITF5
+2021-01-13,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,70-79,0,1,0,0,0,1,0,1,0,Basilicata,ITF5
+2021-01-13,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,80-89,2,8,0,0,0,10,0,10,0,Basilicata,ITF5
+2021-01-13,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,90+,1,12,0,0,0,13,0,13,0,Basilicata,ITF5
+2021-01-13,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,20-29,2,5,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-13,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,30-39,9,9,0,18,0,0,0,18,0,Basilicata,ITF5
+2021-01-13,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,40-49,5,14,0,19,0,0,0,19,0,Basilicata,ITF5
+2021-01-13,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,50-59,7,11,0,14,2,2,0,18,0,Basilicata,ITF5
+2021-01-13,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,60-69,34,12,0,40,2,4,0,46,0,Basilicata,ITF5
+2021-01-13,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,70-79,14,9,0,11,0,12,0,23,0,Basilicata,ITF5
+2021-01-13,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,80-89,7,8,0,1,0,14,0,15,0,Basilicata,ITF5
+2021-01-13,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,90+,5,7,0,0,0,12,0,12,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI LAGONEGRO-AOR SAN CARLO,BAS,20-29,0,3,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI LAGONEGRO-AOR SAN CARLO,BAS,30-39,1,5,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI LAGONEGRO-AOR SAN CARLO,BAS,40-49,2,19,0,21,0,0,0,21,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI LAGONEGRO-AOR SAN CARLO,BAS,50-59,5,18,0,23,0,0,0,23,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI LAGONEGRO-AOR SAN CARLO,BAS,60-69,2,9,0,11,0,0,0,11,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI LAGONEGRO-AOR SAN CARLO,BAS,70-79,1,0,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI MELFI-AOR SAN CARLO,BAS,20-29,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI MELFI-AOR SAN CARLO,BAS,30-39,3,12,0,15,0,0,0,15,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI MELFI-AOR SAN CARLO,BAS,40-49,3,11,0,14,0,0,0,14,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI MELFI-AOR SAN CARLO,BAS,50-59,4,6,0,10,0,0,0,10,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI MELFI-AOR SAN CARLO,BAS,60-69,5,5,0,10,0,0,0,10,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO,BAS,30-39,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO,BAS,50-59,2,0,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO,BAS,60-69,1,1,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI VILLA D'AGRI-AOR SAN CARLO,BAS,20-29,1,0,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI VILLA D'AGRI-AOR SAN CARLO,BAS,30-39,4,16,0,20,0,0,0,20,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI VILLA D'AGRI-AOR SAN CARLO,BAS,40-49,4,17,0,21,0,0,0,21,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI VILLA D'AGRI-AOR SAN CARLO,BAS,50-59,10,15,0,25,0,0,0,25,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,PRESIDIO OSPEDALIERO DI VILLA D'AGRI-AOR SAN CARLO,BAS,60-69,5,8,0,13,0,0,0,13,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,TENDOSTRUTTURA OSPEDALE SAN CARLO -AOR SAN CARLO,BAS,20-29,1,5,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,TENDOSTRUTTURA OSPEDALE SAN CARLO -AOR SAN CARLO,BAS,30-39,15,24,0,39,0,0,0,39,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,TENDOSTRUTTURA OSPEDALE SAN CARLO -AOR SAN CARLO,BAS,40-49,33,42,0,75,0,0,0,75,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,TENDOSTRUTTURA OSPEDALE SAN CARLO -AOR SAN CARLO,BAS,50-59,31,60,0,91,0,0,0,91,0,Basilicata,ITF5
+2021-01-13,PF/BT,901,TENDOSTRUTTURA OSPEDALE SAN CARLO -AOR SAN CARLO,BAS,60-69,17,12,0,29,0,0,0,29,0,Basilicata,ITF5
+2021-01-13,PF/BT,STS11,ufficio igiene di Venosa,BAS,20-29,2,1,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-13,PF/BT,STS11,ufficio igiene di Venosa,BAS,30-39,0,2,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-13,PF/BT,STS11,ufficio igiene di Venosa,BAS,50-59,2,1,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-13,PF/BT,STS11,ufficio igiene di Venosa,BAS,60-69,2,1,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-13,PF/BT,STS11,ufficio igiene di Venosa,BAS,70-79,1,0,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-14,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,20-29,2,5,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-14,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,30-39,7,14,0,12,7,2,0,21,0,Basilicata,ITF5
+2021-01-14,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,40-49,5,17,0,11,6,5,0,22,0,Basilicata,ITF5
+2021-01-14,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,50-59,10,14,0,7,5,12,0,24,0,Basilicata,ITF5
+2021-01-14,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,60-69,5,5,0,4,0,6,0,10,0,Basilicata,ITF5
+2021-01-14,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,20-29,3,5,0,8,0,0,0,8,0,Basilicata,ITF5
+2021-01-14,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,30-39,3,9,0,10,2,0,0,12,0,Basilicata,ITF5
+2021-01-14,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,40-49,2,19,0,19,2,0,0,21,0,Basilicata,ITF5
+2021-01-14,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,50-59,6,31,0,32,5,0,0,37,0,Basilicata,ITF5
+2021-01-14,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,60-69,28,16,0,40,0,4,0,44,0,Basilicata,ITF5
+2021-01-14,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,70-79,1,4,0,0,0,5,0,5,0,Basilicata,ITF5
+2021-01-14,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,80-89,9,8,0,0,0,17,0,17,0,Basilicata,ITF5
+2021-01-14,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,90+,6,18,0,0,0,24,0,24,0,Basilicata,ITF5
+2021-01-14,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,50-59,1,1,0,0,1,1,0,2,0,Basilicata,ITF5
+2021-01-14,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,60-69,3,0,0,0,0,3,0,3,0,Basilicata,ITF5
+2021-01-14,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,70-79,4,3,0,0,0,7,0,7,0,Basilicata,ITF5
+2021-01-14,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,80-89,13,20,0,0,0,33,0,33,0,Basilicata,ITF5
+2021-01-14,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,90+,5,10,0,0,0,15,0,15,0,Basilicata,ITF5
+2021-01-14,PF/BT,170036,POD DI LAURIA,BAS,20-29,2,4,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-14,PF/BT,170036,POD DI LAURIA,BAS,30-39,2,4,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-14,PF/BT,170036,POD DI LAURIA,BAS,40-49,3,3,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-14,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,20-29,8,6,0,14,0,0,0,14,0,Basilicata,ITF5
+2021-01-14,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,30-39,7,6,0,12,1,0,0,13,0,Basilicata,ITF5
+2021-01-14,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,40-49,2,6,0,8,0,0,0,8,0,Basilicata,ITF5
+2021-01-14,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,50-59,8,5,0,11,2,0,0,13,0,Basilicata,ITF5
+2021-01-14,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,60-69,25,11,0,36,0,0,0,36,0,Basilicata,ITF5
+2021-01-14,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,70-79,14,2,0,16,0,0,0,16,0,Basilicata,ITF5
+2021-01-14,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,80-89,1,0,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-14,PF/BT,170201 001801,POLIAMBULATORIO DI SENISE,BAS,20-29,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-14,PF/BT,170201 001801,POLIAMBULATORIO DI SENISE,BAS,40-49,1,1,0,0,1,1,0,2,0,Basilicata,ITF5
+2021-01-14,PF/BT,170201 001801,POLIAMBULATORIO DI SENISE,BAS,50-59,1,5,0,1,2,3,0,6,0,Basilicata,ITF5
+2021-01-14,PF/BT,170201 001801,POLIAMBULATORIO DI SENISE,BAS,60-69,1,1,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-14,PF/BT,170201 001801,POLIAMBULATORIO DI SENISE,BAS,70-79,2,5,0,0,0,7,0,7,0,Basilicata,ITF5
+2021-01-14,PF/BT,170201 001801,POLIAMBULATORIO DI SENISE,BAS,80-89,5,18,0,0,0,23,0,23,0,Basilicata,ITF5
+2021-01-14,PF/BT,170201 001801,POLIAMBULATORIO DI SENISE,BAS,90+,9,10,0,0,0,19,0,19,0,Basilicata,ITF5
+2021-01-14,PF/BT,170-910,IRCCS-CROB,BAS,30-39,1,2,0,2,1,0,0,3,0,Basilicata,ITF5
+2021-01-14,PF/BT,170-910,IRCCS-CROB,BAS,40-49,1,4,0,5,0,0,0,5,0,Basilicata,ITF5
+2021-01-14,PF/BT,170-910,IRCCS-CROB,BAS,50-59,2,2,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-14,PF/BT,170-910,IRCCS-CROB,BAS,60-69,1,1,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-14,PF/BT,901,TENDOSTRUTTURA  OSPEDALE   SAN CARLO-AOR SAN CARLO,BAS,20-29,2,5,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-14,PF/BT,901,TENDOSTRUTTURA  OSPEDALE   SAN CARLO-AOR SAN CARLO,BAS,30-39,8,12,0,20,0,0,0,20,0,Basilicata,ITF5
+2021-01-14,PF/BT,901,TENDOSTRUTTURA  OSPEDALE   SAN CARLO-AOR SAN CARLO,BAS,40-49,11,27,0,38,0,0,0,38,0,Basilicata,ITF5
+2021-01-14,PF/BT,901,TENDOSTRUTTURA  OSPEDALE   SAN CARLO-AOR SAN CARLO,BAS,50-59,25,46,0,71,0,0,0,71,0,Basilicata,ITF5
+2021-01-14,PF/BT,901,TENDOSTRUTTURA  OSPEDALE   SAN CARLO-AOR SAN CARLO,BAS,60-69,17,22,0,39,0,0,0,39,0,Basilicata,ITF5
+2021-01-14,PF/BT,STS11,ufficio igiene Venosa,BAS,20-29,8,1,0,2,0,7,0,9,0,Basilicata,ITF5
+2021-01-14,PF/BT,STS11,ufficio igiene Venosa,BAS,30-39,11,5,0,9,0,7,0,16,0,Basilicata,ITF5
+2021-01-14,PF/BT,STS11,ufficio igiene Venosa,BAS,40-49,12,10,0,14,0,8,0,22,0,Basilicata,ITF5
+2021-01-14,PF/BT,STS11,ufficio igiene Venosa,BAS,50-59,12,2,0,3,0,11,0,14,0,Basilicata,ITF5
+2021-01-14,PF/BT,STS11,ufficio igiene Venosa,BAS,60-69,2,3,0,2,0,3,0,5,0,Basilicata,ITF5
+2021-01-14,PF/BT,STS11,ufficio igiene Venosa,BAS,70-79,2,5,0,3,0,4,0,7,0,Basilicata,ITF5
+2021-01-14,PF/BT,STS11,ufficio igiene Venosa,BAS,80-89,1,15,0,2,0,14,0,16,0,Basilicata,ITF5
+2021-01-14,PF/BT,STS11,ufficio igiene Venosa,BAS,90+,2,5,0,0,0,7,0,7,0,Basilicata,ITF5
+2021-01-15,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,20-29,4,4,0,7,1,0,0,8,0,Basilicata,ITF5
+2021-01-15,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,30-39,7,4,0,9,2,0,0,11,0,Basilicata,ITF5
+2021-01-15,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,40-49,0,6,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-15,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,50-59,2,3,0,2,3,0,0,5,0,Basilicata,ITF5
+2021-01-15,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,60-69,4,1,0,4,1,0,0,5,0,Basilicata,ITF5
+2021-01-15,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,70-79,0,1,0,0,0,1,0,1,0,Basilicata,ITF5
+2021-01-15,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,80-89,5,4,0,0,0,9,0,9,0,Basilicata,ITF5
+2021-01-15,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,90+,3,6,0,0,0,9,0,9,0,Basilicata,ITF5
+2021-01-15,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,20-29,10,8,0,12,6,0,0,18,0,Basilicata,ITF5
+2021-01-15,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,30-39,19,26,0,21,24,0,0,45,0,Basilicata,ITF5
+2021-01-15,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,40-49,10,19,0,11,18,0,0,29,0,Basilicata,ITF5
+2021-01-15,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,50-59,17,23,0,29,11,0,0,40,0,Basilicata,ITF5
+2021-01-15,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,60-69,39,19,0,57,1,0,0,58,0,Basilicata,ITF5
+2021-01-15,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,70-79,6,1,0,5,0,2,0,7,0,Basilicata,ITF5
+2021-01-15,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,80-89,1,11,0,0,0,12,0,12,0,Basilicata,ITF5
+2021-01-15,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,50-59,0,3,0,0,1,2,0,3,0,Basilicata,ITF5
+2021-01-15,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,60-69,5,4,0,0,0,9,0,9,0,Basilicata,ITF5
+2021-01-15,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,70-79,10,7,0,0,0,17,0,17,0,Basilicata,ITF5
+2021-01-15,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,80-89,6,14,0,0,0,20,0,20,0,Basilicata,ITF5
+2021-01-15,PF/BT,170018,DISTRETTO SANITARIO DI RIONERO IN V.RE,BAS,90+,4,13,0,0,0,17,0,17,0,Basilicata,ITF5
+2021-01-15,PF/BT,170036,POD DI LAURIA,BAS,20-29,0,3,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-15,PF/BT,170036,POD DI LAURIA,BAS,30-39,8,6,0,14,0,0,0,14,0,Basilicata,ITF5
+2021-01-15,PF/BT,170036,POD DI LAURIA,BAS,40-49,3,6,0,9,0,0,0,9,0,Basilicata,ITF5
+2021-01-15,PF/BT,170036,POD DI LAURIA,BAS,50-59,1,5,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-15,PF/BT,170036,POD DI LAURIA,BAS,60-69,3,1,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-15,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,20-29,10,13,0,23,0,0,0,23,0,Basilicata,ITF5
+2021-01-15,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,30-39,16,18,0,34,0,0,0,34,0,Basilicata,ITF5
+2021-01-15,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,40-49,5,10,0,14,1,0,0,15,0,Basilicata,ITF5
+2021-01-15,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,50-59,8,18,0,21,5,0,0,26,0,Basilicata,ITF5
+2021-01-15,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,60-69,14,13,0,22,0,5,0,27,0,Basilicata,ITF5
+2021-01-15,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,70-79,8,1,0,7,0,2,0,9,0,Basilicata,ITF5
+2021-01-15,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,80-89,7,17,0,3,0,21,0,24,0,Basilicata,ITF5
+2021-01-15,PF/BT,170201,"ASP - Servizio Igiene Epidemiologia e Sanità Pubblica, via della Fisica 18 A/B di Potenza",BAS,90+,1,9,0,0,0,10,0,10,0,Basilicata,ITF5
+2021-01-15,PF/BT,170201 001801,POLIAMBULATORIO DI SENISE,BAS,20-29,0,2,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-15,PF/BT,170201 001801,POLIAMBULATORIO DI SENISE,BAS,30-39,0,4,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-15,PF/BT,170201 001801,POLIAMBULATORIO DI SENISE,BAS,40-49,2,4,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-15,PF/BT,170201 001801,POLIAMBULATORIO DI SENISE,BAS,50-59,3,2,0,5,0,0,0,5,0,Basilicata,ITF5
+2021-01-15,PF/BT,170201 001801,POLIAMBULATORIO DI SENISE,BAS,60-69,1,0,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,PRESIDIO OSPEDALIERO DI  VILLA D'AGRI_AOR SAN CARLO,BAS,20-29,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,PRESIDIO OSPEDALIERO DI  VILLA D'AGRI_AOR SAN CARLO,BAS,30-39,2,3,0,5,0,0,0,5,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,PRESIDIO OSPEDALIERO DI  VILLA D'AGRI_AOR SAN CARLO,BAS,40-49,0,8,0,8,0,0,0,8,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,PRESIDIO OSPEDALIERO DI  VILLA D'AGRI_AOR SAN CARLO,BAS,50-59,1,6,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,PRESIDIO OSPEDALIERO DI  VILLA D'AGRI_AOR SAN CARLO,BAS,60-69,2,2,0,4,0,0,0,4,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,PRESIDIO OSPEDALIERO DI MELFI_AOR SANCARLO,BAS,20-29,2,4,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,PRESIDIO OSPEDALIERO DI MELFI_AOR SANCARLO,BAS,30-39,0,5,0,5,0,0,0,5,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,PRESIDIO OSPEDALIERO DI MELFI_AOR SANCARLO,BAS,40-49,3,6,0,9,0,0,0,9,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,PRESIDIO OSPEDALIERO DI MELFI_AOR SANCARLO,BAS,50-59,2,16,0,18,0,0,0,18,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,PRESIDIO OSPEDALIERO DI MELFI_AOR SANCARLO,BAS,60-69,6,6,0,12,0,0,0,12,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,PRESIDIO OSPEDALIERO LAGONEGRO _AOR SAN CARLO,BAS,20-29,0,1,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,PRESIDIO OSPEDALIERO LAGONEGRO _AOR SAN CARLO,BAS,30-39,2,5,0,7,0,0,0,7,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,PRESIDIO OSPEDALIERO LAGONEGRO _AOR SAN CARLO,BAS,40-49,5,9,0,14,0,0,0,14,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,PRESIDIO OSPEDALIERO LAGONEGRO _AOR SAN CARLO,BAS,50-59,9,13,0,22,0,0,0,22,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,PRESIDIO OSPEDALIERO LAGONEGRO _AOR SAN CARLO,BAS,60-69,3,3,0,6,0,0,0,6,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,TENDOSTRUTTURA  OSPEDALE  SAN CARLO_AOR SAN CARLO,BAS,20-29,0,3,0,3,0,0,0,3,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,TENDOSTRUTTURA  OSPEDALE  SAN CARLO_AOR SAN CARLO,BAS,30-39,4,9,0,13,0,0,0,13,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,TENDOSTRUTTURA  OSPEDALE  SAN CARLO_AOR SAN CARLO,BAS,40-49,2,9,0,11,0,0,0,11,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,TENDOSTRUTTURA  OSPEDALE  SAN CARLO_AOR SAN CARLO,BAS,50-59,2,18,0,20,0,0,0,20,0,Basilicata,ITF5
+2021-01-15,PF/BT,901,TENDOSTRUTTURA  OSPEDALE  SAN CARLO_AOR SAN CARLO,BAS,60-69,6,12,0,18,0,0,0,18,0,Basilicata,ITF5
+2021-01-15,PF/BT,STS11,ufficio igiene di Venosa,BAS,16-19,1,0,0,0,0,1,0,1,0,Basilicata,ITF5
+2021-01-15,PF/BT,STS11,ufficio igiene di Venosa,BAS,20-29,7,1,0,3,0,5,0,8,0,Basilicata,ITF5
+2021-01-15,PF/BT,STS11,ufficio igiene di Venosa,BAS,30-39,10,6,0,7,0,9,0,16,0,Basilicata,ITF5
+2021-01-15,PF/BT,STS11,ufficio igiene di Venosa,BAS,40-49,12,1,0,5,0,8,0,13,0,Basilicata,ITF5
+2021-01-15,PF/BT,STS11,ufficio igiene di Venosa,BAS,50-59,8,2,0,4,0,6,0,10,0,Basilicata,ITF5
+2021-01-15,PF/BT,STS11,ufficio igiene di Venosa,BAS,60-69,5,1,0,4,0,2,0,6,0,Basilicata,ITF5
+2021-01-16,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,20-29,2,0,0,2,0,0,0,2,0,Basilicata,ITF5
+2021-01-16,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,30-39,2,5,0,6,1,0,0,7,0,Basilicata,ITF5
+2021-01-16,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,40-49,1,8,0,8,1,0,0,9,0,Basilicata,ITF5
+2021-01-16,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,50-59,0,10,0,6,4,0,0,10,0,Basilicata,ITF5
+2021-01-16,PF/BT,12002,Distretto della Salute della Val d'Agri,BAS,60-69,0,2,0,1,1,0,0,2,0,Basilicata,ITF5
+2021-01-16,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,20-29,15,28,0,42,1,0,0,43,0,Basilicata,ITF5
+2021-01-16,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,30-39,27,29,0,49,7,0,0,56,0,Basilicata,ITF5
+2021-01-16,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,40-49,24,36,0,40,20,0,0,60,0,Basilicata,ITF5
+2021-01-16,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,50-59,38,34,0,33,37,2,0,72,0,Basilicata,ITF5
+2021-01-16,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,60-69,19,16,0,20,14,1,0,35,0,Basilicata,ITF5
+2021-01-16,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,70-79,9,11,0,6,0,14,0,20,0,Basilicata,ITF5
+2021-01-16,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,80-89,12,28,0,2,0,38,0,40,0,Basilicata,ITF5
+2021-01-16,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,90+,6,15,0,0,0,21,0,21,0,Basilicata,ITF5
+2021-01-17,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,16-19,1,0,0,1,0,0,0,1,0,Basilicata,ITF5
+2021-01-17,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,20-29,14,14,0,24,4,0,0,28,0,Basilicata,ITF5
+2021-01-17,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,30-39,14,17,0,23,8,0,0,31,0,Basilicata,ITF5
+2021-01-17,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,40-49,9,27,0,10,26,0,0,36,0,Basilicata,ITF5
+2021-01-17,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,50-59,11,26,0,16,20,1,0,37,0,Basilicata,ITF5
+2021-01-17,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,60-69,19,19,0,25,12,1,0,38,0,Basilicata,ITF5
+2021-01-17,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,70-79,1,3,0,2,0,2,0,4,0,Basilicata,ITF5
+2021-01-17,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,80-89,7,3,0,1,0,9,0,10,0,Basilicata,ITF5
+2021-01-17,PF/BT,170011,Presidio Ospedaliero Matera - RSA,BAS,90+,0,1,0,0,0,1,0,1,0,Basilicata,ITF5
