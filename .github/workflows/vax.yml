@@ -28,6 +28,7 @@ jobs:
         run: |
           git config --global user.name 'Salvatore Larosa'
           git config --global user.email 'slarosa@users.noreply.github.com'
+          git config --global core.autocrlf false
           git add -A
           git diff-index --quiet HEAD || git commit -am "Update VAX data on `date +'%Y-%m-%d %H:%M:%S'`"
           git push
