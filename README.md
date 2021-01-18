@@ -62,7 +62,7 @@ Format of CSV file (separator is comma and encoding is UTF-8)
 | TML_CAT_OSS        | Social health worker category  | integer                        | 5                              |
 | TML_CAT_PERSONALE  | Medical personnel category     | integer                        | 0                              |
 | TML_CAT_RSA_OSPITI | Nursing homes category         | integer                        | 0                              |
-| TML_CAT_ALTRO      | Other                          | integer                        | 0                              |
+| TML_CAT_ALTRO      | Other categories               | integer                        | 0                              |
 | TML_DOSE_1         | First dose of vaccine          | integer                        | 5                              |
 | TML_DOSE_2         | Booster dose of vaccine        | integer                        | 0                              |
 | TML_REGIONE        | Name of Region                 | string                         | Abruzzo                        |
