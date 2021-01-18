@@ -188,7 +188,7 @@ def main():
         all_files = glob.glob(sys.argv[1] + "/*.csv")
         dfs = []
         for filename in all_files:
-            if not os.path.basename(filename).startswith("vax_"):
+            if not os.path.basename(filename).startswith(("vax_", "summary_")):
                 df_area = pd.read_csv(filename, index_col=None, header=0)
                 dfs.append(df_area)
         df_total = pd.concat(dfs, axis=0, ignore_index=True)
