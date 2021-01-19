@@ -4,8 +4,11 @@
 <!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=slarosa.vax)-->
 
 
+## News
+:warning: Starting from 19 January 2021 the data is no longer updated as the dashboard has been turned off
 
-# Vax data
+# Vax data (Last update: 2021-01-18 22:12:06)
+
 This repository contains the unofficial data scraped from the dashboard of the [government
 page](https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTBkMWM4MTUyYTg0IiwidCI6ImFmZDBhNzVjLTg2NzEtNGNjZS05MDYxLTJjYTBkOTJlNDIyZiIsImMiOjh9&fbclid=IwAR0xF1jrq3kDmC0Emy3bDC5sikCEQxdMYbGr0ZfqYxNuQC7jKaGVHmHD5nk). 
 

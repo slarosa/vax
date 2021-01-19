@@ -24,6 +24,10 @@ jobs:
         run: |
           mkdir -p data
           python get_vax_data.py data/
+      #- name: Update datetime string
+      #  run: |
+      #    chmod +x ./last_refresh.sh
+      #    ./last_refresh.sh
       - name: Commit changes
         run: |
           git config --global user.name 'Salvatore Larosa'
