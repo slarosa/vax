@@ -5,7 +5,9 @@
 
 
 ## News
-:warning: Starting from 19 January 2021 the data is no longer updated as the dashboard has been turned off
+:warning: Starting from 19 January 2021 the data is no longer updated as the dashboard has been turned off.
+
+:o: New dashboard is available [here](https://www.governo.it/it/cscovid19/report-vaccini/).
 
 # Vax data (Last update: 2021-01-18 22:12:06)
 
