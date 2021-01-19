@@ -1,7 +1,7 @@
 [![license](https://img.shields.io/github/license/slarosa/vax.svg)](https://github.com/slarosa/vax/blob/main/LICENSE.md)
 ![vax](https://github.com/slarosa/vax/workflows/vax-github-actions/badge.svg)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=slarosa.vax)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
+<!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=slarosa.vax)-->
 
 
 
@@ -46,6 +46,7 @@ page](https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTB
  | | |-vax_total.csv
  | | |-summary_vax_total.csv
  | | |-summary_vax_total_latest.csv
+ | | |-summary_vax_total_today.csv
 ```
 
 # Dataset
@@ -69,6 +70,30 @@ Format of CSV file (separator is comma and encoding is UTF-8)
 | TML_TOT_SOMM       | Total somministrations         | integer                        | 5                              |
 | TML_REGIONE        | Name of Region                 | string                         | Abruzzo                        |
 | TML_NUTS           | NUTS code level 2              | string                         | ITF1                           |
+
+
+There are others CSV files which conatin the aggregate data from ```vax_total.csv```:
+* ```summary_vax_total.csv``` (grouping by date)
+* ```summary_vax_total_latest.csv``` (grouping by yesterday date)
+* ```summary_vax_total_today.csv``` (grouping by today date)
+
+The aggregate CSV files have the following structure.
+
+| Field              | Description                    | Format                         | Example                        |
+|--------------------|--------------------------------|--------------------------------|--------------------------------|
+| TML_DTA_SOMM       | Somministration date           | date (YYYY-MM-DD)              | 2020-12-27                     |
+| TML_REGIONE        | Name of Region                 | string                         | Abruzzo                        |
+| TML_NUTS           | NUTS code level 2              | string                         | ITF1                           |
+| TML_SESSO_M        | Male sex                       | integer                        | 1                              |
+| TML_SESSO_F        | Female sex                     | integer                        | 4                              |
+| TML_GRAVIDANZA     | Pregnant women                 | integer                        | 0                              |
+| TML_CAT_OSS        | Social health worker category  | integer                        | 5                              |
+| TML_CAT_PERSONALE  | Medical personnel category     | integer                        | 0                              |
+| TML_CAT_RSA_OSPITI | Nursing homes category         | integer                        | 0                              |
+| TML_CAT_ALTRO      | Other categories               | integer                        | 0                              |
+| TML_DOSE_1         | First dose of vaccine          | integer                        | 5                              |
+| TML_DOSE_2         | Booster dose of vaccine        | integer                        | 0                              |
+| TML_TOT_SOMM       | Total somministrations         | integer                        | 5                              |
 
 
 # Note
