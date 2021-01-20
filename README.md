@@ -77,10 +77,10 @@ Format of CSV file (separator is comma and encoding is UTF-8)
 | TML_NUTS           | NUTS code level 2              | string                         | ITF1                           |
 
 
-There are others CSV files which conatin the aggregate data from ```vax_total.csv```:
-* ```summary_vax_total.csv``` (grouping by date)
-* ```summary_vax_total_latest.csv``` (grouping by yesterday date)
-* ```summary_vax_total_today.csv``` (grouping by today date)
+There are others CSV files which conatin the aggregate data from [```vax_total.csv```](data/vax_total.csv):
+* [```summary_vax_total.csv```](data/summary_vax_total.csv) (grouping by date)
+* [```summary_vax_total_latest.csv```](data/summary_vax_total_latest.csv) (grouping by yesterday date)
+* [```summary_vax_total_today.csv```](data/summary_vax_total_today.csv) (grouping by today date)
 
 The aggregate CSV files have the following structure.
 
