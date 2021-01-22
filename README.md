@@ -1,5 +1,6 @@
 [![license](https://img.shields.io/github/license/slarosa/vax.svg)](https://github.com/slarosa/vax/blob/main/LICENSE.md)
 ![vax](https://github.com/slarosa/vax/workflows/vax-github-actions/badge.svg)
+[![GitHub commit](https://img.shields.io/github/last-commit/slarosa/vax)](https://github.com/slarosa/vax/commits/main)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
 <!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=slarosa.vax)-->
 
